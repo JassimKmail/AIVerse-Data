@@ -1,110 +1,242 @@
-{
-  "websites": {
-    "site001": { "name": "ChatGPT", "url": "https://chatgpt.com/?locale=ar-EG", "description": "des", "hide_classes": ["global-nav", "footer"] },
-    "site002": { "name": "Claude AI", "url": "https://claude.ai", "description": "des", "hide_classes": ["claude-footer", "nav-sidebar"] },
-    "site003": { "name": "Google Gemini", "url": "https://gemini.google.com/?hl=ar", "description": "des", "hide_classes": ["gb_Sd", "footer-content"] },
-    "site004": { "name": "Perplexity AI", "url": "https://www.perplexity.ai/?lang=ar", "description": "des", "hide_classes": ["side-nav", "footer"] },
-    "site005": { "name": "Midjourney", "url": "https://www.midjourney.com", "description": "des", "hide_classes": ["home-footer", "top-bar"] },
-    "site006": { "name": "Canva Magic Studio", "url": "https://www.canva.com/ar_eg/", "description": "des", "hide_classes": ["main-header", "footer-container"] },
-    "site007": { "name": "RunwayML", "url": "https://runwayml.com", "description": "des", "hide_classes": ["site-footer", "navbar"] },
-    "site008": { "name": "ElevenLabs", "url": "https://elevenlabs.io/?from=ar", "description": "des", "hide_classes": ["footer-section", "nav-wrapper"] },
-    "site009": { "name": "v0 by Vercel", "url": "https://v0.dev", "description": "des", "hide_classes": ["v0-header", "v0-footer"] },
-    "site010": { "name": "Hugging Face", "url": "https://huggingface.co", "description": "des", "hide_classes": ["global-header", "footer"] },
-    "site011": { "name": "DeepL Translator", "url": "https://www.deepl.com/ar/translator", "description": "des", "hide_classes": ["dl_footer", "dl_header"] },
-    "site012": { "name": "Pika Labs", "url": "https://pika.art", "description": "des", "hide_classes": ["pika-footer", "sidebar"] },
-    "site013": { "name": "Leonardo AI", "url": "https://leonardo.ai", "description": "des", "hide_classes": ["leo-footer", "top-nav"] },
-    "site014": { "name": "Synthesia", "url": "https://www.synthesia.io", "description": "des", "hide_classes": ["footer-links", "main-menu"] },
-    "site015": { "name": "Jasper AI", "url": "https://www.jasper.ai", "description": "des", "hide_classes": ["jasper-footer", "nav-container"] },
-    "site016": { "name": "Copy.ai", "url": "https://www.copy.ai", "description": "des", "hide_classes": ["site-footer", "header-nav"] },
-    "site017": { "name": "Writesonic", "url": "https://writesonic.com", "description": "des", "hide_classes": ["ws-footer", "ws-header"] },
-    "site018": { "name": "Grammarly Go", "url": "https://www.grammarly.com", "description": "des", "hide_classes": ["g-footer", "g-header"] },
-    "site019": { "name": "QuillBot", "url": "https://quillbot.com", "description": "des", "hide_classes": ["qb-footer", "qb-header"] },
-    "site020": { "name": "Phind", "url": "https://www.phind.com", "description": "des", "hide_classes": ["phind-footer", "phind-sidebar"] },
-    "site021": { "name": "Cursor AI", "url": "https://www.cursor.com", "description": "des", "hide_classes": ["cursor-footer", "nav-bar"] },
-    "site022": { "name": "Blackbox AI", "url": "https://www.blackbox.ai", "description": "des", "hide_classes": ["bb-footer", "bb-header"] },
-    "site023": { "name": "GitHub Copilot", "url": "https://github.com", "description": "des", "hide_classes": ["footer", "header-logged-out"] },
-    "site024": { "name": "Replit Agent", "url": "https://replit.com", "description": "des", "hide_classes": ["root-footer", "sidebar-layout"] },
-    "site025": { "name": "Codeium", "url": "https://codeium.com", "description": "des", "hide_classes": ["cd-footer", "cd-header"] },
-    "site026": { "name": "Tabnine", "url": "https://www.tabnine.com", "description": "des", "hide_classes": ["tn-footer", "tn-header"] },
-    "site027": { "name": "Stable Diffusion Web", "url": "https://stablediffusionweb.com", "description": "des", "hide_classes": ["sd-footer", "sd-nav"] },
-    "site028": { "name": "DALL-E 3 (Labs)", "url": "https://labs.openai.com", "description": "des", "hide_classes": ["labs-footer", "labs-header"] },
-    "site029": { "name": "Adobe Firefly", "url": "https://firefly.adobe.com/ar/", "description": "des", "hide_classes": ["adobe-footer", "gnav"] },
-    "site030": { "name": "Playground AI", "url": "https://playground.com", "description": "des", "hide_classes": ["pg-footer", "pg-header"] },
-    "site031": { "name": "Lexica Art", "url": "https://lexica.art", "description": "des", "hide_classes": ["lexica-footer", "nav-menu"] },
-    "site032": { "name": "SeaArt AI", "url": "https://www.seaart.ai/ar", "description": "des", "hide_classes": ["sea-footer", "sea-header"] },
-    "site033": { "name": "Fotor AI", "url": "https://www.fotor.com/ar/", "description": "des", "hide_classes": ["f-footer", "f-header"] },
-    "site034": { "name": "Cutout.pro", "url": "https://www.cutout.pro", "description": "des", "hide_classes": ["cutout-footer", "cutout-header"] },
-    "site035": { "name": "Remini Web", "url": "https://remini.ai", "description": "des", "hide_classes": ["rem-footer", "rem-header"] },
-    "site036": { "name": "Veed.io AI", "url": "https://www.veed.io", "description": "des", "hide_classes": ["veed-footer", "veed-header"] },
-    "site037": { "name": "HeyGen", "url": "https://www.heygen.com", "description": "des", "hide_classes": ["hg-footer", "hg-header"] },
-    "site038": { "name": "D-ID", "url": "https://www.d-id.com", "description": "des", "hide_classes": ["did-footer", "did-header"] },
-    "site039": { "name": "InVideo AI", "url": "https://invideo.io", "description": "des", "hide_classes": ["iv-footer", "iv-header"] },
-    "site040": { "name": "CapCut Web", "url": "https://www.capcut.com/ar-EG/", "description": "des", "hide_classes": ["cc-footer", "cc-header"] },
-    "site041": { "name": "Suno AI", "url": "https://suno.com", "description": "des", "hide_classes": ["suno-footer", "sidebar-nav"] },
-    "site042": { "name": "Udio Music", "url": "https://www.udio.com", "description": "des", "hide_classes": ["udio-footer", "udio-header"] },
-    "site043": { "name": "Murf.ai", "url": "https://murf.ai", "description": "des", "hide_classes": ["murf-footer", "murf-header"] },
-    "site044": { "name": "Play.ht", "url": "https://play.ht", "description": "des", "hide_classes": ["play-footer", "play-header"] },
-    "site045": { "name": "Speechify", "url": "https://speechify.com", "description": "des", "hide_classes": ["sp-footer", "sp-header"] },
-    "site046": { "name": "Luma Dream Machine", "url": "https://lumalabs.ai/dream-machine", "description": "des", "hide_classes": ["luma-footer", "luma-header"] },
-    "site047": { "name": "Kling AI", "url": "https://klingai.com", "description": "des", "hide_classes": ["kling-footer", "kling-header"] },
-    "site048": { "name": "Sora (OpenAI)", "url": "https://openai.com/sora", "description": "des", "hide_classes": ["sora-footer", "sora-header"] },
-    "site049": { "name": "Gamma App", "url": "https://gamma.app/?lng=ar", "description": "des", "hide_classes": ["gamma-footer", "gamma-header"] },
-    "site050": { "name": "Tome AI", "url": "https://tome.app", "description": "des", "hide_classes": ["tome-footer", "tome-header"] },
-    "site051": { "name": "Beautiful.ai", "url": "https://www.beautiful.ai", "description": "des", "hide_classes": ["bt-footer", "bt-header"] },
-    "site052": { "name": "Notion AI", "url": "https://www.notion.so/ar-ar", "description": "des", "hide_classes": ["notion-footer", "notion-topbar"] },
-    "site053": { "name": "Otter.ai", "url": "https://otter.ai", "description": "des", "hide_classes": ["otter-footer", "otter-header"] },
-    "site054": { "name": "Fireflies.ai", "url": "https://fireflies.ai", "description": "des", "hide_classes": ["ff-footer", "ff-header"] },
-    "site055": { "name": "ChatPDF", "url": "https://www.chatpdf.com", "description": "des", "hide_classes": ["pdf-footer", "pdf-header"] },
-    "site056": { "name": "Humata AI", "url": "https://www.humata.ai", "description": "des", "hide_classes": ["humata-footer", "humata-header"] },
-    "site057": { "name": "Consensus AI", "url": "https://consensus.app", "description": "des", "hide_classes": ["cs-footer", "cs-header"] },
-    "site058": { "name": "Elicit AI", "url": "https://elicit.com", "description": "des", "hide_classes": ["elicit-footer", "elicit-header"] },
-    "site059": { "name": "SciSpace", "url": "https://typeset.io", "description": "des", "hide_classes": ["ts-footer", "ts-header"] },
-    "site060": { "name": "Character.ai", "url": "https://character.ai", "description": "des", "hide_classes": ["ch-footer", "ch-sidebar"] },
-    "site061": { "name": "Replika", "url": "https://replika.com", "description": "des", "hide_classes": ["rep-footer", "rep-header"] },
-    "site062": { "name": "Pi AI", "url": "https://pi.ai", "description": "des", "hide_classes": ["pi-footer", "pi-header"] },
-    "site063": { "name": "You.com", "url": "https://you.com", "description": "des", "hide_classes": ["you-footer", "you-header"] },
-    "site064": { "name": "Brave Leo", "url": "https://brave.com/leo", "description": "des", "hide_classes": ["br-footer", "br-header"] },
-    "site065": { "name": "DuckDuckGo AI", "url": "https://duckduckgo.com/?q=DuckDuckGo+AI-Chat", "description": "des", "hide_classes": ["ddg-footer", "ddg-header"] },
-    "site066": { "name": "Poe by Quora", "url": "https://poe.com", "description": "des", "hide_classes": ["poe-footer", "poe-sidebar"] },
-    "site067": { "name": "Anakin.ai", "url": "https://anakin.ai", "description": "des", "hide_classes": ["an-footer", "an-header"] },
-    "site068": { "name": "Flowise", "url": "https://flowiseai.com", "description": "des", "hide_classes": ["fw-footer", "fw-header"] },
-    "site069": { "name": "LangChain", "url": "https://www.langchain.com", "description": "des", "hide_classes": ["lc-footer", "lc-header"] },
-    "site070": { "name": "AutoGPT", "url": "https://autogpt.net", "description": "des", "hide_classes": ["ag-footer", "ag-header"] },
-    "site071": { "name": "BabyAGI", "url": "https://github.com/yoheinakajima/babyagi", "description": "des", "hide_classes": ["gh-footer", "gh-header"] },
-    "site072": { "name": "Superhuman", "url": "https://superhuman.com", "description": "des", "hide_classes": ["sh-footer", "sh-header"] },
-    "site073": { "name": "Lavender AI", "url": "https://www.lavender.ai", "description": "des", "hide_classes": ["lv-footer", "lv-header"] },
-    "site074": { "name": "HubSpot AI", "url": "https://www.hubspot.com/ar", "description": "des", "hide_classes": ["hs-footer", "hs-header"] },
-    "site075": { "name": "Salesforce Einstein", "url": "https://www.salesforce.com", "description": "des", "hide_classes": ["sf-footer", "sf-header"] },
-    "site076": { "name": "Glean AI", "url": "https://www.glean.com", "description": "des", "hide_classes": ["gl-footer", "gl-header"] },
-    "site077": { "name": "Descript", "url": "https://www.descript.com", "description": "des", "hide_classes": ["ds-footer", "ds-header"] },
-    "site078": { "name": "Podcastle", "url": "https://podcastle.ai", "description": "des", "hide_classes": ["pc-footer", "pc-header"] },
-    "site079": { "name": "Cleanvoice AI", "url": "https://cleanvoice.ai", "description": "des", "hide_classes": ["cv-footer", "cv-header"] },
-    "site080": { "name": "Krisp AI", "url": "https://krisp.ai", "description": "des", "hide_classes": ["kr-footer", "kr-header"] },
-    "site081": { "name": "Looka", "url": "https://looka.com", "description": "des", "hide_classes": ["lk-footer", "lk-header"] },
-    "site082": { "name": "Brandmark", "url": "https://brandmark.io", "description": "des", "hide_classes": ["bm-footer", "bm-header"] },
-    "site083": { "name": "Midjourney Prompt Helper", "url": "https://promptfolder.com", "description": "des", "hide_classes": ["pf-footer", "pf-header"] },
-    "site084": { "name": "PromptHero", "url": "https://prompthero.com", "description": "des", "hide_classes": ["ph-footer", "ph-header"] },
-    "site085": { "name": "Civitai", "url": "https://civitai.com", "description": "des", "hide_classes": ["civ-footer", "civ-header"] },
-    "site086": { "name": "Tensor.art", "url": "https://tensor.art", "description": "des", "hide_classes": ["ts-footer", "ts-header"] },
-    "site087": { "name": "NightCafe Creator", "url": "https://creator.nightcafe.studio", "description": "des", "hide_classes": ["nc-footer", "nc-header"] },
-    "site088": { "name": "Artbreeder", "url": "https://www.artbreeder.com", "description": "des", "hide_classes": ["ab-footer", "ab-header"] },
-    "site089": { "name": "DeepArt", "url": "https://deepart.io", "description": "des", "hide_classes": ["da-footer", "da-header"] },
-    "site090": { "name": "Runway Gen-3", "url": "https://runwayml.com/blog/introducing-gen-3-alpha", "description": "des", "hide_classes": ["rw-footer", "rw-header"] },
-    "site091": { "name": "Kaiber AI", "url": "https://kaiber.ai", "description": "des", "hide_classes": ["kb-footer", "kb-header"] },
-    "site092": { "name": "Plask AI", "url": "https://plask.ai", "description": "des", "hide_classes": ["pk-footer", "pk-header"] },
-    "site093": { "name": "Leap AI", "url": "https://www.tryleap.ai", "description": "des", "hide_classes": ["lp-footer", "lp-header"] },
-    "site094": { "name": "Mubert", "url": "https://mubert.com", "description": "des", "hide_classes": ["mb-footer", "mb-header"] },
-    "site095": { "name": "Soundraw", "url": "https://soundraw.io", "description": "des", "hide_classes": ["sr-footer", "sr-header"] },
-    "site096": { "name": "AIVA", "url": "https://www.aiva.ai", "description": "des", "hide_classes": ["av-footer", "av-header"] },
-    "site097": { "name": "Beatoven.ai", "url": "https://www.beatoven.ai", "description": "des", "hide_classes": ["bo-footer", "bo-header"] },
-    "site098": { "name": "Lovo.ai", "url": "https://lovo.ai", "description": "des", "hide_classes": ["lv-footer", "lv-header"] },
-    "site099": { "name": "Resemble AI", "url": "https://www.resemble.ai", "description": "des", "hide_classes": ["ra-footer", "ra-header"] },
-    "site100": { "name": "Voice.ai", "url": "https://voice.ai", "description": "des", "hide_classes": ["va-footer", "va-header"] }
+[
+  {
+    "name": "ChatGPT",
+    "description": "الرائد في المحادثة الذكية وتوليد النصوص، الإجابة على الأسئلة، وتحليل البيانات.",
+    "url": "https://chatgpt.com",
+    "hide_classes": ["chat-sidebar", "nav-buttons"]
   },
-  "ad_config": {
-    "show_banner": true,
-    "show_interstitial": true,
-    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111", 
-    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712"
+  {
+    "name": "Claude AI",
+    "description": "ممتاز في الكتابة الإبداعية والتحليل العميق للنصوص الطويلة وفهم ملفات PDF المعقدة.",
+    "url": "https://claude.ai",
+    "hide_classes": []
+  },
+  {
+    "name": "Google Gemini",
+    "description": "مساعد جوجل الذكي المتكامل مع خدمات البحث ويتميز بدعم قوي جداً للغة العربية.",
+    "url": "https://gemini.google.com",
+    "hide_classes": ["gb_Hd"]
+  },
+  {
+    "name": "Perplexity AI",
+    "description": "محرك بحث ذكي يقدم إجابات مباشرة ومختصرة مع ذكر المصادر والمراجع بدقة.",
+    "url": "https://www.perplexity.ai",
+    "hide_classes": []
+  },
+  {
+    "name": "Midjourney",
+    "description": "الأقوى عالمياً في توليد الصور الفنية واللوحات الرقمية فائقة الواقعية من النصوص.",
+    "url": "https://www.midjourney.com",
+    "hide_classes": []
+  },
+  {
+    "name": "DALL-E 3",
+    "description": "أداة OpenAI المدمجة لفهم النصوص بدقة وتوليد صور وتصاميم مميزة تعبر عنها.",
+    "url": "https://openai.com/dall-e-3",
+    "hide_classes": []
+  },
+  {
+    "name": "Stable Diffusion",
+    "description": "محرك توليد صور مفتوح المصدر يمنح المصممين تحكماً كاملاً بالتفاصيل والأبعاد.",
+    "url": "https://stability.ai",
+    "hide_classes": []
+  },
+  {
+    "name": "Leonardo AI",
+    "description": "منصة ممتازة لتوليد صور الألعاب، الشخصيات، والتصاميم ثلاثية الأبعاد باحترافية.",
+    "url": "https://leonardo.ai",
+    "hide_classes": []
+  },
+  {
+    "name": "Adobe Firefly",
+    "description": "أداة أدوبي التوليدية لتعديل الصور وتوليد العناصر بشكل آمن تجارياً ومتوافق مع فوتوشوب.",
+    "url": "https://firefly.adobe.com",
+    "hide_classes": []
+  },
+  {
+    "name": "v0 by Vercel",
+    "description": "إنشاء واجهات مستخدم مذهلة (UI) لأكواد التفاعل بضغطة زر بناءً على وصفك.",
+    "url": "https://v0.dev",
+    "hide_classes": ["v0-footer"]
+  },
+  {
+    "name": "GitHub Copilot",
+    "description": "المساعد البرمجي الأشهر للمطورين لإكمال الأكواد واقتراح الدوال البرمجية الذكية.",
+    "url": "https://github.com/features/copilot",
+    "hide_classes": []
+  },
+  {
+    "name": "Cursor",
+    "description": "محرر أكواد متكامل مبني بالذكاء الاصطناعي لتطوير المشاريع البرمجية بسرعة فائقة.",
+    "url": "https://www.cursor.com",
+    "hide_classes": []
+  },
+  {
+    "name": "Replit Agent",
+    "description": "بيئة برمجية ذكية تقوم ببناء تطبيقات كاملة من الصفر بمجرد شرح الفكرة لها.",
+    "url": "https://replit.com",
+    "hide_classes": []
+  },
+  {
+    "name": "Sora by OpenAI",
+    "description": "نموذج توليد مقاطع فيديو واقعية سينمائية تصل إلى دقيقة كاملة من النص.",
+    "url": "https://openai.com/sora",
+    "hide_classes": []
+  },
+  {
+    "name": "Runway Gen-3",
+    "description": "أداة رائدة في تحريك الصور وتوليد مقاطع الفيديو والمؤثرات البصرية للمصممين.",
+    "url": "https://runwayml.com",
+    "hide_classes": []
+  },
+  {
+    "name": "Pika Labs",
+    "description": "منصة سهلة ومميزة لتحريك الرسوم والكارتون وتوليد الفيديوهات القصيرة.",
+    "url": "https://pika.art",
+    "hide_classes": []
+  },
+  {
+    "name": "HeyGen",
+    "description": "توليد متحدثين افتراضيين (Avatars) واقعيين لتقديم الشروحات والإعلانات بدقة عالية.",
+    "url": "https://www.heygen.com",
+    "hide_classes": []
+  },
+  {
+    "name": "ElevenLabs",
+    "description": "الأفضل عالمياً في تحويل النصوص إلى صوت بشري طبيعي جداً وتوليف ونبرات الصوت.",
+    "url": "https://elevenlabs.io",
+    "hide_classes": []
+  },
+  {
+    "name": "Suno AI",
+    "description": "توليد أغاني ومقاطع موسيقية كاملة الكلمات والألحان بمجرد اختيار النمط.",
+    "url": "https://suno.com",
+    "hide_classes": []
+  },
+  {
+    "name": "Udio",
+    "description": "منصة متطورة لإنشاء المقطوعات الموسيقية والأناشيد بجودة استوديو احترافية.",
+    "url": "https://www.udio.com",
+    "hide_classes": []
+  },
+  {
+    "name": "Gamma App",
+    "description": "إنشاء عروض تقديمية (PowerPoint) ومواقع ويب كاملة التنسيق في ثوانٍ معدودة.",
+    "url": "https://gamma.app",
+    "hide_classes": []
+  },
+  {
+    "name": "Canva Magic Studio",
+    "description": "مجموعة أدوات ذكية داخل كانفا لتعديل التصاميم، إزالة الخلفيات، وتوليد النصوص.",
+    "url": "https://www.canva.com",
+    "hide_classes": []
+  },
+  {
+    "name": "Phind",
+    "description": "محرك بحث مخصص للمبرمجين لشرح الحلول وحل مشاكل برمجية معقدة بالدليل.",
+    "url": "https://www.phind.com",
+    "hide_classes": []
+  },
+  {
+    "name": "Beautiful.ai",
+    "description": "مصمم عروض تقديمية ذكي يقوم بضبط أحجام الخطوط والصور تلقائياً أثناء كتابتك.",
+    "url": "https://www.beautiful.ai",
+    "hide_classes": []
+  },
+  {
+    "name": "Remove.bg",
+    "description": "أداة سريعة ومتخصصة في إزالة خلفيات الصور بدقة فائقة وبكبسة زر واحدة.",
+    "url": "https://www.remove.bg",
+    "hide_classes": []
+  },
+  {
+    "name": "Upscayl",
+    "description": "أداة لزيادة دقة وحجم الصور الضعيفة وتوضيح معالمها بالاعتماد على الذكاء الاصطناعي.",
+    "url": "https://www.upscayl.org",
+    "hide_classes": []
+  },
+  {
+    "name": "Clipdrop",
+    "description": "مجموعة أدوات من الاستوديو الذكي لتعديل الإضاءة، إزالة العناصر، وتكبير خلفيات الصور.",
+    "url": "https://clipdrop.co",
+    "hide_classes": []
+  },
+  {
+    "name": "Jasper AI",
+    "description": "منصة متكاملة لكتابة المقالات الإعلانية، محتوى التسويق، والرسائل البريدية الاحترافية.",
+    "url": "https://www.jasper.ai",
+    "hide_classes": []
+  },
+  {
+    "name": "Copy.ai",
+    "description": "توليد أفكار تسويقية وكتابة منشورات مواقع التواصل الاجتماعي لزيادة المبيعات.",
+    "url": "https://www.copy.ai",
+    "hide_classes": []
+  },
+  {
+    "name": "QuillBot",
+    "description": "أداة ذكية لإعادة صياغة النصوص والتحقق من القواعد الإملائية والسرقة الأدبية.",
+    "url": "https://quillbot.com",
+    "hide_classes": []
+  },
+  {
+    "name": "DeepL Translate",
+    "description": "المترجم الأكثر دقة عالمياً، يفهم سياق الجمل ويقدم ترجمة طبيعية وممتازة.",
+    "url": "https://www.deepl.com",
+    "hide_classes": []
+  },
+  {
+    "name": "Synthesia",
+    "description": "تحويل النصوص المكتوبة إلى فيديوهات تدريبية وتعليمية بواسطة شخصيات ذكاء اصطناعي.",
+    "url": "https://www.synthesia.io",
+    "hide_classes": []
+  },
+  {
+    "name": "Luma Dream Machine",
+    "description": "محرك سريع لتوليد لقطات فيديو ثلاثية الأبعاد فائقة الحركة والواقعية الفيزيائية.",
+    "url": "https://lumalabs.ai/dream-machine",
+    "hide_classes": []
+  },
+  {
+    "name": "VoiceMod",
+    "description": "تغيير نبرة الصوت في الوقت الحقيقي أثناء الألعاب أو البث المباشر والمحادثات.",
+    "url": "https://www.voicemod.net",
+    "hide_classes": []
+  },
+  {
+    "name": "Otter.ai",
+    "description": "مساعد ذكي للاجتماعات، يقوم بكتابة وتلخيص الملاحظات الصوتية والاجتماعات تلقائياً.",
+    "url": "https://otter.ai",
+    "hide_classes": []
+  },
+  {
+    "name": "ChatPDF",
+    "description": "تطبيق يتيح لك رفع أي ملف PDF والمحادثة معه واستخراج الخلاصة والأسئلة منه.",
+    "url": "https://www.chatpdf.com",
+    "hide_classes": []
+  },
+  {
+    "name": "Consensus",
+    "description": "محرك بحث يعتمد على الأبحاث والدراسات العلمية المحكّمة للإجابة على التساؤلات الطبية والتقنية.",
+    "url": "https://consensus.app",
+    "hide_classes": []
+  },
+  {
+    "name": "Tome AI",
+    "description": "بناء قصص تفاعلية وعروض تقديمية مدعمة بالصور التوليدية بشكل منسق وجذاب.",
+    "url": "https://tome.app",
+    "hide_classes": []
+  },
+  {
+    "name": "Humata AI",
+    "description": "مسرّع قراءة الملفات القانونية والتقنية الطويلة عبر محرك بحث واستجواب داخلي مخصص.",
+    "url": "https://www.humata.ai",
+    "hide_classes": []
+  },
+  {
+    "name": "Blackbox AI",
+    "description": "امتداد ذكي للبحث عن الأكواد البرمجية وتحويل الشروحات النصية إلى كود جاهز فوراً.",
+    "url": "https://www.blackbox.ai",
+    "hide_classes": []
   }
-}
+]
