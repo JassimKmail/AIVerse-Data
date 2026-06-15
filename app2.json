@@ -1,242 +1,257 @@
-[
-  {
-    "name": "ChatGPT",
-    "description": "الرائد في المحادثة الذكية وتوليد النصوص، الإجابة على الأسئلة، وتحليل البيانات.",
-    "url": "https://chatgpt.com",
-    "hide_classes": ["chat-sidebar", "nav-buttons"]
+{
+  "admob_config": {
+    "show_banner_ads": true,
+    "show_interstitial_ads": true,
+    "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
   },
-  {
-    "name": "Claude AI",
-    "description": "ممتاز في الكتابة الإبداعية والتحليل العميق للنصوص الطويلة وفهم ملفات PDF المعقدة.",
-    "url": "https://claude.ai",
-    "hide_classes": []
-  },
-  {
-    "name": "Google Gemini",
-    "description": "مساعد جوجل الذكي المتكامل مع خدمات البحث ويتميز بدعم قوي جداً للغة العربية.",
-    "url": "https://gemini.google.com",
-    "hide_classes": ["gb_Hd"]
-  },
-  {
-    "name": "Perplexity AI",
-    "description": "محرك بحث ذكي يقدم إجابات مباشرة ومختصرة مع ذكر المصادر والمراجع بدقة.",
-    "url": "https://www.perplexity.ai",
-    "hide_classes": []
-  },
-  {
-    "name": "Midjourney",
-    "description": "الأقوى عالمياً في توليد الصور الفنية واللوحات الرقمية فائقة الواقعية من النصوص.",
-    "url": "https://www.midjourney.com",
-    "hide_classes": []
-  },
-  {
-    "name": "DALL-E 3",
-    "description": "أداة OpenAI المدمجة لفهم النصوص بدقة وتوليد صور وتصاميم مميزة تعبر عنها.",
-    "url": "https://openai.com/dall-e-3",
-    "hide_classes": []
-  },
-  {
-    "name": "Stable Diffusion",
-    "description": "محرك توليد صور مفتوح المصدر يمنح المصممين تحكماً كاملاً بالتفاصيل والأبعاد.",
-    "url": "https://stability.ai",
-    "hide_classes": []
-  },
-  {
-    "name": "Leonardo AI",
-    "description": "منصة ممتازة لتوليد صور الألعاب، الشخصيات، والتصاميم ثلاثية الأبعاد باحترافية.",
-    "url": "https://leonardo.ai",
-    "hide_classes": []
-  },
-  {
-    "name": "Adobe Firefly",
-    "description": "أداة أدوبي التوليدية لتعديل الصور وتوليد العناصر بشكل آمن تجارياً ومتوافق مع فوتوشوب.",
-    "url": "https://firefly.adobe.com",
-    "hide_classes": []
-  },
-  {
-    "name": "v0 by Vercel",
-    "description": "إنشاء واجهات مستخدم مذهلة (UI) لأكواد التفاعل بضغطة زر بناءً على وصفك.",
-    "url": "https://v0.dev",
-    "hide_classes": ["v0-footer"]
-  },
-  {
-    "name": "GitHub Copilot",
-    "description": "المساعد البرمجي الأشهر للمطورين لإكمال الأكواد واقتراح الدوال البرمجية الذكية.",
-    "url": "https://github.com/features/copilot",
-    "hide_classes": []
-  },
-  {
-    "name": "Cursor",
-    "description": "محرر أكواد متكامل مبني بالذكاء الاصطناعي لتطوير المشاريع البرمجية بسرعة فائقة.",
-    "url": "https://www.cursor.com",
-    "hide_classes": []
-  },
-  {
-    "name": "Replit Agent",
-    "description": "بيئة برمجية ذكية تقوم ببناء تطبيقات كاملة من الصفر بمجرد شرح الفكرة لها.",
-    "url": "https://replit.com",
-    "hide_classes": []
-  },
-  {
-    "name": "Sora by OpenAI",
-    "description": "نموذج توليد مقاطع فيديو واقعية سينمائية تصل إلى دقيقة كاملة من النص.",
-    "url": "https://openai.com/sora",
-    "hide_classes": []
-  },
-  {
-    "name": "Runway Gen-3",
-    "description": "أداة رائدة في تحريك الصور وتوليد مقاطع الفيديو والمؤثرات البصرية للمصممين.",
-    "url": "https://runwayml.com",
-    "hide_classes": []
-  },
-  {
-    "name": "Pika Labs",
-    "description": "منصة سهلة ومميزة لتحريك الرسوم والكارتون وتوليد الفيديوهات القصيرة.",
-    "url": "https://pika.art",
-    "hide_classes": []
-  },
-  {
-    "name": "HeyGen",
-    "description": "توليد متحدثين افتراضيين (Avatars) واقعيين لتقديم الشروحات والإعلانات بدقة عالية.",
-    "url": "https://www.heygen.com",
-    "hide_classes": []
-  },
-  {
-    "name": "ElevenLabs",
-    "description": "الأفضل عالمياً في تحويل النصوص إلى صوت بشري طبيعي جداً وتوليف ونبرات الصوت.",
-    "url": "https://elevenlabs.io",
-    "hide_classes": []
-  },
-  {
-    "name": "Suno AI",
-    "description": "توليد أغاني ومقاطع موسيقية كاملة الكلمات والألحان بمجرد اختيار النمط.",
-    "url": "https://suno.com",
-    "hide_classes": []
-  },
-  {
-    "name": "Udio",
-    "description": "منصة متطورة لإنشاء المقطوعات الموسيقية والأناشيد بجودة استوديو احترافية.",
-    "url": "https://www.udio.com",
-    "hide_classes": []
-  },
-  {
-    "name": "Gamma App",
-    "description": "إنشاء عروض تقديمية (PowerPoint) ومواقع ويب كاملة التنسيق في ثوانٍ معدودة.",
-    "url": "https://gamma.app",
-    "hide_classes": []
-  },
-  {
-    "name": "Canva Magic Studio",
-    "description": "مجموعة أدوات ذكية داخل كانفا لتعديل التصاميم، إزالة الخلفيات، وتوليد النصوص.",
-    "url": "https://www.canva.com",
-    "hide_classes": []
-  },
-  {
-    "name": "Phind",
-    "description": "محرك بحث مخصص للمبرمجين لشرح الحلول وحل مشاكل برمجية معقدة بالدليل.",
-    "url": "https://www.phind.com",
-    "hide_classes": []
-  },
-  {
-    "name": "Beautiful.ai",
-    "description": "مصمم عروض تقديمية ذكي يقوم بضبط أحجام الخطوط والصور تلقائياً أثناء كتابتك.",
-    "url": "https://www.beautiful.ai",
-    "hide_classes": []
-  },
-  {
-    "name": "Remove.bg",
-    "description": "أداة سريعة ومتخصصة في إزالة خلفيات الصور بدقة فائقة وبكبسة زر واحدة.",
-    "url": "https://www.remove.bg",
-    "hide_classes": []
-  },
-  {
-    "name": "Upscayl",
-    "description": "أداة لزيادة دقة وحجم الصور الضعيفة وتوضيح معالمها بالاعتماد على الذكاء الاصطناعي.",
-    "url": "https://www.upscayl.org",
-    "hide_classes": []
-  },
-  {
-    "name": "Clipdrop",
-    "description": "مجموعة أدوات من الاستوديو الذكي لتعديل الإضاءة، إزالة العناصر، وتكبير خلفيات الصور.",
-    "url": "https://clipdrop.co",
-    "hide_classes": []
-  },
-  {
-    "name": "Jasper AI",
-    "description": "منصة متكاملة لكتابة المقالات الإعلانية، محتوى التسويق، والرسائل البريدية الاحترافية.",
-    "url": "https://www.jasper.ai",
-    "hide_classes": []
-  },
-  {
-    "name": "Copy.ai",
-    "description": "توليد أفكار تسويقية وكتابة منشورات مواقع التواصل الاجتماعي لزيادة المبيعات.",
-    "url": "https://www.copy.ai",
-    "hide_classes": []
-  },
-  {
-    "name": "QuillBot",
-    "description": "أداة ذكية لإعادة صياغة النصوص والتحقق من القواعد الإملائية والسرقة الأدبية.",
-    "url": "https://quillbot.com",
-    "hide_classes": []
-  },
-  {
-    "name": "DeepL Translate",
-    "description": "المترجم الأكثر دقة عالمياً، يفهم سياق الجمل ويقدم ترجمة طبيعية وممتازة.",
-    "url": "https://www.deepl.com",
-    "hide_classes": []
-  },
-  {
-    "name": "Synthesia",
-    "description": "تحويل النصوص المكتوبة إلى فيديوهات تدريبية وتعليمية بواسطة شخصيات ذكاء اصطناعي.",
-    "url": "https://www.synthesia.io",
-    "hide_classes": []
-  },
-  {
-    "name": "Luma Dream Machine",
-    "description": "محرك سريع لتوليد لقطات فيديو ثلاثية الأبعاد فائقة الحركة والواقعية الفيزيائية.",
-    "url": "https://lumalabs.ai/dream-machine",
-    "hide_classes": []
-  },
-  {
-    "name": "VoiceMod",
-    "description": "تغيير نبرة الصوت في الوقت الحقيقي أثناء الألعاب أو البث المباشر والمحادثات.",
-    "url": "https://www.voicemod.net",
-    "hide_classes": []
-  },
-  {
-    "name": "Otter.ai",
-    "description": "مساعد ذكي للاجتماعات، يقوم بكتابة وتلخيص الملاحظات الصوتية والاجتماعات تلقائياً.",
-    "url": "https://otter.ai",
-    "hide_classes": []
-  },
-  {
-    "name": "ChatPDF",
-    "description": "تطبيق يتيح لك رفع أي ملف PDF والمحادثة معه واستخراج الخلاصة والأسئلة منه.",
-    "url": "https://www.chatpdf.com",
-    "hide_classes": []
-  },
-  {
-    "name": "Consensus",
-    "description": "محرك بحث يعتمد على الأبحاث والدراسات العلمية المحكّمة للإجابة على التساؤلات الطبية والتقنية.",
-    "url": "https://consensus.app",
-    "hide_classes": []
-  },
-  {
-    "name": "Tome AI",
-    "description": "بناء قصص تفاعلية وعروض تقديمية مدعمة بالصور التوليدية بشكل منسق وجذاب.",
-    "url": "https://tome.app",
-    "hide_classes": []
-  },
-  {
-    "name": "Humata AI",
-    "description": "مسرّع قراءة الملفات القانونية والتقنية الطويلة عبر محرك بحث واستجواب داخلي مخصص.",
-    "url": "https://www.humata.ai",
-    "hide_classes": []
-  },
-  {
-    "name": "Blackbox AI",
-    "description": "امتداد ذكي للبحث عن الأكواد البرمجية وتحويل الشروحات النصية إلى كود جاهز فوراً.",
-    "url": "https://www.blackbox.ai",
-    "hide_classes": []
-  }
-]
+  "websites": [
+    {
+      "name": "ChatGPT",
+      "description": "الرائد في المحادثة الذكية وتوليد النصوص، الإجابة على الأسئلة، وتحليل البيانات.",
+      "url": "https://chatgpt.com",
+      "hide_classes": [
+        "chat-sidebar",
+        "nav-buttons"
+      ]
+    },
+    {
+      "name": "Claude AI",
+      "description": "ممتاز في الكتابة الإبداعية والتحليل العميق للنصوص الطويلة وفهم ملفات PDF المعقدة.",
+      "url": "https://claude.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Google Gemini",
+      "description": "مساعد جوجل الذكي المتكامل مع خدمات البحث ويتميز بدعم قوي جداً للغة العربية.",
+      "url": "https://gemini.google.com",
+      "hide_classes": [
+        "gb_Hd"
+      ]
+    },
+    {
+      "name": "Perplexity AI",
+      "description": "محرك بحث ذكي يقدم إجابات مباشرة ومختصرة مع ذكر المصادر والمراجع بدقة.",
+      "url": "https://www.perplexity.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Midjourney",
+      "description": "الأقوى عالمياً في توليد الصور الفنية واللوحات الرقمية فائقة الواقعية من النصوص.",
+      "url": "https://www.midjourney.com",
+      "hide_classes": []
+    },
+    {
+      "name": "DALL-E 3",
+      "description": "أداة OpenAI المدمجة لفهم النصوص بدقة وتوليد صور وتصاميم مميزة تعبر عنها.",
+      "url": "https://openai.com/dall-e-3",
+      "hide_classes": []
+    },
+    {
+      "name": "Stable Diffusion",
+      "description": "محرك توليد صور مفتوح المصدر يمنح المصممين تحكماً كاملاً بالتفاصيل والأبعاد.",
+      "url": "https://stability.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Leonardo AI",
+      "description": "منصة ممتازة لتوليد صور الألعاب، الشخصيات، والتصاميم ثلاثية الأبعاد باحترافية.",
+      "url": "https://leonardo.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Adobe Firefly",
+      "description": "أداة أدوبي التوليدية لتعديل الصور وتوليد العناصر بشكل آمن تجارياً ومتوافق مع فوتوشوب.",
+      "url": "https://firefly.adobe.com",
+      "hide_classes": []
+    },
+    {
+      "name": "v0 by Vercel",
+      "description": "إنشاء واجهات مستخدم مذهلة (UI) لأكواد التفاعل بضغطة زر بناءً على وصفك.",
+      "url": "https://v0.dev",
+      "hide_classes": [
+        "v0-footer"
+      ]
+    },
+    {
+      "name": "GitHub Copilot",
+      "description": "المساعد البرمجي الأشهر للمطورين لإكمال الأكواد واقتراح الدوال البرمجية الذكية.",
+      "url": "https://github.com/features/copilot",
+      "hide_classes": []
+    },
+    {
+      "name": "Cursor",
+      "description": "محرر أكواد متكامل مبني بالذكاء الاصطناعي لتطوير المشاريع البرمجية بسرعة فائقة.",
+      "url": "https://www.cursor.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Replit Agent",
+      "description": "بيئة برمجية ذكية تقوم ببناء تطبيقات كاملة من الصفر بمجرد شرح الفكرة لها.",
+      "url": "https://replit.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Sora by OpenAI",
+      "description": "نموذج توليد مقاطع فيديو واقعية سينمائية تصل إلى دقيقة كاملة من النص.",
+      "url": "https://openai.com/sora",
+      "hide_classes": []
+    },
+    {
+      "name": "Runway Gen-3",
+      "description": "أداة رائدة في تحريك الصور وتوليد مقاطع الفيديو والمؤثرات البصرية للمصممين.",
+      "url": "https://runwayml.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Pika Labs",
+      "description": "منصة سهلة ومميزة لتحريك الرسوم والكارتون وتوليد الفيديوهات القصيرة.",
+      "url": "https://pika.art",
+      "hide_classes": []
+    },
+    {
+      "name": "HeyGen",
+      "description": "توليد متحدثين افتراضيين (Avatars) واقعيين لتقديم الشروحات والإعلانات بدقة عالية.",
+      "url": "https://www.heygen.com",
+      "hide_classes": []
+    },
+    {
+      "name": "ElevenLabs",
+      "description": "الأفضل عالمياً في تحويل النصوص إلى صوت بشري طبيعي جداً وتوليف ونبرات الصوت.",
+      "url": "https://elevenlabs.io",
+      "hide_classes": []
+    },
+    {
+      "name": "Suno AI",
+      "description": "توليد أغاني ومقاطع موسيقية كاملة الكلمات والألحان بمجرد اختيار النمط.",
+      "url": "https://suno.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Udio",
+      "description": "منصة متطورة لإنشاء المقطوعات الموسيقية والأناشيد بجودة استوديو احترافية.",
+      "url": "https://www.udio.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Gamma App",
+      "description": "إنشاء عروض تقديمية (PowerPoint) ومواقع ويب كاملة التنسيق في ثوانٍ معدودة.",
+      "url": "https://gamma.app",
+      "hide_classes": []
+    },
+    {
+      "name": "Canva Magic Studio",
+      "description": "مجموعة أدوات ذكية داخل كانفا لتعديل التصاميم، إزالة الخلفيات، وتوليد النصوص.",
+      "url": "https://www.canva.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Phind",
+      "description": "محرك بحث مخصص للمبرمجين لشرح الحلول وحل مشاكل برمجية معقدة بالدليل.",
+      "url": "https://www.phind.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Beautiful.ai",
+      "description": "مصمم عروض تقديمية ذكي يقوم بضبط أحجام الخطوط والصور تلقائياً أثناء كتابتك.",
+      "url": "https://www.beautiful.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Remove.bg",
+      "description": "أداة سريعة ومتخصصة في إزالة خلفيات الصور بدقة فائقة وبكبسة زر واحدة.",
+      "url": "https://www.remove.bg",
+      "hide_classes": []
+    },
+    {
+      "name": "Upscayl",
+      "description": "أداة لزيادة دقة وحجم الصور الضعيفة وتوضيح معالمها بالاعتماد على الذكاء الاصطناعي.",
+      "url": "https://www.upscayl.org",
+      "hide_classes": []
+    },
+    {
+      "name": "Clipdrop",
+      "description": "مجموعة أدوات من الاستوديو الذكي لتعديل الإضاءة، إزالة العناصر، وتكبير خلفيات الصور.",
+      "url": "https://clipdrop.co",
+      "hide_classes": []
+    },
+    {
+      "name": "Jasper AI",
+      "description": "منصة متكاملة لكتابة المقالات الإعلانية، محتوى التسويق، والرسائل البريدية الاحترافية.",
+      "url": "https://www.jasper.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Copy.ai",
+      "description": "توليد أفكار تسويقية وكتابة منشورات مواقع التواصل الاجتماعي لزيادة المبيعات.",
+      "url": "https://www.copy.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "QuillBot",
+      "description": "أداة ذكية لإعادة صياغة النصوص والتحقق من القواعد الإملائية والسرقة الأدبية.",
+      "url": "https://quillbot.com",
+      "hide_classes": []
+    },
+    {
+      "name": "DeepL Translate",
+      "description": "المترجم الأكثر دقة عالمياً، يفهم سياق الجمل ويقدم ترجمة طبيعية وممتازة.",
+      "url": "https://www.deepl.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Synthesia",
+      "description": "تحويل النصوص المكتوبة إلى فيديوهات تدريبية وتعليمية بواسطة شخصيات ذكاء اصطناعي.",
+      "url": "https://www.synthesia.io",
+      "hide_classes": []
+    },
+    {
+      "name": "Luma Dream Machine",
+      "description": "محرك سريع لتوليد لقطات فيديو ثلاثية الأبعاد فائقة الحركة والواقعية الفيزيائية.",
+      "url": "https://lumalabs.ai/dream-machine",
+      "hide_classes": []
+    },
+    {
+      "name": "VoiceMod",
+      "description": "تغيير نبرة الصوت في الوقت الحقيقي أثناء الألعاب أو البث المباشر والمحادثات.",
+      "url": "https://www.voicemod.net",
+      "hide_classes": []
+    },
+    {
+      "name": "Otter.ai",
+      "description": "مساعد ذكي للاجتماعات، يقوم بكتابة وتلخيص الملاحظات الصوتية والاجتماعات تلقائياً.",
+      "url": "https://otter.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "ChatPDF",
+      "description": "تطبيق يتيح لك رفع أي ملف PDF والمحادثة معه واستخراج الخلاصة والأسئلة منه.",
+      "url": "https://www.chatpdf.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Consensus",
+      "description": "محرك بحث يعتمد على الأبحاث والدراسات العلمية المحكّمة للإجابة على التساؤلات الطبية والتقنية.",
+      "url": "https://consensus.app",
+      "hide_classes": []
+    },
+    {
+      "name": "Tome AI",
+      "description": "بناء قصص تفاعلية وعروض تقديمية مدعمة بالصور التوليدية بشكل منسق وجذاب.",
+      "url": "https://tome.app",
+      "hide_classes": []
+    },
+    {
+      "name": "Humata AI",
+      "description": "مسرّع قراءة الملفات القانونية والتقنية الطويلة عبر محرك بحث واستجواب داخلي مخصص.",
+      "url": "https://www.humata.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Blackbox AI",
+      "description": "امتداد ذكي للبحث عن الأكواد البرمجية وتحويل الشروحات النصية إلى كود جاهز فوراً.",
+      "url": "https://www.blackbox.ai",
+      "hide_classes": []
+    }
+  ]
+}
