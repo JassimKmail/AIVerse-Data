@@ -1,8 +1,8 @@
 {
   "admob_config": {
-    "show_banner_ads": false,
-    "show_interstitial_ads": false,
-    "banner_ad_unit_id": "",
+    "show_banner_ads": true,
+    "show_interstitial_ads": true,
+    "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
     "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
   },
   "websites": [
