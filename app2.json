@@ -8,6 +8,7 @@
   "websites": [
     {
       "name": "ChatGPT",
+      "category": "نصوص",
       "description": "الرائد في المحادثة الذكية وتوليد النصوص، الإجابة على الأسئلة، وتحليل البيانات.",
       "url": "https://chatgpt.com",
       "hide_classes": [
