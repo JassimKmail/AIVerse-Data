@@ -122,7 +122,7 @@
     },
     {
       "name": "ElevenLabs",
-      "category": "صوت"
+      "category": "صوت",
       "description": "الأفضل عالمياً في تحويل النصوص إلى صوت بشري طبيعي جداً وتوليف ونبرات الصوت.",
       "url": "https://elevenlabs.io",
       "hide_classes": []
@@ -202,7 +202,7 @@
     },
     {
       "name": "DeepL Translate",
-      "category": "ترجمة"
+      "category": "ترجمة",
       "description": "المترجم الأكثر دقة عالمياً، يفهم سياق الجمل ويقدم ترجمة طبيعية وممتازة.",
       "url": "https://www.deepl.com",
       "hide_classes": []
