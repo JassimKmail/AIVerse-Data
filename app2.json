@@ -69,6 +69,7 @@
     },
     {
       "name": "v0 by Vercel",
+      "category": "برمجة",
       "description": "إنشاء واجهات مستخدم مذهلة (UI) لأكواد التفاعل بضغطة زر بناءً على وصفك.",
       "url": "https://v0.dev",
       "hide_classes": [
@@ -83,6 +84,7 @@
     },
     {
       "name": "Cursor",
+      "category": "برمجة",
       "description": "محرر أكواد متكامل مبني بالذكاء الاصطناعي لتطوير المشاريع البرمجية بسرعة فائقة.",
       "url": "https://www.cursor.com",
       "hide_classes": []
@@ -95,6 +97,7 @@
     },
     {
       "name": "Sora by OpenAI",
+      "category": "فيديو",
       "description": "نموذج توليد مقاطع فيديو واقعية سينمائية تصل إلى دقيقة كاملة من النص.",
       "url": "https://openai.com/sora",
       "hide_classes": []
@@ -125,6 +128,7 @@
     },
     {
       "name": "Suno AI",
+      "category": "موسيقى",
       "description": "توليد أغاني ومقاطع موسيقية كاملة الكلمات والألحان بمجرد اختيار النمط.",
       "url": "https://suno.com",
       "hide_classes": []
