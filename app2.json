@@ -36,6 +36,14 @@
       ]
     },
     {
+      "name": "Meta AI",
+      "description": "مساعد فيسبوك الشخصي.",
+      "url": "htpps://meta.ai",
+      "hide_classes": [
+        "gb_Hd"
+      ]
+    },
+    {
       "name": "Perplexity AI",
       "description": "محرك بحث ذكي يقدم إجابات مباشرة ومختصرة مع ذكر المصادر والمراجع بدقة.",
       "url": "https://www.perplexity.ai",
