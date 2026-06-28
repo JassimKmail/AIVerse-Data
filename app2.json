@@ -43,6 +43,7 @@
         "gb_Hd"
       ]
     },
+    
     {
       "name": "Perplexity AI",
       "description": "محرك بحث ذكي يقدم إجابات مباشرة ومختصرة مع ذكر المصادر والمراجع بدقة.",
@@ -267,6 +268,15 @@
       "description": "مسرّع قراءة الملفات القانونية والتقنية الطويلة عبر محرك بحث واستجواب داخلي مخصص.",
       "url": "https://www.humata.ai",
       "hide_classes": []
+    },
+    
+    {
+      "name": "Qwen",
+      "description": "test",
+      "url": "https://chat.qwen.ai",
+      "hide_classes": [
+        "gb_Hd"
+      ]
     },
     {
       "name": "Blackbox AI",
