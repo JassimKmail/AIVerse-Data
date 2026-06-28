@@ -257,15 +257,6 @@
       "url": "https://consensus.app",
       "hide_classes": []
     },
-    
-    {
-      "name": "Qwen",
-      "description": "test",
-      "url": "https://chat.qwen.ai",
-      "hide_classes": [
-        "gb_Hd"
-      ]
-    },
     {
       "name": "Tome AI",
       "description": "بناء قصص تفاعلية وعروض تقديمية مدعمة بالصور التوليدية بشكل منسق وجذاب.",
