@@ -285,13 +285,7 @@
       "url": "https://www.deepseek.com",
       "hide_classes": []
     },
-    {
-      "name": "HeyGen",
-      "category": "صناعة وتعديل فيديو",
-      "description": "منصة متطورة لإنشاء فيديوهات تسويقية باستخدام متحدثين رقميين (Avatars) يبدون كبشر حقيقيين.",
-      "url": "https://www.heygen.com",
-      "hide_classes": []
-    },
+
        {
       "name": "Clipchamp",
       "category": "صناعة وتعديل فيديو",
