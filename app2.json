@@ -36,9 +36,9 @@
       ]
     },
     {
-      "name": "VicalRemover",
+      "name": "Grok",
       "description": "test",
-      "url": "https://vocalremover.org",
+      "url": "https://grok.com",
       "hide_classes": [
         "gb_Hd"
       ]
