@@ -36,9 +36,9 @@
       ]
     },
     {
-      "name": "Meta AI",
-      "description": "مساعد فيسبوك الشخصي.",
-      "url": "https://www.meta.ai",
+      "name": "VicalRemover",
+      "description": "test",
+      "url": "https://vocalremover.org",
       "hide_classes": [
         "gb_Hd"
       ]
