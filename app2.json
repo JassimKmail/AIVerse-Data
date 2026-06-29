@@ -57,6 +57,13 @@
       "hide_classes": []
     },
     {
+      "name": "Opal",
+      "category": "نماذج لغوية وبرمجة",
+      "description": "منصة ثورية تجريبية من Google Labs مدمجة في جمناي لبناء وتصميم تطبيقات مصغرة (Mini-apps) ذكية عبر توجيهات نصية بسيطة.",
+      "url": "https://opal.google",
+      "hide_classes": []
+    },
+    {
       "name": "DALL-E 3",
       "description": "أداة OpenAI المدمجة لفهم النصوص بدقة وتوليد صور وتصاميم مميزة تعبر عنها.",
       "url": "https://openai.com/dall-e-3",
