@@ -431,6 +431,231 @@
       "url": "https://kaiber.ai",
       "hide_classes": []
     },
+    
+    {
+      "name": "AnimateDiff",
+      "category": "صناعة وتعديل فيديو",
+      "description": "أداة مفتوحة المصدر ومتقدمة لإنشاء رسوم متحركة ومقاطع فيديو قصيرة وسلسة من الصور والنصوص.",
+      "url": "https://animatediff.github.io",
+      "hide_classes": []
+    },
+    {
+      "name": "Magnific AI",
+      "category": "توليد صور",
+      "description": "أداة خارقة لرفع دقة الصور وتوضيح تفاصيلها لدرجة خيالية وإضافة ملامح واقعية جداً.",
+      "url": "https://magnific.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Krea AI",
+      "category": "توليد صور",
+      "description": "منصة لتوليد وتعديل الصور في الوقت الفعلي (Real-time) أثناء الرسم أو كتابة الأوصاف.",
+      "url": "https://www.krea.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Reka AI",
+      "category": "نماذج لغوية وبرمجة",
+      "description": "مساعد ذكي متعدد الوسائط قادر على فهم النصوص، الصور، الفيديو، والأصوات والإجابة عنها بدقة.",
+      "url": "https://www.reka.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Cohere",
+      "category": "نماذج لغوية وبرمجة",
+      "description": "منصة مخصصة للشركات والمطورين لبناء وتدريب نماذج معالجة لغات وتصنيف نصوص مخصصة.",
+      "url": "https://cohere.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Mubert",
+      "category": "صناعة موسيقى وصوت",
+      "description": "منصة لتوليد مسارات موسيقية وخلفيات صوتية خالية من حقوق الملكية مخصصة لصناع المحتوى.",
+      "url": "https://mubert.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Viggle AI",
+      "category": "صناعة وتعديل فيديو",
+      "description": "أداة مبتكرة تتيح لك دمج أي شخصية بداخل مقاطع فيديو متحركة وجعلها تقلد الحركات بدقة.",
+      "url": "https://viggle.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Replicate",
+      "category": "برمجة وأكواد",
+      "description": "مستودع سحابي ضخم يسمح للمطورين بتشغيل وتجربة نماذج الذكاء الاصطناعي مفتوحة المصدر بسطر برميجي واحد.",
+      "url": "https://replicate.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Relume",
+      "category": "تطوير مواقع وتصميم",
+      "description": "أداة ممتازة لمصممي المواقع تقوم بتوليد خرائط المواقع (Sitemaps) والـ Wireframes بنقرة زر.",
+      "url": "https://www.relume.io",
+      "hide_classes": []
+    },
+    {
+      "name": "Recraft",
+      "category": "توليد صور",
+      "description": "استوديو تصميم مخصص لإنشاء وتوليد الشعارات، الأيقونات، والرسومات المتجهية (Vectors) الاحترافية.",
+      "url": "https://www.recraft.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Plask",
+      "category": "صناعة وتعديل فيديو",
+      "description": "أداة متطورة لالتقاط الحركة (Motion Capture) عبر الكاميرا وتحويل حركات البشر الحقيقية إلى مجسمات ثلاثية الأبعاد.",
+      "url": "https://plask.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Copilot Workspace",
+      "category": "برمجة وأكواد",
+      "description": "بيئة تطوير سحابية متكاملة من GitHub تساعدك على بناء مشاريع برمجية كاملة وتعديل الثغرات بالذكاء الاصطناعي.",
+      "url": "https://github.com/features/copilot",
+      "hide_classes": []
+    },
+
+    {
+      "name": "Rytr",
+      "category": "كتابة محتوى وتسويق",
+      "description": "مساعد كتابة اقتصادي وسريع يساعد في صياغة مقالات المدونات، رسائل البريد الإلكتروني، والمنشورات التسويقية.",
+      "url": "https://rytr.me",
+      "hide_classes": []
+    },
+    {
+      "name": "Writesonic",
+      "category": "كتابة محتوى وتسويق",
+      "description": "منصة شاملة لصناعة المحتوى وتحسين السيو (SEO) وتوليد نصوص إعلانية تزيد من المبيعات.",
+      "url": "https://writesonic.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Soundraw",
+      "category": "صناعة موسيقى وصوت",
+      "description": "مولد موسيقى مبتكر يتيح لك تخصيص الألحان وتغيير سرعة الإيقاع وتوزيع الموسيقى بحرية بدون حقوق.",
+      "url": "https://soundraw.io",
+      "hide_classes": []
+    },
+    {
+      "name": "Opus Clip",
+      "category": "صناعة وتعديل فيديو",
+      "description": "أداة ممتازة لتحويل الفيديوهات الطويلة (مثل بودكاست أو يوتيوب) إلى مقاطع قصيرة (Shorts/Reels) جذابة ومترجمة تلقائياً.",
+      "url": "https://www.opus.pro",
+      "hide_classes": []
+    },
+    {
+      "name": "Inworld AI",
+      "category": "نماذج لغوية وبرمجة",
+      "description": "منصة متخصصة لصناع الألعاب لإنشاء شخصيات افتراضية (NPCs) ذكية تتحدث وتتفاعل مع اللاعبين بشكل حي.",
+      "url": "https://inworld.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Abridge",
+      "category": "أخرى",
+      "description": "أداة طبية ذكية تقوم بتسجيل محادثات الأطباء مع المرضى وتحويلها إلى تقارير طبية منظمة تلقائياً.",
+      "url": "https://www.abridge.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Feedly AI",
+      "category": "أخرى",
+      "description": "مساعد ذكي يقوم بفلترة الأخبار والمقالات العالمية عبر الإنترنت وتجميع ما يهم مجالك وعملك فقط.",
+      "url": "https://feedly.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Sembly",
+      "category": "إنتاج عروض ووثائق",
+      "description": "وكيل ذكي يحضر اجتماعات الزووم و تيمز بدلاً عنك، ويسجل الملاحظات ويحلل القرارات والنتائج.",
+      "url": "https://www.sembly.ai",
+      "hide_classes": []
+    },
+   
+   
+    {
+      "name": "WatermarkRemover",
+      "category": "توليد صور",
+      "description": "أداة مخصصة لحذف العلامات المائية والشعارات من الصور بدقة عالية ودون إتلاف الخلفية الأصيلة.",
+      "url": "https://www.watermarkremover.io",
+      "hide_classes": []
+    },
+    
+    {
+      "name": "Adobe Enhance",
+      "category": "صناعة موسيقى وصوت",
+      "description": "أداة مجانية رائعة من Adobe لتحسين جودة الصوت المسجل بالهاتف وجعله يبدو كأنه سُجل في استوديو احترافي.",
+      "url": "https://podcast.adobe.com/enhance",
+      "hide_classes": []
+    },
+    
+    
+    {
+      "name": "BigJPG",
+      "category": "توليد صور",
+      "description": "أداة متخصصة لتكبير حجم الصور والرسومات الكرتونية (Anime) مع الحفاظ على وضوح الخطوط والألوان.",
+      "url": "https://bigjpg.com",
+      "hide_classes": []
+    },
+    {
+      "name": "SheetGod",
+      "category": "أخرى",
+      "description": "أداة تتيح لك كتابة رغبتك باللغة العادية وتحويلها فوراً إلى معادلات إكسيل (Excel Formulas) معقدة وجاهزة.",
+      "url": "https://www.boltai.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Codeium",
+      "category": "برمجة وأكواد",
+      "description": "مساعد برميجي مجاني وقوي للغاية يتكامل مع بيئات التطوير لإكمال الأكواد واكتشاف الأخطاء البرمجية.",
+      "url": "https://codeium.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Tabnine",
+      "category": "برمجة وأكواد",
+      "description": "من أقدم وأقوى المساعدات البرمجية الذكية التي تحلل سياق مشروعك وتقترح عليك أسطر برمجية كاملة وآمنة.",
+      "url": "https://www.tabnine.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Wordtune",
+      "category": "أدوات كتابة وتحرير",
+      "description": "أداة ذكية مخصصة لمساعدتك في إعادة صياغة الجمل الإنجليزية لجعلها تبدو أكثر احترافية ولباقة.",
+      "url": "https://www.wordtune.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Grammarly",
+      "category": "أدوات كتابة وتحرير",
+      "description": "المساعد الإملائي والنحوي الأشهر عالمياً لتنقيح النصوص والتأكد من جودة الأسلوب وخلوه من الركاكة.",
+      "url": "https://www.grammarly.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Scribe",
+      "category": "إنتاج عروض ووثائق",
+      "description": "أداة تقوم بتسجيل شاشتك أثناء القيام بعمل ما، وتحويل الخطوات تلقائياً إلى دليل إرشادي مصور ومكتوب.",
+      "url": "https://scribehow.com",
+      "hide_classes": []
+    },
+    
+    {
+      "name": "SiteScore",
+      "category": "تطوير مواقع وتصميم",
+      "description": "أداة ذكية لتحليل أداء مواقع الإنترنت، فحص السيو، وتقديم نصائح برمجية فورية لتحسين تجربة المستخدم.",
+      "url": "https://sitescore.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Midjourney v6",
+      "category": "توليد صور",
+      "description": "النسخة الأحدث والأكثر تطوراً من ميدجورني لتوليد صور واقعية بشكل مذهل بدقة تفاصيل غير مسبوقة.",
+      "url": "https://www.midjourney.com",
+      "hide_classes": []
+    },
     {
       "name": "Blackbox AI",
       "description": "امتداد ذكي للبحث عن الأكواد البرمجية وتحويل الشروحات النصية إلى كود جاهز فوراً.",
