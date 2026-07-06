@@ -662,6 +662,358 @@
       "url": "https://www.midjourney.com",
       "hide_classes": []
     },
+    
+    {
+      "name": "Consumable AI",
+      "category": "أخرى",
+      "description": "منصة ذكية مخصصة لتحليل سلوك المستهلكين وتوقع توجهات السوق القادمة بدقة عبر قراءة البيانات الضخمة.",
+      "url": "https://consumable.com.au",
+      "hide_classes": []
+    },
+    {
+      "name": "Glean",
+      "category": "محرك بحث ذكي",
+      "description": "محرك بحث مخصص للشركات يقوم بالبحث الذكي داخل كافة ملفات وتطبيقات وإيميلات العمل في مكان واحد.",
+      "url": "https://www.glean.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Pecan AI",
+      "category": "أخرى",
+      "description": "منصة متطورة تتيح لفرق التسويق والمبيعات بناء نماذج تحليلية تنبؤية بدون الحاجة لكتابة أكواد برمجية.",
+      "url": "https://www.pecan.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Harvey AI",
+      "category": "أدوات كتابة وتحرير",
+      "description": "مساعد قانوني خارق مدعوم بالذكاء الاصطناعي، مخصص لمساعدة المحامين في صياغة العقود وتحليل القضايا المعقدة.",
+      "url": "https://www.harvey.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Hebbia",
+      "category": "محرك بحث ذكي",
+      "description": "محرك بحث معرفي متقدم للمؤسسات الكبرى قادر على قراءة وفهم ملايين المستندات والإجابة عليها فوراً.",
+      "url": "https://www.hebbia.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Tavus",
+      "category": "صناعة وتعديل فيديو",
+      "description": "منصة مذهلة تتيح لك استنساخ وجهك وصوتك لتوليد آلاف الفيديوهات المخصصة باسم كل عميل تلقائياً بضغطة زر.",
+      "url": "https://www.tavus.io",
+      "hide_classes": []
+    },
+    {
+      "name": "ElevenLabs Reader",
+      "category": "توليد وتعديل الصوت",
+      "description": "تطبيق وموقع مخصص لقراءة المقالات، الكتب الإلكترونية، والملفات النصية بأصوات بشرية طبيعية للغاية.",
+      "url": "https://elevenlabs.io/text-to-speech",
+      "hide_classes": []
+    },
+    {
+      "name": "Sincode AI",
+      "category": "كتابة محتوى وتسويق",
+      "description": "منصة شاملة توفر أكثر من 50 أداة ذكية مخصصة لكتابة المحتوى، تحسين السيو، وتوليد الأفكار الإبداعية.",
+      "url": "https://www.sincode.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Lovo.ai Genny",
+      "category": "توليد وتعديل الصوت",
+      "description": "الجيل الجديد من منصة لوفو، يدمج بين تعديل الفيديو وتحويل النص إلى كلام وتوليد الفن الرقمي في واجهة واحدة.",
+      "url": "https://lovo.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Guidde",
+      "category": "إنتاج عروض ووثائق",
+      "description": "أداة سريعة لإنشاء أدلة وفيديوهات توضيحية لخطوات العمل وتدريب الموظفين بالصوت والصورة في ثوانٍ.",
+      "url": "https://www.guidde.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Chatbot.com",
+      "category": "كتابة محتوى وتسويق",
+      "description": "منصة احترافية لبناء وبرمجة روبوتات المحادثة التفاعلية لخدمة العملاء على المواقع وتطبيقات التواصل الاجتماعي.",
+      "url": "https://www.chatbot.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Murf.ai",
+      "category": "توليد وتعديل الصوت",
+      "description": "استوديو رائع لتحويل النصوص إلى تعليق صوتي احترافي ملائم للإعلانات والفيديوهات التعليمية والعروض.",
+      "url": "https://murf.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "DeepBrain AI",
+      "category": "صناعة وتعديل فيديو",
+      "description": "منصة متخصصة لإنشاء فيديوهات تسويقية سريعة باستخدام مذيعين افتراضيين واقعيين يعتمدون على الذكاء الاصطناعي.",
+      "url": "https://www.deepbrain.io",
+      "hide_classes": []
+    },
+    {
+      "name": "Designs.ai",
+      "category": "تطوير مواقع وتصميم",
+      "description": "مجموعة أدوات ذكية متكاملة لتصميم الشعارات، الفيديوهات، والمنشورات، وتنسيق الألوان آلياً للمشاريع الناشئة.",
+      "url": "https://designs.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Ocoya",
+      "category": "كتابة محتوى وتسويق",
+      "description": "منصة ذكية تساعدك على كتابة المنشورات، وتصميم الصور، وجدولة المحتوى على كافة شبكات التواصل الاجتماعي.",
+      "url": "https://www.ocoya.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Predis.ai",
+      "category": "كتابة محتوى وتسويق",
+      "description": "أداة تقوم بتوليد منشورات كاملة (الصورة، النص، والهاشتاقات) لشبكات التواصل بمجرد كتابة فكرة مبسطة.",
+      "url": "https://predis.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Simplified",
+      "category": "تطوير مواقع وتصميم",
+      "description": "تطبيق شامل للمبدعين يدمج بين التصميم الجرافيكي، كتابة المحتوى، المونتاج الذكي، وإدارة السوشيال ميديا.",
+      "url": "https://simplified.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Watermark Remover io",
+      "category": "توليد صور",
+      "description": "أداة سحابية شهيرة مخصصة لإزالة العلامات المائية المعقدة من الصور وتصفيتها وتنقيتها فورياً بدقة كبرى.",
+      "url": "https://www.watermarkremover.io",
+      "hide_classes": []
+    },
+    {
+      "name": "Klap",
+      "category": "صناعة وتعديل فيديو",
+      "description": "أداة ممتازة تقوم بتحويل أي فيديو يوتيوب طويل إلى مقاطع تيك توك وريلز قصيرة وجذابة بنقرة واحدة.",
+      "url": "https://klap.app",
+      "hide_classes": []
+    },
+    {
+      "name": "InVideo Studio",
+      "category": "صناعة وتعديل فيديو",
+      "description": "محرر الفيديو السحابي الكلاسيكي المدمج بأدوات ذكاء اصطناعي وقوالب جاهزة لصناعة إعلانات احترافية.",
+      "url": "https://invideo.io",
+      "hide_classes": []
+    },
+    {
+      "name": "Aisera",
+      "category": "أخرى",
+      "description": "منصة أتمتة ذكية مخصصة للشركات الكبرى لتحسين خدمات الدعم الفني والموارد البشرية ذاتياً.",
+      "url": "https://aisera.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Typeform AI",
+      "category": "أخرى",
+      "description": "أداة ذكية مدمجة في تايب فورم لتوليد نماذج الاستبيانات والأسئلة التفاعلية الجذابة بناءً على هدفك.",
+      "url": "https://www.typeform.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Forms.app AI",
+      "category": "أخرى",
+      "description": "منصة تتيح لك بناء استمارات جمع البيانات، الاختبارات، والاستبيانات بنقرة واحدة عبر الأوامر النصية.",
+      "url": "https://forms.app",
+      "hide_classes": []
+    },
+    {
+      "name": "Taskade AI",
+      "category": "إنتاج عروض ووثائق",
+      "description": "مساحة عمل جماعية ذكية لإنشاء قوائم المهام، الخرائط الذهنية، وتنظيم المشاريع عبر مساعدين افتراضيين.",
+      "url": "https://www.taskade.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Mindmeister AI",
+      "category": "إنتاج عروض ووثائق",
+      "description": "منصة شهيرة مدمجة بالذكاء الاصطناعي لتوليد وتوسيع الخرائط الذهنية وترتيب الأفكار المتشابكة بصرياً.",
+      "url": "https://www.mindmeister.com",
+      "hide_classes": []
+    },
+    {
+      "name": "GitMind",
+      "category": "إنتاج عروض ووثائق",
+      "description": "أداة مجانية لتوليد المخططات الانسيابية والخرائط المعرفية والذهنية للمشاريع بناءً على نصوصك.",
+      "url": "https://gitmind.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Wondershare Virbo",
+      "category": "صناعة وتعديل فيديو",
+      "description": "برنامج مخصص لإنشاء مقاطع فيديو تسويقية وتوضيحية باستخدام شخصيات افتراضية تعبيرية ممتازة.",
+      "url": "https://virbo.wondershare.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Rask AI",
+      "category": "صناعة وتعديل فيديو",
+      "description": "الأداة الأقوى لترجمة الفيديوهات ودبلجة الصوت إلى لغات أخرى مع الحفاظ على نبرة صوت المتحدث الأصلي.",
+      "url": "https://www.rask.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "CapCut Web AI",
+      "category": "صناعة وتعديل فيديو",
+      "description": "أدوات كاب كات السحابية الذكية المخصصة لإزالة الخلفيات، وتوليد الترجمة، وتحسين جودة الفيديو آلياً.",
+      "url": "https://www.capcut.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Superhuman",
+      "category": "أخرى",
+      "description": "تطبيق بريد إلكتروني فائق السرعة مدمج بالذكاء الاصطناعي لتلخيص الرسائل وصياغة الردود الاحترافية فوراً.",
+      "url": "https://superhuman.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Lavender",
+      "category": "كتابة محتوى وتسويق",
+      "description": "مساعد ذكي يحلل رسائل البريد التسويقية ويقترح تعديلات لزيادة فرص رد العملاء عليها وقراءتها.",
+      "url": "https://www.lavender.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Regie.ai",
+      "category": "كتابة محتوى وتسويق",
+      "description": "منصة مخصصة لفرق المبيعات تساعد في تخصيص الرسائل وبناء حملات تواصل بريدية ذكية وتلقائية.",
+      "url": "https://www.regie.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Excent",
+      "category": "تطوير مواقع وتصميم",
+      "description": "منصة تصميم واجهات مستخدم وأدوات برمجية ذكية تساعد المطورين في تسريع العمل وبناء تطبيقات ويب عصرية.",
+      "url": "https://www.uxpin.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Uizard",
+      "category": "تطوير مواقع وتصميم",
+      "description": "أداة ثورية تتيح لك تحويل رسمة يدك البسيطة على ورقة إلى واجهة مستخدم رقمية وتطبيق تفاعلي جاهز.",
+      "url": "https://uizard.io",
+      "hide_classes": []
+    },
+    {
+      "name": "Visily",
+      "category": "تطوير مواقع وتصميم",
+      "description": "أداة تصميم سريعة تمكن غير المصممين من إنشاء هياكل تطبيقات ومواقع ويب (Wireframes) بذكاء كبير.",
+      "url": "https://www.visily.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Galileo AI",
+      "category": "تطوير مواقع وتصميم",
+      "description": "مولد واجهات مستخدم مذهل، ينشئ لك تصميمات تطبيقات كاملة وقابلة للتعديل على Figma من الأوامر النصية.",
+      "url": "https://www.usegalileo.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Hoppscotch AI",
+      "category": "برمجة وأكواد",
+      "description": "أداة مفتوحة المصدر ومطورة لمساعدة المبرمجين في اختبار واجهات برمجة التطبيقات (APIs) وتسريع هندستها.",
+      "url": "https://hoppscotch.io",
+      "hide_classes": []
+    },
+    {
+      "name": "Postman Postbot",
+      "category": "برمجة وأكواد",
+      "description": "المساعد الذكي المدمج في بوستمان لكتابة اختبارات الـ API تلقائياً وتلخيص بيانات الردود البرمجية لمطورين.",
+      "url": "https://www.postman.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Amazon CodeWhisperer",
+      "category": "برمجة وأكواد",
+      "description": "المساعد البرمجي الرسمي من شركة أمازون، يولد الأكواد ويقترح حلولاً برمجية آمنة متوافقة مع الحوسبة السحابية.",
+      "url": "https://aws.amazon.com/codewhisperer",
+      "hide_classes": []
+    },
+    {
+      "name": "Mutable.ai",
+      "category": "برمجة وأكواد",
+      "description": "أداة متقدمة لتسريع تطوير البرمجيات تقوم بتحويل الأكواد البرمجية إلى وثائق ومستندات شرح واضحة آلياً.",
+      "url": "https://mutable.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Sourcery",
+      "category": "برمجة وأكواد",
+      "description": "أداة ذكية للمطورين تقوم بمراجعة كود بايثون وجافا سكريبت وإعادة صياغته ليكون أكثر نظافة وسرعة.",
+      "url": "https://sourcery.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "CodiumAI",
+      "category": "برمجة وأكواد",
+      "description": "أداة برمجية ممتازة تقوم بتحليل الأكواد وتوليد اختبارات فحص (Unit Tests) ذكية لضمان خلو البرامج من الثغرات.",
+      "url": "https://www.codium.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Stockimg.ai",
+      "category": "توليد صور",
+      "description": "منصة مخصصة لتوليد صور مخزنة، أغلفة كتب، شعارات، وخلفيات تجارية عالية الجودة بنقرة واحدة.",
+      "url": "https://stockimg.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Artbreeder",
+      "category": "توليد صور",
+      "description": "منصة فريدة تتيح لك دمج وتعديل ملامح الصور والوجوه والمناظر الطبيعية لإنتاج لوحات فنية مبتكرة.",
+      "url": "https://www.artbreeder.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Hotpot.ai",
+      "category": "توليد صور",
+      "description": "مجموعة أدوات سهلة لتوليد الصور، تلوين الصور القديمة بالأبيض والأسود، وإصلاح الخدوش آلياً.",
+      "url": "https://hotpot.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "DeepAI",
+      "category": "توليد صور",
+      "description": "من أقدم المواقع التي توفر أدوات مجانية وسريعة لتوليد الصور الفنية والكرتونية من الكلمات عبر الويب.",
+      "url": "https://deepai.org",
+      "hide_classes": []
+    },
+    {
+      "name": "Profile Picture AI",
+      "category": "توليد صور",
+      "description": "موقع مخصص لتحويل صورك الشخصية العادية إلى صور بروفايل (Avatars) احترافية ملائمة للسير الذاتية ولينكد إن.",
+      "url": "https://www.profilepicture.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Scribehow Guides",
+      "category": "إنتاج عروض ووثائق",
+      "description": "أداة ذكية تسجل خطوات عملك على المتصفح وتحولها فوراً إلى أدلة إرشادية مصورة ومكتوبة بدقة كبرى.",
+      "url": "https://scribehow.com",
+      "hide_classes": []
+    },
+    {
+      "name": "Podcastle",
+      "category": "توليد وتعديل الصوت",
+      "description": "استوديو دمج وتحرير صوتي سحابي متكامل يتيح تسجيل البودكاست وتنقيته من الهواء والتشويش بذكاء.",
+      "url": "https://podcastle.ai",
+      "hide_classes": []
+    },
+    {
+      "name": "Cleanvoice.ai",
+      "category": "توليد وتعديل الصوت",
+      "description": "أداة ذكية تقوم بفحص الملفات الصوتية وحذف التأتأة، والسكوت الطويل، والتنفس المزعج تلقائياً من البودكاست.",
+      "url": "https://cleanvoice.ai",
+      "hide_classes": []
+    }
+  
     {
       "name": "Blackbox AI",
       "description": "امتداد ذكي للبحث عن الأكواد البرمجية وتحويل الشروحات النصية إلى كود جاهز فوراً.",
