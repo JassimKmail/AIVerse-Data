@@ -1019,8 +1019,7 @@
       "description": "امتداد ذكي للبحث عن الأكواد البرمجية وتحويل الشروحات النصية إلى كود جاهز فوراً.",
       "url": "https://www.blackbox.ai",
       "hide_classes": []
-    }
-    
+    },
     {
       "name": "Inflection AI",
       "category": "نماذج لغوية وبرمجة",
