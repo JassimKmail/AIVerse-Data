@@ -1,4 +1,4 @@
-{
+Jo{
   "admob_config": {
     "active_network": "unity",
     "show_banner_ads": true,
@@ -1195,13 +1195,7 @@
       "url": "https://www.tavus.io",
       "hide_classes": []
     },
-    {
-      "name": "Harvey Legal AI",
-      "category": "أدوات كتابة وتحرير",
-      "description": "نظام ذكاء اصطناعي مخصص لشركات المحاماة الكبرى يساعد في مراجعة المستندات القانونية وإجراء الأبحاث القضائية بدقة.",
-      "url": "https://www.harvey.ai",
-      "hide_classes": []
-    },
+
     {
       "name": "Hebbia Matrix",
       "category": "محرك بحث ذكي",
