@@ -1,4 +1,4 @@
-
+{
   "admob_config": {
     "active_network": "unity",
     "show_banner_ads": true,
