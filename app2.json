@@ -1,6 +1,6 @@
 {
   "admob_config": {
-    "active_network": "unity",
+    "active_network": "admob",
     "show_banner_ads": true,
     "show_interstitial_ads": true,
     "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
