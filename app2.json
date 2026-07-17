@@ -1,6 +1,6 @@
 {
   "admob_config": {
-    "active_network": "",
+    "active_network": "ADMobConfig",
     "show_banner_ads": true,
     "show_interstitial_ads": true,
     "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
@@ -13,7 +13,7 @@
   "websites": [
     {
       "name": "ChatGPT",
-      "category": "نصوص",
+      "category": "نماذج لغوية وبرمجة",
       "description": "الرائد في المحادثة الذكية وتوليد النصوص، الإجابة على الأسئلة، وتحليل البيانات.",
       "url": "https://chatgpt.com",
       "hide_classes": [
@@ -23,12 +23,14 @@
     },
     {
       "name": "Claude AI",
+      "category": "نماذج لغوية وبرمجة",
       "description": "ممتاز في الكتابة الإبداعية والتحليل العميق للنصوص الطويلة وفهم ملفات PDF المعقدة.",
       "url": "https://claude.ai",
       "hide_classes": []
     },
     {
       "name": "Google Gemini",
+      "category": "نماذج لغوية وبرمجة",
       "description": "مساعد جوجل الذكي المتكامل مع خدمات البحث ويتميز بدعم قوي جداً للغة العربية.",
       "url": "https://gemini.google.com",
       "hide_classes": [
@@ -37,6 +39,7 @@
     },
     {
       "name": "Grok",
+      "category": "نماذج لغوية وبرمجة",
       "description": "  نموذج ذكاء اصطناعي تفاعلي متطور من شركة xAI ",
       "url": "https://grok.com",
       "hide_classes": [
@@ -84,7 +87,7 @@
     },
     {
       "name": "Leonardo AI",
-      "category": "صور",
+      "category": "توليد صور",
       "description": "منصة ممتازة لتوليد صور الألعاب، الشخصيات، والتصاميم ثلاثية الأبعاد باحترافية.",
       "url": "https://leonardo.ai",
       "hide_classes": []
