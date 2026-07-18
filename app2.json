@@ -1,14 +1,14 @@
 {
   "admob_config": {
     "active_network": "unity",
-    "show_banner_ads": true,
+    "show_banner_ads": false,
     "show_interstitial_ads": true,
     "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
     "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "unity_game_id": "5827425",
     "unity_banner_placement_id": "Banner_Android",
     "unity_interstitial_placement_id": "Interstitial_Android",
-    "unity_test_mode": true
+    "unity_test_mode": false
   },
   "websites": [
     {
