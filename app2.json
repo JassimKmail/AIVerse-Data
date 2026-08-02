@@ -995,13 +995,7 @@
       "url": "https://www.profilepicture.ai",
       "hide_classes": []
     },
-    {
-      "name": "Scribehow Guides",
-      "category": "إنتاج عروض ووثائق",
-      "description": "أداة ذكية تسجل خطوات عملك على المتصفح وتحولها فوراً إلى أدلة إرشادية مصورة ومكتوبة بدقة كبرى.",
-      "url": "https://scribehow.com",
-      "hide_classes": []
-    },
+ 
     {
       "name": "Podcastle",
       "category": "توليد وتعديل الصوت",
@@ -1121,27 +1115,9 @@
       "url": "https://www.abridge.com",
       "hide_classes": []
     },
-    {
-      "name": "Codium AI Testing",
-      "category": "برمجة وأكواد",
-      "description": "بيئة متخصصة من كوديوم تقوم بفحص منطق البرمجة وتوليد سيناريوهات اختبار شاملة لضمان كفاءة التطبيقات.",
-      "url": "https://www.codium.ai",
-      "hide_classes": []
-    },
-    {
-      "name": "GitMind Maps",
-      "category": "إنتاج عروض ووثائق",
-      "description": "أداة سحابية تتيح تصميم الخرائط الذهنية ومخططات العمل بشكل جماعي وتوليد أفكار ومسودات عبر مساعدها الذكي.",
-      "url": "https://gitmind.com",
-      "hide_classes": []
-    },
-    {
-      "name": "Taskade Workspaces",
-      "category": "إنتاج عروض ووثائق",
-      "description": "منصة إنتاجية تدمج بين تنظيم المهام وبناء الوثائق المشتركة مع توفير وكلاء ذكاء اصطناعي لإدارة المشاريع آلياً.",
-      "url": "https://www.taskade.com",
-      "hide_classes": []
-    },
+   
+
+
     {
       "name": "Uizard Autodesigner",
       "category": "تطوير مواقع وتصميم",
@@ -1163,20 +1139,8 @@
       "url": "https://aws.amazon.com/q",
       "hide_classes": []
     },
-    {
-      "name": "Mutable.ai Documentation",
-      "category": "برمجة وأكواد",
-      "description": "أداة ممتازة تقوم بتحليل مستودعات الأكواد البرمجية الضخمة وإنشاء صفحات شرح وتوثيق (Wiki) منظمة لها آلياً.",
-      "url": "https://mutable.ai",
-      "hide_classes": []
-    },
-    {
-      "name": "Sourcery Refactoring",
-      "category": "برمجة وأكواد",
-      "description": "أداة مساعدة للمبرمجين تتكامل مع محررات الأكواد لتبسيط الجمل البرمجية المعقدة وتحسين جودة الشيفرة فورياً.",
-      "url": "https://sourcery.ai",
-      "hide_classes": []
-    },
+ 
+  
     {
       "name": "Predis.ai Video",
       "category": "صناعة وتعديل فيديو",
@@ -1199,13 +1163,7 @@
       "hide_classes": []
     },
 
-    {
-      "name": "Hebbia Matrix",
-      "category": "محرك بحث ذكي",
-      "description": "منصة بحث سحابية للمؤسسات الاستثمارية تتيح استخراج وتحليل البيانات المالية المعقدة من آلاف التقارير بلحظات.",
-      "url": "https://www.hebbia.ai",
-      "hide_classes": []
-    },
+  
     {
       "name": "Pecan Analytics",
       "category": "أخرى",
@@ -1213,13 +1171,7 @@
       "url": "https://www.pecan.ai",
       "hide_classes": []
     },
-    {
-      "name": "Glean Search",
-      "category": "محرك بحث ذكي",
-      "description": "محرك بحث سري وآمن مخصص لربط وإيجاد كل ما تبحث عنه داخل تطبيقات العمل مثل Slack و Drive و Jira للشركات.",
-      "url": "https://www.glean.com",
-      "hide_classes": []
-    },
+
     {
       "name": "Artbreeder Collages",
       "category": "توليد صور",
@@ -1234,13 +1186,7 @@
       "url": "https://stockimg.ai",
       "hide_classes": []
     },
-    {
-      "name": "Cleanvoice Audio",
-      "category": "توليد وتعديل الصوت",
-      "description": "أداة معالجة صوتية ذكية تزيل أصوات التنفس العالي والهمهمات والضوضاء المفاجئة من التسجيلات الصوتية آلياً.",
-      "url": "https://cleanvoice.ai",
-      "hide_classes": []
-    },
+   
     {
       "name": "Podcastle Studio",
       "category": "توليد وتعديل الصوت",
@@ -1276,20 +1222,7 @@
       "url": "https://www.uxpin.com",
       "hide_classes": []
     },
-    {
-      "name": "Regie.ai Sales",
-      "category": "كتابة محتوى وتسويق",
-      "description": "أداة ذكية مخصصة لفرق المبيعات لإنشاء محتوى مخصص وجدولة تسلسل رسائل التواصل مع العملاء المحتملين.",
-      "url": "https://www.regie.ai",
-      "hide_classes": []
-    },
-    {
-      "name": "Lavender Email AI",
-      "category": "كتابة محتوى وتسويق",
-      "description": "مساعد بريد إلكتروني يظهر بجانب صندوق الوارد ليحلل أسلوب رسائلك ويساعدك على كتابة ردود سريعة وفعالة.",
-      "url": "https://www.lavender.ai",
-      "hide_classes": []
-    },
+   
     {
       "name": "Superhuman Mail",
       "category": "أخرى",
