@@ -93,6 +93,13 @@
       "hide_classes": []
     },
     {
+      "name": "Duck Ai",
+      "category": "نماذج لغوية وبرمجة",
+      "description": "",
+      "url":"https://duck.ai",
+      "hide_classes":[]
+    },
+    {
       "name": "Adobe Firefly",
       "description": "أداة أدوبي التوليدية لتعديل الصور وتوليد العناصر بشكل آمن تجارياً ومتوافق مع فوتوشوب.",
       "url": "https://firefly.adobe.com",
