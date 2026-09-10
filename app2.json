@@ -2,7 +2,7 @@
   "admob_config": {
   "ad_status": "on",
   "ad_network": "unity",
-  "unity_game_id": "1234567",
+  "unity_game_id": "5827425",
   "unity_banner_id": "Banner_Android",
   "unity_interstitial_id": "Interstitial_Android",
   "test_mode": true
