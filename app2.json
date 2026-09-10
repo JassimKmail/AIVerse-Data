@@ -1,6 +1,6 @@
 {
   "admob_config": {
-  "ad_status": "off",
+  "ad_status": "on",
   "ad_network": "unity",
   "unity_game_id": "5827425",
   "unity_banner_id": "Banner_Android",
