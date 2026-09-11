@@ -156,6 +156,12 @@
       "hide_classes": []
     },
     {
+      "name": "Saveto Ai",
+      "description": "",
+      "url": "https://saveto.ai",
+      "hide_classes":[]
+    },
+    {
       "name": "ElevenLabs",
       "category": "صوت",
       "description": "الأفضل عالمياً في تحويل النصوص إلى صوت بشري طبيعي جداً وتوليف ونبرات الصوت.",
