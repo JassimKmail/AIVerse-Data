@@ -5,7 +5,7 @@
   "unity_game_id": "6190344",
   "unity_banner_id": "Banner_Android",
   "unity_interstitial_id": "Interstitial_Android",
-  "test_mode":  true
+  "test_mode":  false
   },
   "websites": [
     {
