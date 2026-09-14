@@ -5,7 +5,7 @@
   "unity_game_id": "5827425",
   "unity_banner_id": "Banner_Android",
   "unity_interstitial_id": "Interstitial_Android",
-  "test_mode": false
+  "test_mode": true
   },
   "websites": [
     {
@@ -355,7 +355,7 @@
       "name": "Play.ht",
       "category": "توليد وتعديل الصوت",
       "description": "منصة لتحويل النص إلى كلام تمنحك أصواتاً واقعية جداً وملائمة للبودكاست ومقاطع الفيديو التوضيحية.",
-      "url": "https://play.ht",
+      "url": "https://playhtai.com",
       "hide_classes": []
     },
     {
