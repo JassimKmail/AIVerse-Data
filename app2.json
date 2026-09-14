@@ -53,7 +53,7 @@
     },
     {
       "name": "Perplexity AI",
-      "category": "",
+      "category": "محركات بحث ذكية",
       "description": "محرك بحث ذكي يقدم إجابات مباشرة ومختصرة مع ذكر المصادر والمراجع بدقة.",
       "url": "https://www.perplexity.ai",
       "hide_classes": []
@@ -74,14 +74,14 @@
     },
     {
       "name": "DALL-E 3",
-      "category": "",
+      "category": "توليد صور",
       "description": "أداة OpenAI المدمجة لفهم النصوص بدقة وتوليد صور وتصاميم مميزة تعبر عنها.",
       "url": "https://openai.com/dall-e-3",
       "hide_classes": []
     },
     {
       "name": "Stable Diffusion",
-      "category": "",
+      "category": "توليد صور",
       "description": "محرك توليد صور مفتوح المصدر يمنح المصممين تحكماً كاملاً بالتفاصيل والأبعاد.",
       "url": "https://stability.ai",
       "hide_classes": []
@@ -102,14 +102,14 @@
     },
     {
       "name": "Adobe Firefly",
-      "category": "",
+      "category": "توليد صور",
       "description": "أداة أدوبي التوليدية لتعديل الصور وتوليد العناصر بشكل آمن تجارياً ومتوافق مع فوتوشوب.",
       "url": "https://firefly.adobe.com",
       "hide_classes": []
     },
     {
       "name": "v0 by Vercel",
-      "category": "برمجة",
+      "category": "نماذج لغوية وبرمجة",
       "description": "إنشاء واجهات مستخدم مذهلة (UI) لأكواد التفاعل بضغطة زر بناءً على وصفك.",
       "url": "https://v0.dev",
       "hide_classes": [
@@ -118,7 +118,7 @@
     },
     {
       "name": "GitHub Copilot",
-      "category": "",
+      "category": "نماذج لغوية وبرمجة",
       "description": "المساعد البرمجي الأشهر للمطورين لإكمال الأكواد واقتراح الدوال البرمجية الذكية.",
       "url": "https://github.com/features/copilot",
       "hide_classes": []
@@ -132,7 +132,7 @@
     },
     {
       "name": "Replit Agent",
-      "category": "",
+      "category": "نماذج لغوية وبرمجة",
       "description": "بيئة برمجية ذكية تقوم ببناء تطبيقات كاملة من الصفر بمجرد شرح الفكرة لها.",
       "url": "https://replit.com",
       "hide_classes": []
@@ -146,14 +146,14 @@
     },
     {
       "name": "Runway Gen-3",
-      "category": "",
+      "category": "فيديو",
       "description": "أداة رائدة في تحريك الصور وتوليد مقاطع الفيديو والمؤثرات البصرية للمصممين.",
       "url": "https://runwayml.com",
       "hide_classes": []
     },
     {
       "name": "Pika Labs",
-      "category": "",
+      "category": "فيديو",
       "description": "منصة سهلة ومميزة لتحريك الرسوم والكارتون وتوليد الفيديوهات القصيرة.",
       "url": "https://pika.art",
       "hide_classes": []
@@ -188,7 +188,7 @@
     },
     {
       "name": "Udio",
-      "category": "",
+      "category": "صوت",
       "description": "منصة متطورة لإنشاء المقطوعات الموسيقية والأناشيد بجودة استوديو احترافية.",
       "url": "https://www.udio.com",
       "hide_classes": []
@@ -209,7 +209,7 @@
     },
     {
       "name": "Phind",
-      "category": "",
+      "category": "برمجة",
       "description": "محرك بحث مخصص للمبرمجين لشرح الحلول وحل مشاكل برمجية معقدة بالدليل.",
       "url": "https://www.phind.com",
       "hide_classes": []
@@ -223,7 +223,7 @@
     },
     {
       "name": "Remove.bg",
-      "category": "",
+      "category": "ازالة الخلفية",
       "description": "أداة سريعة ومتخصصة في إزالة خلفيات الصور بدقة فائقة وبكبسة زر واحدة.",
       "url": "https://www.remove.bg",
       "hide_classes": []
@@ -265,7 +265,6 @@
     },
     {
       "name": "DeepL Translate",
-      "category": "",
       "category": "ترجمة",
       "description": "المترجم الأكثر دقة عالمياً، يفهم سياق الجمل ويقدم ترجمة طبيعية وممتازة.",
       "url": "https://www.deepl.com",
@@ -287,7 +286,7 @@
     },
     {
       "name": "VoiceMod",
-      "category": "",
+      "category": "صوت",
       "description": "تغيير نبرة الصوت في الوقت الحقيقي أثناء الألعاب أو البث المباشر والمحادثات.",
       "url": "https://www.voicemod.net",
       "hide_classes": []
@@ -330,7 +329,7 @@
     
     {
       "name": "Qwen",
-      "category": "",
+      "category": "نماذج لغوية وبرمجة",
       "description": "مجموعة نماذج ذكاء اصطناعي توليدي ضخمة ومفتوحة المصدر من شركة Alibaba",
       "url": "https://chat.qwen.ai",
       "hide_classes": [
