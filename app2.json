@@ -53,12 +53,14 @@
     },
     {
       "name": "Perplexity AI",
+      "category": "",
       "description": "محرك بحث ذكي يقدم إجابات مباشرة ومختصرة مع ذكر المصادر والمراجع بدقة.",
       "url": "https://www.perplexity.ai",
       "hide_classes": []
     },
     {
       "name": "Midjourney",
+      "category": "توليد صور",
       "description": "الأقوى عالمياً في توليد الصور الفنية واللوحات الرقمية فائقة الواقعية من النصوص.",
       "url": "https://www.midjourney.com",
       "hide_classes": []
