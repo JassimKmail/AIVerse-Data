@@ -5,7 +5,7 @@
   "unity_game_id": "6190344",
   "unity_banner_id": "Banner_Android",
   "unity_interstitial_id": "Interstitial_Android",
-  "test_mode": true
+  "test_mode":  false
   },
   "websites": [
     {
@@ -195,14 +195,14 @@
     },
     {
       "name": "Gamma App",
-      "category": "",
+      "category": "عروض تقديمية",
       "description": "إنشاء عروض تقديمية (PowerPoint) ومواقع ويب كاملة التنسيق في ثوانٍ معدودة.",
       "url": "https://gamma.app",
       "hide_classes": []
     },
     {
       "name": "Canva Magic Studio",
-      "category": "",
+      "category": "تعديل الصور",
       "description": "مجموعة أدوات ذكية داخل كانفا لتعديل التصاميم، إزالة الخلفيات، وتوليد النصوص.",
       "url": "https://www.canva.com",
       "hide_classes": []
@@ -216,7 +216,7 @@
     },
     {
       "name": "Beautiful.ai",
-      "category": "",
+      "category": "عروض تقديمية",
       "description": "مصمم عروض تقديمية ذكي يقوم بضبط أحجام الخطوط والصور تلقائياً أثناء كتابتك.",
       "url": "https://www.beautiful.ai",
       "hide_classes": []
@@ -230,28 +230,28 @@
     },
     {
       "name": "Upscayl",
-      "category": "",
+      "category": "تعديل الصور",
       "description": "أداة لزيادة دقة وحجم الصور الضعيفة وتوضيح معالمها بالاعتماد على الذكاء الاصطناعي.",
       "url": "https://www.upscayl.org",
       "hide_classes": []
     },
     {
       "name": "Clipdrop",
-      "category": "",
+      "category": "تعديل الصور",
       "description": "مجموعة أدوات من الاستوديو الذكي لتعديل الإضاءة، إزالة العناصر، وتكبير خلفيات الصور.",
       "url": "https://clipdrop.co",
       "hide_classes": []
     },
     {
       "name": "Jasper AI",
-      "category": "",
+      "category": "كتابة مقالات",
       "description": "منصة متكاملة لكتابة المقالات الإعلانية، محتوى التسويق، والرسائل البريدية الاحترافية.",
       "url": "https://www.jasper.ai",
       "hide_classes": []
     },
     {
       "name": "Copy.ai",
-      "category": "",
+      "category": "كتابة مقالات",
       "description": "توليد أفكار تسويقية وكتابة منشورات مواقع التواصل الاجتماعي لزيادة المبيعات.",
       "url": "https://www.copy.ai",
       "hide_classes": []
