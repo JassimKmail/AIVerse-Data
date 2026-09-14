@@ -160,7 +160,7 @@
     },
     {
       "name": "HeyGen",
-      "category": "",
+      "category": "عروض تقدمية",
       "description": "توليد متحدثين افتراضيين (Avatars) واقعيين لتقديم الشروحات والإعلانات بدقة عالية.",
       "url": "https://www.heygen.com",
       "hide_classes": []
@@ -272,14 +272,14 @@
     },
     {
       "name": "Synthesia",
-      "category": "",
+      "category": "فيديو",
       "description": "تحويل النصوص المكتوبة إلى فيديوهات تدريبية وتعليمية بواسطة شخصيات ذكاء اصطناعي.",
       "url": "https://www.synthesia.io",
       "hide_classes": []
     },
     {
       "name": "Luma Dream Machine",
-      "category": "",
+      "category": "فيديو",
       "description": "محرك سريع لتوليد لقطات فيديو ثلاثية الأبعاد فائقة الحركة والواقعية الفيزيائية.",
       "url": "https://lumalabs.ai/dream-machine",
       "hide_classes": []
@@ -293,35 +293,35 @@
     },
     {
       "name": "Otter.ai",
-      "category": "",
+      "category": "مساعد ذكي",
       "description": "مساعد ذكي للاجتماعات، يقوم بكتابة وتلخيص الملاحظات الصوتية والاجتماعات تلقائياً.",
       "url": "https://otter.ai",
       "hide_classes": []
     },
     {
       "name": "ChatPDF",
-      "category": "",
+      "category": "مساعد ذكي",
       "description": "تطبيق يتيح لك رفع أي ملف PDF والمحادثة معه واستخراج الخلاصة والأسئلة منه.",
       "url": "https://www.chatpdf.com",
       "hide_classes": []
     },
     {
       "name": "Consensus",
-      "category": "",
+      "category": "مساعد ذكي",
       "description": "محرك بحث يعتمد على الأبحاث والدراسات العلمية المحكّمة للإجابة على التساؤلات الطبية والتقنية.",
       "url": "https://consensus.app",
       "hide_classes": []
     },
     {
       "name": "Tome AI",
-      "category": "",
+      "category": "عروض تقديمية",
       "description": "بناء قصص تفاعلية وعروض تقديمية مدعمة بالصور التوليدية بشكل منسق وجذاب.",
       "url": "https://tome.app",
       "hide_classes": []
     },
     {
       "name": "Humata AI",
-      "category": "",
+      "category": "مساعد ذكي",
       "description": "مسرّع قراءة الملفات القانونية والتقنية الطويلة عبر محرك بحث واستجواب داخلي مخصص.",
       "url": "https://www.humata.ai",
       "hide_classes": []
