@@ -167,7 +167,7 @@
     },
     {
       "name": "Saveto Ai",
-      "category": "",
+      "category": "تفريغ نصي",
       "description": "",
       "url": "https://saveto.ai",
       "hide_classes":[]
@@ -1054,6 +1054,7 @@
   
     {
       "name": "Blackbox AI",
+      "category": "برمجة"
       "description": "امتداد ذكي للبحث عن الأكواد البرمجية وتحويل الشروحات النصية إلى كود جاهز فوراً.",
       "url": "https://www.blackbox.ai",
       "hide_classes": []
