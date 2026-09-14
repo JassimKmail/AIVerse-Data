@@ -258,7 +258,7 @@
     },
     {
       "name": "QuillBot",
-      "category": "",
+      "category": "ادوات كتابة وتحرير",
       "description": "أداة ذكية لإعادة صياغة النصوص والتحقق من القواعد الإملائية والسرقة الأدبية.",
       "url": "https://quillbot.com",
       "hide_classes": []
