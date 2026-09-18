@@ -3,7 +3,7 @@
   "ad_status": "on",
   "ad_network": "unity",
   "unity_game_id": "6190344",
-  "unity_banner_id": "Banner_Android",
+  "unity_banner_id": "",
   "unity_interstitial_id": "Interstitial_Android",
   "test_mode":  true
   },
