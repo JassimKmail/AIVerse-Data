@@ -1400,10 +1400,10 @@
     },
     
     {
-      "name": "test",
-      "category": "محرك بحث ذكي",
+      "name": "Ashna.ai",
+      "category": "نماذج لغوية وبرمجة",
       "description": "محرك بحث يدمج بين نتائج بحث جوجل التقليدية وإجابات وتلخيصات ذكية وفورية مستندة إلى تقنيات ChatGPT.",
-      "url": "https://gptgo.ai",
+      "url": "https://app.ashna.ai",
       "hide_classes": []
     }
   ]
