@@ -1426,6 +1426,14 @@
       "description": "",
       "url": "https://aitmpl.com",
       "hide_classes": []
+    },
+    
+    {
+      "name": "FuturePedia",
+      "category": " ",
+      "description": "",
+      "url": "https://futurepedia.io",
+      "hide_classes": []
     }
   ]
 }
