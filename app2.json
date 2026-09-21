@@ -1412,6 +1412,13 @@
       "description": "",
       "url": "https://genspark.ai",
       "hide_classes": []
+    },
+    {
+      "name": "Arena AI",
+      "category": "نماذج لغوية وبرمجة",
+      "description": "",
+      "url": "https://arena.ai",
+      "hide_classes": []
     }
   ]
 }
