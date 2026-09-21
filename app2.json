@@ -1419,6 +1419,13 @@
       "description": "",
       "url": "https://arena.ai",
       "hide_classes": []
+    },
+    {
+      "name": "Ai tmpl",
+      "category": "برومبتس ",
+      "description": ""
+      "url": "https://aitmpl.com",
+      "hide_classes": []
     }
   ]
 }
