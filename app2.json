@@ -73,7 +73,13 @@
       "url": "https://higgsfield.ai",
       "hide_classes": []
     },
-    
+    {
+      "name"= "Google Vids",
+      "category"=فيديو"",
+      "description"="",
+      "url"= "https://workspace.google.com/products/vids/ ",
+      "hide_classes"=[]
+    },
     {
       "name": "Opal",
       "category": "نماذج لغوية وبرمجة",
