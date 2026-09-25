@@ -1463,7 +1463,13 @@
       "description": "",
       "url": "https://getaibuild.com",
       "hide_classes": []
+        },
+     {
+      "name": "GPT4FRee",
+      "category": " نماذج لغوية وبرمجة",
+      "description": "",
+      "url": "https://g4f.dev",
+      "hide_classes": []
         }
-    
   ]
 }
