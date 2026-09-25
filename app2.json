@@ -1456,6 +1456,14 @@
       "description": "",
       "url": "https://natively.dev",
       "hide_classes": []
+        },
+    {
+      "name": "Get Ai Build",
+      "category": " برمجة",
+      "description": "",
+      "url": "https://getaibuld.com",
+      "hide_classes": []
         }
+    
   ]
 }
