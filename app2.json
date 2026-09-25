@@ -1470,6 +1470,13 @@
       "description": "",
       "url": "https://g4f.dev",
       "hide_classes": ["ns-y42x0-e-1 row-container canvas"]
+        },
+     {
+      "name": "t3.chat",
+      "category": " نماذج لغوية وبرمجة",
+      "description": "",
+      "url": "https://t3.chat",
+      "hide_classes": []
         }
   ]
 }
