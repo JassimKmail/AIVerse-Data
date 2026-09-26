@@ -75,11 +75,11 @@
       "hide_classes": []
     },
     {
-      "name"= "Google Flow",
-      "category"= "فيديو",
-      "description"="",
-      "url"= "https://flow.google.com",
-      "hide_classes"=[]
+      "name": "Google Flow",
+      "category": "فيديو",
+      "description": "",
+      "url" : "https://flow.google.com",
+      "hide_classes" :[]
     },
     {
       "name": "Opal",
