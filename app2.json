@@ -11,6 +11,7 @@
     {
       "name": "ChatGPT",
       "category": "نماذج لغوية وبرمجة",
+      "badge_text": "موقع مجاني",
       "description": "الرائد في المحادثة الذكية وتوليد النصوص، الإجابة على الأسئلة، وتحليل البيانات.",
       "url": "https://chatgpt.com",
       "hide_classes": [
@@ -1609,6 +1610,7 @@
     "url": "https://poe.com/",
     "icon": "https://poe.com/favicon.ico",
     "category": "مساعدين",
+    "badge_text": "موقع مجاني",
     "hide_classes": []
   },
   {
