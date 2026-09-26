@@ -1477,6 +1477,13 @@
       "description": "",
       "url": "https://t3.chat",
       "hide_classes": []
+        },
+      {
+      "name": "8b",
+      "category": " برمجة",
+      "description": "",
+      "url": "https://8b.com",
+      "hide_classes": []
         }
   ]
 }
