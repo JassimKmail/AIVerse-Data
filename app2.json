@@ -1666,6 +1666,13 @@
     "icon": "https://app.pixverse.ai/favicon.ico",
     "category": "فيديو وشاشات",
     "hide_classes": []
+  },
+    "id": 221,
+    "name": "Free.AI",
+    "description": "",
+    "url": "https://free.ai",
+    "category": "نماذج لغوية وبرمجة",
+    "hide_classes": []
   }
   ]
 }
