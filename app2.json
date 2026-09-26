@@ -1674,6 +1674,176 @@
     "url": "https://free.ai",
     "category": "نماذج لغوية وبرمجة",
     "hide_classes": []
+  },
+    {
+    "id": 221,
+    "name": "MiniMax Audio",
+    "description": "منصة متقدمة لتوليد الصوت وتحويل النصوص إلى كلام واستنسخ الأصوات بجودة عالية.",
+    "url": "https://www.minimax.io/audio",
+    "icon": "https://www.minimax.io/favicon.ico",
+    "category": "صوتيات",
+    "badge_text": "",
+    "hide_classes": []
+  },
+  {
+    "id": 222,
+    "name": "Lucy Decart AI",
+    "description": "محاكي وتجربة ذكاء اصطناعي تفاعلية لتوليد الرسوم والوسائط الفورية.",
+    "url": "https://lucy.decart.ai/",
+    "icon": "https://lucy.decart.ai/favicon.ico",
+    "category": "مساعدين",
+    "badge_text": "",
+    "hide_classes": []
+  },
+  {
+    "id": 223,
+    "name": "EZRemove Watermark",
+    "description": "أداة ذكية لإزالة العلامات المائية والملاحظات غير المرغوب فيها من مقاطع الفيديو.",
+    "url": "https://ezremove.ai/video-watermark-remover/",
+    "icon": "https://ezremove.ai/favicon.ico",
+    "category": "فيديو وشاشات",
+    "badge_text": "",
+    "hide_classes": []
+  },
+  {
+    "id": 224,
+    "name": "Virton Tech",
+    "description": "منصة حلول ذكاء اصطناعي وتكنولوجيا أتمتة متطورة للشركات والأفراد.",
+    "url": "https://virton.tech/en/",
+    "icon": "https://virton.tech/favicon.ico",
+    "category": "مساعدين",
+    "badge_text": "",
+    "hide_classes": []
+  },
+  {
+    "id": 225,
+    "name": "Google AI Studio Speech",
+    "description": "أداة جوجل الرسمية المتقدمة لتوليد الأصوات ومعالجة الكلام عبر نماذج Gemini.",
+    "url": "https://aistudio.google.com/generate-speech",
+    "icon": "https://www.gstatic.com/lamda/images/favicon_v1_1567c8b0fe03866e138a3.png",
+    "category": "صوتيات",
+    "badge_text": "رسمي",
+    "hide_classes": []
+  },
+  {
+    "id": 226,
+    "name": "Lumo by Proton",
+    "description": "مساعد ذكاء اصطناعي يركز على الخصوصية وحماية البيانات من آمن التشفير Proton.",
+    "url": "https://lumo.proton.me/",
+    "icon": "https://lumo.proton.me/favicon.ico",
+    "category": "مساعدين",
+    "badge_text": "آمن",
+    "hide_classes": []
+  },
+  {
+    "id": 227,
+    "name": "Fal AI Seedream V5",
+    "description": "نموذج تحرير وتوليد الصور عالي السرعة والدقة من Bytedance عبر منصة Fal.",
+    "url": "https://fal.ai/models/fal-ai/bytedance/seedream/v5/lite/edit",
+    "icon": "https://fal.ai/favicon.ico",
+    "category": "تصميم وتوليد صور",
+    "badge_text": "",
+    "hide_classes": []
+  },
+  {
+    "id": 228,
+    "name": "Z.ai Chat",
+    "description": "واجهة محادثة ذكية وتفاعلية للوصول لنماذج معالجة اللغة وإجابة الأسئلة.",
+    "url": "https://chat.z.ai/",
+    "icon": "https://chat.z.ai/favicon.ico",
+    "category": "مساعدين",
+    "badge_text": "",
+    "hide_classes": []
+  },
+  {
+    "id": 229,
+    "name": "Quiki AI",
+    "description": "منصة لتوليد المحتوى السريع وإنشاء الملخصات والدراسات التفاعلية.",
+    "url": "https://quiki.io/",
+    "icon": "https://quiki.io/favicon.ico",
+    "category": "كتابة نصوص",
+    "badge_text": "",
+    "hide_classes": []
+  },
+  {
+    "id": 230,
+    "name": "PDF Guru Summarizer",
+    "description": "أداة قراءة وتلخيص ملفات PDF واستخراج المعلومات الهامة منها بالذكاء الاصطناعي.",
+    "url": "https://pdfguru.com/pdf-summarizer",
+    "icon": "https://pdfguru.com/favicon.ico",
+    "category": "إنتاجية وأدوات",
+    "badge_text": "مفيد جداً",
+    "hide_classes": []
+  },
+  {
+    "id": 231,
+    "name": "MinutesLink",
+    "description": "مساعد الاجتماعات الذكي لتسجيل، تلخيص، وتدوين نقاط العمل تلقائياً.",
+    "url": "https://minuteslink.com/",
+    "icon": "https://minuteslink.com/favicon.ico",
+    "category": "إنتاجية وأدوات",
+    "badge_text": "",
+    "hide_classes": []
+  },
+  {
+    "id": 232,
+    "name": "Rocket.new",
+    "description": "منصة بناء وتصميم مواقع وتطبيقات ويب فائقة السرعة بالذكاء الاصطناعي.",
+    "url": "https://www.rocket.new/",
+    "icon": "https://www.rocket.new/favicon.ico",
+    "category": "برمجة وبناء تطبيقات",
+    "badge_text": "",
+    "hide_classes": []
+  },
+  {
+    "id": 233,
+    "name": "Bravo Studio",
+    "description": "تحويل تصاميم Figma وAdobe XD إلى تطبيقات جوال حقيقية بدون كود.",
+    "url": "https://www.bravostudio.app/",
+    "icon": "https://www.bravostudio.app/favicon.ico",
+    "category": "برمجة وبناء تطبيقات",
+    "badge_text": "بدون كود",
+    "hide_classes": []
+  },
+  {
+    "id": 234,
+    "name": "Modulify AI",
+    "description": "أداة إنشاء قوالب وتصاميم واجهات المستخدم وتوليد المكونات البرمجية.",
+    "url": "https://www.modulify.ai/",
+    "icon": "https://www.modulify.ai/favicon.ico",
+    "category": "برمجة وبناء تطبيقات",
+    "badge_text": "",
+    "hide_classes": []
+  },
+  {
+    "id": 235,
+    "name": "Appaca AI",
+    "description": "تطوير وبناء التطبيقات والأفكار الذكية بضغطة زر وبدون خبرة برمجية.",
+    "url": "https://www.appaca.ai/",
+    "icon": "https://www.appaca.ai/favicon.ico",
+    "category": "برمجة وبناء تطبيقات",
+    "badge_text": "",
+    "hide_classes": []
+  },
+  {
+    "id": 236,
+    "name": "AutoReel",
+    "description": "توليد مقاطع Reels وفيديوهات قصيرة لمنصات التواصل الاجتماعي تلقائياً.",
+    "url": "https://www.autoreelapp.com/",
+    "icon": "https://www.autoreelapp.com/favicon.ico",
+    "category": "فيديو وشاشات",
+    "badge_text": "صناع محتوى",
+    "hide_classes": []
+  },
+  {
+    "id": 237,
+    "name": "Lazybird",
+    "description": "أداة إنتاجية ذكية لإنجاز المهام وأتمتة العمليات الشخصية بسهولة.",
+    "url": "https://www.lazybird.app/",
+    "icon": "https://www.lazybird.app/favicon.ico",
+    "category": "إنتاجية وأدوات",
+    "badge_text": "",
+    "hide_classes": []
   }
   ]
 }
