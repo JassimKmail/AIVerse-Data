@@ -76,7 +76,7 @@
     },
     {
       "name"= "Google Flow",
-      "category"=فيديو"",
+      "category"= "فيديو",
       "description"="",
       "url"= "https://flow.google.com",
       "hide_classes"=[]
