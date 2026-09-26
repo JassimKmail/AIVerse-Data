@@ -1484,6 +1484,186 @@
       "description": "",
       "url": "https://8b.com",
       "hide_classes": []
-        }
+        },
+    {
+    "id": 201,
+    "name": "FlowGPT",
+    "description": "منصة شاملة لاكتشاف وتبادل برومبتات ونماذج الذكاء الاصطناعي التفاعلية.",
+    "url": "https://flowgpt.com/",
+    "icon": "https://flowgpt.com/favicon.ico",
+    "category": "مساعدين",
+    "hide_classes": []
+  },
+  {
+    "id": 202,
+    "name": "Pi AI",
+    "description": "مساعد ذكاء اصطناعي تفاعلي وصديق شخصي يمتاز بالحوار الطبيعي والدعم الصوتي.",
+    "url": "https://pi.ai/talk/",
+    "icon": "https://pi.ai/favicon.ico",
+    "category": "مساعدين",
+    "hide_classes": []
+  },
+  {
+    "id": 203,
+    "name": "Wsup AI",
+    "description": "أداة ذكاء اصطناعي مخصصة للمحادثات السريعة وتوليد المحتوى.",
+    "url": "https://wsupai.app/",
+    "icon": "https://wsupai.app/favicon.ico",
+    "category": "مساعدين",
+    "hide_classes": []
+  },
+  {
+    "id": 204,
+    "name": "Heck AI",
+    "description": "منصة شات ذكية توفر الوصول لنماذج ذكاء اصطناعي متعددة في مكان واحد.",
+    "url": "https://heck.ai/",
+    "icon": "https://heck.ai/favicon.ico",
+    "category": "مساعدين",
+    "hide_classes": []
+  },
+  {
+    "id": 205,
+    "name": "Kimi AI",
+    "description": "نموذج ذكاء اصطناعي متقدم قادر على قراءة ومعالجة المستندات والروابط الطويلة.",
+    "url": "https://www.kimi.com/",
+    "icon": "https://www.kimi.com/favicon.ico",
+    "category": "مساعدين",
+    "hide_classes": []
+  },
+  {
+    "id": 206,
+    "name": "Microsoft Copilot",
+    "description": "مساعد الذكاء الاصطناعي الشامل من مايكروسوفت لكتابة النصوص، البحث، وتوليد الصور.",
+    "url": "https://copilot.microsoft.com/",
+    "icon": "https://copilot.microsoft.com/favicon.ico",
+    "category": "مساعدين",
+    "hide_classes": []
+  },
+  {
+    "id": 207,
+    "name": "The Old LLM",
+    "description": "واجهة بسيطة ومجانية للتفاعل مع نماذج اللغات الضخمة المفتوحة المصدر.",
+    "url": "https://theoldllm.vercel.app/",
+    "icon": "https://theoldllm.vercel.app/favicon.ico",
+    "category": "مساعدين",
+    "hide_classes": []
+  },
+  {
+    "id": 208,
+    "name": "Vheer AI",
+    "description": "محرك ومساعد ذكي للإنتاجية والإجابة على الأسئلة وتلخيص المحتوى.",
+    "url": "https://vheer.com/",
+    "icon": "https://vheer.com/favicon.ico",
+    "category": "مساعدين",
+    "hide_classes": []
+  },
+  {
+    "id": 209,
+    "name": "Perchance Text Gen",
+    "description": "أداة مجانية مفتوحة لتوليد النصوص والقصص بالذكاء الاصطناعي.",
+    "url": "https://perchance.org/wtr90dexsn",
+    "icon": "https://perchance.org/favicon.ico",
+    "category": "كتابة نصوص",
+    "hide_classes": []
+  },
+  {
+    "id": 210,
+    "name": "TTSMP3",
+    "description": "تحويل النصوص إلى كلام صوتي طبيعي بصيغة MP3 بعدة لغات.",
+    "url": "https://ttsmp3.com/",
+    "icon": "https://ttsmp3.com/favicon.ico",
+    "category": "صوتيات",
+    "hide_classes": []
+  },
+  {
+    "id": 211,
+    "name": "Voice Generator",
+    "description": "أداة أونلاين مجانية لتحويل الكتابة إلى صوت باستخدام تقنيات الصوت الذكية.",
+    "url": "https://voicegenerator.io/",
+    "icon": "https://voicegenerator.io/favicon.ico",
+    "category": "صوتيات",
+    "hide_classes": []
+  },
+  {
+    "id": 212,
+    "name": "FakeYou",
+    "description": "منصة تحويل النص إلى صوت واستنساخ أصوات الشخصيات المشهورة بالذكاء الاصطناعي.",
+    "url": "https://fakeyou.com/",
+    "icon": "https://fakeyou.com/favicon.ico",
+    "category": "صوتيات",
+    "hide_classes": []
+  },
+  {
+    "id": 213,
+    "name": "Yupp AI",
+    "description": "منصة مقارنة وتوليد نصوص ذكية تساعدك على تجربة نماذج متعددة للذكاء الاصطناعي.",
+    "url": "https://www.yupp.ai/",
+    "icon": "https://www.yupp.ai/favicon.ico",
+    "category": "مساعدين",
+    "hide_classes": []
+  },
+  {
+    "id": 214,
+    "name": "Poe AI",
+    "description": "منصة Quora الشهيرة لإنشاء والتحدث مع أفضل روبوتات الذكاء الاصطناعي (GPT-4, Claude).",
+    "url": "https://poe.com/",
+    "icon": "https://poe.com/favicon.ico",
+    "category": "مساعدين",
+    "hide_classes": []
+  },
+  {
+    "id": 215,
+    "name": "Chatsonic (Writesonic)",
+    "description": "مساعد كتابة محتوى ومحاكي محادثات ذكي مع وصول فوري للبيانات المحدثة.",
+    "url": "https://writesonic.com/chat",
+    "icon": "https://writesonic.com/favicon.ico",
+    "category": "كتابة نصوص",
+    "hide_classes": []
+  },
+  {
+    "id": 216,
+    "name": "Character AI",
+    "description": "التحدث والمحادثة التفاعلية مع شخصيات افتراضية وحقيقية مصممة بالذكاء الاصطناعي.",
+    "url": "https://character.ai/",
+    "icon": "https://character.ai/favicon.ico",
+    "category": "مساعدين",
+    "hide_classes": []
+  },
+  {
+    "id": 217,
+    "name": "Bing Image Creator",
+    "description": "مولد الصور الشهير من مايكروسوفت المعتمد على DALL-E لإنشاء صور عالية الدقة.",
+    "url": "https://www.bing.com/images/create/ai-image-generator",
+    "icon": "https://www.bing.com/favicon.ico",
+    "category": "تصميم وتوليد صور",
+    "hide_classes": []
+  },
+  {
+    "id": 218,
+    "name": "Microsoft Designer",
+    "description": "تطبيق تصميم جرافيكي ذكي لتوليد منشورات، بطاقات، وتصاميم كاملة بضغطة زر.",
+    "url": "https://designer.microsoft.com/",
+    "icon": "https://designer.microsoft.com/favicon.ico",
+    "category": "تصميم وتوليد صور",
+    "hide_classes": []
+  },
+  {
+    "id": 219,
+    "name": "Genmo AI",
+    "description": "منصة تحويل الصور والنصوص إلى مقاطع فيديو أنيميشن ثلاثية الأبعاد متحركة.",
+    "url": "https://www.genmo.ai/",
+    "icon": "https://www.genmo.ai/favicon.ico",
+    "category": "فيديو وشاشات",
+    "hide_classes": []
+  },
+  {
+    "id": 220,
+    "name": "PixVerse AI",
+    "description": "أداة متقدمة لتوليد مقاطع فيديو سينمائية بجودة عالية انطلاقاً من الصور والنصوص.",
+    "url": "https://app.pixverse.ai/",
+    "icon": "https://app.pixverse.ai/favicon.ico",
+    "category": "فيديو وشاشات",
+    "hide_classes": []
+  }
   ]
 }
