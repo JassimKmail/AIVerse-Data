@@ -65,8 +65,15 @@
       "description": "الأقوى عالمياً في توليد الصور الفنية واللوحات الرقمية فائقة الواقعية من النصوص.",
       "url": "https://www.midjourney.com",
       "hide_classes": []
+   },
+    {
+      "name" : "Design Arena",
+      "category": "نماذج لغوية وبرمجة",
+      "badge_text": "موقع مجاني",
+      "description": "",
+      "url": "https://designarena.ai",
+      "hide_classes": []
     },
-    
     {
       "name": "Higgsfield AI",
       "category": "",
