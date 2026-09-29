@@ -1659,13 +1659,11 @@
     "hide_classes": []
   },
     {
-    "id": 221,
-    "name": "Free.AI",
-    "description": "",
-    "url": "https://free.ai",
-    "category": "نماذج لغوية وبرمجة",
-    "hide_classes": []
-  },
+  "url": "https://free.ai",
+  "name": "Free AI",
+  "category": "أدوات ذكاء اصطناعي",
+  "description": "منصة توفر الوصول المباشر والمجاني لمجموعة واسعة من نماذج وأدوات الذكاء الاصطناعي لتوليد النصوص، التصميم، وأتمتة المهام اليومية بدون قيود أو رسوم."
+},
     {
     "id": 221,
     "name": "MiniMax Audio",
