@@ -54,12 +54,11 @@
       "hide_classes": []
     },
         {
-      "name" : "Manus",
-      "category": "نماذج لغوية وبرمجة",
-      "description": "",
-      "url": "https://manus.im",
-      "hide_classes": []
-    },
+    "url": "https://manus.im",
+    "name": "Manus AI",
+    "category": "وكلاء الذكاء الاصطناعي",
+    "description": "وكيل ذكاء اصطناعي مستقل (Autonomous AI Agent) قادر على تنفيذ المهام المعتمدة والمعقدة بنفسه مثل البرمجة، إدارة الأعمال، وإنشاء العروض التقديمية عبر بيئة سحابية دون تدخل بشري مستمر."
+  },
     {
       "name": "Perplexity AI",
       "category": "محركات بحث ذكية",
@@ -75,27 +74,22 @@
       "hide_classes": []
    },
     {
-      "name" : "Design Arena",
-      "category": "نماذج لغوية وبرمجة",
-      "badge_text": "موقع مجاني",
-      "description": "",
-      "url": "https://designarena.ai",
-      "hide_classes": []
-    },
+    "url": "https://designarena.ai",
+    "name": "Design Arena",
+    "category": "تصميم وجرافيك",
+    "description": "منصة عالمية للتصويت والمقارنة المباشرة (Benchmarking) بين نماذج الذكاء الاصطناعي المختلفة لتوليد التصاميم والجرافيك لاكتشاف الأفضل بينها."
+  }, {
+    "url": "https://higgsfield.ai",
+    "name": "Higgsfield AI",
+    "category": "توليد الفيديو",
+    "description": "منصة متخصصة في إنشاء وتحرير مقاطع الفيديو باستخدام الذكاء الاصطناعي بدقة عالية وتنسيقات تناسب صناع المحتوى وحملات التسويق."
+  },
     {
-      "name": "Higgsfield AI",
-      "category": "",
-      "description": "",
-      "url": "https://higgsfield.ai",
-      "hide_classes": []
-    },
-    {
-      "name": "Google Flow",
-      "category": "فيديو",
-      "description": "",
-      "url" : "https://flow.google.com",
-      "hide_classes" :[]
-    },
+    "url": "https://flow.google.com",
+    "name": "Google Flow",
+    "category": "أدوات جوجل",
+    "description": "أداة تجريبية وبيئة عمل متطورة من جوجل لإدارة وتنفيذ مسارات العمل الذكية (Workflows) والأتمتة باستخدام نماذج الذكاء الاصطناعي."
+  },
     {
       "name": "Opal",
       "category": "نماذج لغوية وبرمجة",
@@ -124,13 +118,12 @@
       "url": "https://leonardo.ai",
       "hide_classes": []
     },
-    {
-      "name": "Duck Ai",
-      "category": "نماذج لغوية وبرمجة",
-      "description": "",
-      "url":"https://duck.ai",
-      "hide_classes":[]
-    },
+   {
+    "url": "https://duck.ai",
+    "name": "DuckDuckGo AI Chat",
+    "category": "شات بوت ومحادثة",
+    "description": "خدمة محادثة ذكية مجانية وآمنة تحافظ على الخصوصية التامة دون تتبع، تتيح لك التفاعل مع نماذج مثل ChatGPT و Claude و Llama بشكل مجهول الهوية."
+  },
     {
       "name": "Adobe Firefly",
       "category": "توليد صور",
@@ -197,12 +190,11 @@
       "hide_classes": []
     },
     {
-      "name": "Saveto Ai",
-      "category": "تفريغ نصي",
-      "description": "",
-      "url": "https://saveto.ai",
-      "hide_classes":[]
-    },
+    "url": "https://saveto.ai",
+    "name": "SaveTo AI",
+    "category": "إنتاجية وتلخيص",
+    "description": "منصة شاملة لتلخيص وتحويل فيديوهات يوتيوب، تيك توك، بودكاست والمستندات إلى نصوص مكتوبة وملخصات منظمة باستخدام الذكاء الاصطناعي."
+  },
     {
       "name": "ElevenLabs",
       "category": "صوت",
@@ -1438,69 +1430,53 @@
       "hide_classes": []
     },
     {
-      "name": "Genspark.ai",
-      "category": "نماذج لغوية وبرمجة",
-      "description": "",
-      "url": "https://genspark.ai",
-      "hide_classes": []
-    },
+    "url": "https://genspark.ai",
+    "name": "Genspark AI",
+    "category": "ملاحة وبحث ذكي",
+    "description": "محرك بحث ذكي يعتمد على وكلاء متعددين (Multi-Agents) لتوليد صفحات مخصصة وموثوقة تتضمن معلومات ملخصة وشاملة لأي موضوع تشهده."
+  },
     {
-      "name": "Arena AI",
-      "category": "نماذج لغوية وبرمجة",
-      "description": "",
-      "url": "https://arena.ai",
-      "hide_classes": []
-    },
+    "url": "https://arena.ai",
+    "name": "Arena AI (LMSYS)",
+    "category": "مقارنة النماذج",
+    "description": "منصة التقييم والمقارنة الشهيرة لتجربة نماذج الذكاء الاصطناعي التوليدية جنبًا إلى جنب واختبار جودة إجابات النماذج بشكل أعمى."
+  },
     {
-      "name": "Ai tmpl",
-      "category": "برومبتس ",
-      "description": "",
-      "url": "https://aitmpl.com",
-      "hide_classes": []
-    },
-    
+    "url": "https://aitmpl.com",
+    "name": "AI Templates",
+    "category": "تطوير وبرمجة",
+    "description": "مكتبة وإطار عمل يوفر قوالب وإعدادات جاهزة (Templates & Agents) لأداة Claude Code ومساعدي البرمجة بالذكاء الاصطناعي لتسريع تطوير المشاريع."
+  },
     {
-      "name": "FuturePedia",
-      "category": " ",
-      "description": "",
-      "url": "https://futurepedia.io",
-      "hide_classes": []
-    },
+    "url": "https://futurepedia.io",
+    "name": "Futurepedia",
+    "category": "دليل أدوات",
+    "description": "أكبر موسوعة ودليل شامل يضم آلاف أدوات الذكاء الاصطناعي المحدثة يومياً مصنفة بحسب المجال والاستخدام."
+  },
         {
-      "name": "Natively",
-      "category": " ",
-      "description": "",
-      "url": "https://natively.dev",
-      "hide_classes": []
-        },
-    {
-      "name": "AiBuilder",
-      "category": " برمجة",
-      "description": "",
-      "url": "https://getaibuild.com",
-      "hide_classes": []
-        },
-     {
-      "name": "GPT4Free",
-      "category": " نماذج لغوية وبرمجة",
-      "description": "",
-      "url": "https://g4f.dev",
-      "hide_classes": ["ns-y42x0-e-1 row-container canvas"]
-        },
-     {
-      "name": "t3.chat",
-      "category": " نماذج لغوية وبرمجة",
-      "description": "",
-      "url": "https://t3.chat",
-      "hide_classes": []
-        },
-      {
-      "name": "8b",
-      "category": " برمجة",
-      "description": "",
-      "url": "https://8b.com",
-      "hide_classes": []
-        },
+    "url": "https://natively.dev",
+    "name": "Natively",
+    "category": "تطوير تطبيقات",
+    "description": "منصة تحويل مواقع الويب وتطبيقات Web3/Bubble إلى تطبيقات برمجية متكاملة للاندرويد والأيفون بخصائص Native مخصصة."
+  },
+  {
+    "url": "https://getaibuild.com",
+    "name": "AI Build",
+    "category": "بناء برمجيات",
+    "description": "أداة لبناء وإنشاء التطبيقات والأنظمة البرمجية تلقائياً عن طريق كتابة الأوامر النصية والموجهات فقط."
+  },
+  {
+    "url": "https://g4f.dev",
+    "name": "GPT4Free (G4F)",
+    "category": "تطوير ومكتبات",
+    "description": "واجهة برمجة ومكتبة مفتوحة المصدر تتيح الوصول لنماذج الذكاء الاصطناعي المتقدمة واستخدامها مجاناً لأغراض التطوير والاستكشاف."
+  },
+  {
+    "url": "https://8b.com",
+    "name": "8b Website Builder",
+    "category": "تصميم مواقع",
+    "description": "منصة حديثة وسريعة لبناء المواقع الإلكترونية التفاعلية بكل سهولة وبدون الحاجة لخبرة برمجية."
+  },
     {
     "id": 201,
     "name": "FlowGPT",
