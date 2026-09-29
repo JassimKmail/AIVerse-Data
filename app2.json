@@ -53,6 +53,13 @@
       "url": "https://www.meta.ai",
       "hide_classes": []
     },
+        {
+      "name" : "Manus",
+      "category": "نماذج لغوية وبرمجة",
+      "description": "",
+      "url": "https://manus.im",
+      "hide_classes": []
+    },
     {
       "name": "Perplexity AI",
       "category": "محركات بحث ذكية",
