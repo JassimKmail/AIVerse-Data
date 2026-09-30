@@ -1,4 +1,13 @@
+
 {
+  "admob_config": {
+  "ad_status": "off",
+  "ad_network": "unity",
+  "unity_game_id": "6190344",
+  "unity_banner_id": "Banner_Android",
+  "unity_interstitial_id": "Interstitial_Android",
+  "test_mode":  true
+  },
   "update_config": {
     "latest_version_code": 2,
     "latest_version_name": "1.2.0",
@@ -11,16 +20,6 @@
       "إضافة ميزات جديدة"
     ],
     "download_url": "https://play.google.com/store/apps/details?id=com.yourpackage.app"
-  }
-}
-{
-  "admob_config": {
-  "ad_status": "off",
-  "ad_network": "unity",
-  "unity_game_id": "6190344",
-  "unity_banner_id": "Banner_Android",
-  "unity_interstitial_id": "Interstitial_Android",
-  "test_mode":  true
   },
   "websites": [
     {
@@ -29,10 +28,7 @@
       "badge_text": "مجاني",
       "description": "الرائد في المحادثة الذكية وتوليد النصوص، الإجابة على الأسئلة، وتحليل البيانات.",
       "url": "https://chatgpt.com",
-      "hide_classes": [
-        "chat-sidebar",
-        "nav-buttons"
-      ]
+      "hide_classes": []
     },
     {
       "name": "Claude AI",
