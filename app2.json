@@ -6,9 +6,8 @@
   "unity_banner_id": "Banner_Android",
   "unity_interstitial_id": "Interstitial_Android",
   "test_mode":  true
-  }
-  
-,{
+  },
+  {
   "update_config": {
     "latest_version_code": 2,
     "latest_version_name": "1.2.0",
@@ -22,7 +21,7 @@
     ],
     "download_url": "https://play.google.com/store/apps/details?id=com.yourpackage.app"
   }
-},
+}
   "websites": [
     {
       "name": "ChatGPT",
