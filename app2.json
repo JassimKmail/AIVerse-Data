@@ -6,8 +6,23 @@
   "unity_banner_id": "Banner_Android",
   "unity_interstitial_id": "Interstitial_Android",
   "test_mode":  true
-  },
-
+  }
+  
+{
+  "update_config": {
+    "latest_version_code": 2,
+    "latest_version_name": "1.2.0",
+    "is_force_update": false,
+    "title": "تحديث جديد متاح",
+    "description": "تم إصدار إصدار جديد من التطبيق يحتوي على تحسينات في الأداء وإصلاح بعض الأخطاء.",
+    "changelog": [
+      "تحسين سرعة التطبيق",
+      "إصلاح بعض الأخطاء",
+      "إضافة ميزات جديدة"
+    ],
+    "download_url": "https://play.google.com/store/apps/details?id=com.yourpackage.app"
+  }
+},
   "websites": [
     {
       "name": "ChatGPT",
