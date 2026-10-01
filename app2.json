@@ -1,7 +1,7 @@
 
 {
   "admob_config": {
-  "ad_status": "on",
+  "ad_status": "off",
   "ad_network": "unity",
   "unity_game_id": "6190344",
   "unity_banner_id": "Banner_Android",
@@ -9,7 +9,7 @@
   "test_mode":  true
   },
   "update_config": {
-    "latest_version_code": 2,
+    "latest_version_code": 1,
     "latest_version_name": "1.0",
     "is_force_update": false,
     "title": "تحديث جديد متاح",
