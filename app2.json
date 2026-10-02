@@ -90,7 +90,8 @@
     "name": "Design Arena",
     "category": "تصميم وجرافيك",
     "description": "منصة عالمية للتصويت والمقارنة المباشرة (Benchmarking) بين نماذج الذكاء الاصطناعي المختلفة لتوليد التصاميم والجرافيك لاكتشاف الأفضل بينها.",
-      "hide_classes": []
+      "hide_classes": [],
+        "badges": ["يدعم الواجهة العربية"]
   }, 
     {
     "url": "https://higgsfield.ai",
