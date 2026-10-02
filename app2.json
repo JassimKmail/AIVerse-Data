@@ -32,7 +32,6 @@
     {
       "name": "Claude AI",
       "category": "نماذج لغوية وبرمجة",
-      "badge_text": "مجاني",
       "description": "ممتاز في الكتابة الإبداعية والتحليل العميق للنصوص الطويلة وفهم ملفات PDF المعقدة.",
       "url": "https://claude.ai",
       "hide_classes": []
@@ -1671,9 +1670,10 @@
     {
   "url": "https://free.ai",
   "name": "Free AI",
-  "badge_text": "مجاني",
   "category": "أدوات ذكاء اصطناعي",
   "description": "منصة توفر الوصول المباشر والمجاني لمجموعة واسعة من نماذج وأدوات الذكاء الاصطناعي لتوليد النصوص، التصميم، وأتمتة المهام اليومية بدون قيود أو رسوم."
+    "hide_classes" : [],
+  "badges": ["مجاني"]
 },
     {
     "id": 221,
@@ -1682,7 +1682,6 @@
     "url": "https://www.minimax.io/audio",
     "icon": "https://www.minimax.io/favicon.ico",
     "category": "صوتيات",
-    "badge_text": "",
     "hide_classes": []
   },
   {
@@ -1692,7 +1691,6 @@
     "url": "https://lucy.decart.ai/",
     "icon": "https://lucy.decart.ai/favicon.ico",
     "category": "مساعدين",
-    "badge_text": "",
     "hide_classes": []
   },
   {
@@ -1702,7 +1700,6 @@
     "url": "https://ezremove.ai/video-watermark-remover/",
     "icon": "https://ezremove.ai/favicon.ico",
     "category": "فيديو وشاشات",
-    "badge_text": "",
     "hide_classes": []
   },
   {
@@ -1712,7 +1709,6 @@
     "url": "https://virton.tech/en/",
     "icon": "https://virton.tech/favicon.ico",
     "category": "مساعدين",
-    "badge_text": "",
     "hide_classes": []
   },
   {
@@ -1722,7 +1718,6 @@
     "url": "https://aistudio.google.com/generate-speech",
     "icon": "https://www.gstatic.com/lamda/images/favicon_v1_1567c8b0fe03866e138a3.png",
     "category": "صوتيات",
-    "badge_text": "رسمي",
     "hide_classes": []
   },
   {
@@ -1732,7 +1727,6 @@
     "url": "https://lumo.proton.me/",
     "icon": "https://lumo.proton.me/favicon.ico",
     "category": "مساعدين",
-    "badge_text": "آمن",
     "hide_classes": []
   },
   {
@@ -1742,7 +1736,6 @@
     "url": "https://fal.ai/models/fal-ai/bytedance/seedream/v5/lite/edit",
     "icon": "https://fal.ai/favicon.ico",
     "category": "تصميم وتوليد صور",
-    "badge_text": "",
     "hide_classes": []
   },
   {
@@ -1752,7 +1745,6 @@
     "url": "https://chat.z.ai/",
     "icon": "https://chat.z.ai/favicon.ico",
     "category": "مساعدين",
-    "badge_text": "",
     "hide_classes": []
   },
   {
@@ -1762,7 +1754,6 @@
     "url": "https://quiki.io/",
     "icon": "https://quiki.io/favicon.ico",
     "category": "كتابة نصوص",
-    "badge_text": "",
     "hide_classes": []
   },
   {
@@ -1772,7 +1763,6 @@
     "url": "https://pdfguru.com/pdf-summarizer",
     "icon": "https://pdfguru.com/favicon.ico",
     "category": "إنتاجية وأدوات",
-    "badge_text": "مفيد جداً",
     "hide_classes": []
   },
   {
@@ -1782,7 +1772,6 @@
     "url": "https://minuteslink.com/",
     "icon": "https://minuteslink.com/favicon.ico",
     "category": "إنتاجية وأدوات",
-    "badge_text": "",
     "hide_classes": []
   },
   {
@@ -1792,7 +1781,6 @@
     "url": "https://www.rocket.new/",
     "icon": "https://www.rocket.new/favicon.ico",
     "category": "برمجة وبناء تطبيقات",
-    "badge_text": "",
     "hide_classes": []
   },
   {
@@ -1802,7 +1790,6 @@
     "url": "https://www.bravostudio.app/",
     "icon": "https://www.bravostudio.app/favicon.ico",
     "category": "برمجة وبناء تطبيقات",
-    "badge_text": "بدون كود",
     "hide_classes": []
   },
   {
@@ -1812,7 +1799,6 @@
     "url": "https://www.modulify.ai/",
     "icon": "https://www.modulify.ai/favicon.ico",
     "category": "برمجة وبناء تطبيقات",
-    "badge_text": "",
     "hide_classes": []
   },
   {
@@ -1822,7 +1808,6 @@
     "url": "https://www.appaca.ai/",
     "icon": "https://www.appaca.ai/favicon.ico",
     "category": "برمجة وبناء تطبيقات",
-    "badge_text": "",
     "hide_classes": []
   },
   {
@@ -1832,7 +1817,6 @@
     "url": "https://www.autoreelapp.com/",
     "icon": "https://www.autoreelapp.com/favicon.ico",
     "category": "فيديو وشاشات",
-    "badge_text": "صناع محتوى",
     "hide_classes": []
   },
   {
@@ -1842,7 +1826,6 @@
     "url": "https://www.lazybird.app/",
     "icon": "https://www.lazybird.app/favicon.ico",
     "category": "إنتاجية وأدوات",
-    "badge_text": "",
     "hide_classes": []
   }
   ]
