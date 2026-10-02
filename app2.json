@@ -67,6 +67,7 @@
     "name": "Manus AI",
     "category": "وكلاء الذكاء الاصطناعي",
     "description": "وكيل ذكاء اصطناعي مستقل (Autonomous AI Agent) قادر على تنفيذ المهام المعتمدة والمعقدة بنفسه مثل البرمجة، إدارة الأعمال، وإنشاء العروض التقديمية عبر بيئة سحابية دون تدخل بشري مستمر.",
+    "hide_classes": []   
   },
     {
       "name": "Perplexity AI",
@@ -87,17 +88,20 @@
     "name": "Design Arena",
     "category": "تصميم وجرافيك",
     "description": "منصة عالمية للتصويت والمقارنة المباشرة (Benchmarking) بين نماذج الذكاء الاصطناعي المختلفة لتوليد التصاميم والجرافيك لاكتشاف الأفضل بينها.",
+      "hide_classes": []
   }, {
     "url": "https://higgsfield.ai",
     "name": "Higgsfield AI",
     "category": "توليد الفيديو",
     "description": "منصة متخصصة في إنشاء وتحرير مقاطع الفيديو باستخدام الذكاء الاصطناعي بدقة عالية وتنسيقات تناسب صناع المحتوى وحملات التسويق.",
+    "hide_classes": []
   },
     {
     "url": "https://flow.google.com",
     "name": "Google Flow",
     "category": "أدوات جوجل",
     "description": "أداة تجريبية وبيئة عمل متطورة من جوجل لإدارة وتنفيذ مسارات العمل الذكية (Workflows) والأتمتة باستخدام نماذج الذكاء الاصطناعي.",
+    "hide_classes": []
   },
     {
       "name": "Opal",
@@ -132,6 +136,7 @@
     "name": "DuckDuckGo AI Chat",
     "category": "شات بوت ومحادثة",
     "description": "خدمة محادثة ذكية مجانية وآمنة تحافظ على الخصوصية التامة دون تتبع، تتيح لك التفاعل مع نماذج مثل ChatGPT و Claude و Llama بشكل مجهول الهوية.",
+     "hide_classes": []
   },
     {
       "name": "Adobe Firefly",
@@ -170,13 +175,7 @@
       "url": "https://replit.com",
       "hide_classes": []
     },
-    {
-      "name": "Sora by OpenAI",
-      "category": "فيديو",
-      "description": "نموذج توليد مقاطع فيديو واقعية سينمائية تصل إلى دقيقة كاملة من النص.",
-      "url": "https://openai.com/sora",
-      "hide_classes": []
-    },
+    
     {
       "name": "Runway Gen-3",
       "category": "فيديو",
@@ -203,6 +202,7 @@
     "name": "SaveTo AI",
     "category": "إنتاجية وتلخيص",
     "description": "منصة شاملة لتلخيص وتحويل فيديوهات يوتيوب، تيك توك، بودكاست والمستندات إلى نصوص مكتوبة وملخصات منظمة باستخدام الذكاء الاصطناعي.",
+      "hide_classes": []
   },
     {
       "name": "ElevenLabs",
@@ -1443,36 +1443,42 @@
     "name": "Genspark AI",
     "category": "ملاحة وبحث ذكي",
     "description": "محرك بحث ذكي يعتمد على وكلاء متعددين (Multi-Agents) لتوليد صفحات مخصصة وموثوقة تتضمن معلومات ملخصة وشاملة لأي موضوع تشهده.",
+      "hide_classes": []
   },
     {
     "url": "https://arena.ai",
     "name": "Arena AI (LMSYS)",
     "category": "مقارنة النماذج",
     "description": "منصة التقييم والمقارنة الشهيرة لتجربة نماذج الذكاء الاصطناعي التوليدية جنبًا إلى جنب واختبار جودة إجابات النماذج بشكل أعمى.",
+      "hide_classes": []
   },
     {
     "url": "https://aitmpl.com",
     "name": "AI Templates",
     "category": "تطوير وبرمجة",
     "description": "مكتبة وإطار عمل يوفر قوالب وإعدادات جاهزة (Templates & Agents) لأداة Claude Code ومساعدي البرمجة بالذكاء الاصطناعي لتسريع تطوير المشاريع.",
+      "hide_classes": []
   },
     {
     "url": "https://futurepedia.io",
     "name": "Futurepedia",
     "category": "دليل أدوات",
     "description": "أكبر موسوعة ودليل شامل يضم آلاف أدوات الذكاء الاصطناعي المحدثة يومياً مصنفة بحسب المجال والاستخدام.",
+      "hide_classes": []
   },
         {
     "url": "https://natively.dev",
     "name": "Natively",
     "category": "تطوير تطبيقات",
     "description": "منصة تحويل مواقع الويب وتطبيقات Web3/Bubble إلى تطبيقات برمجية متكاملة للاندرويد والأيفون بخصائص Native مخصصة.",
+    "hide_classes": []
   },
   {
     "url": "https://getaibuild.com",
     "name": "AI Build",
     "category": "بناء برمجيات",
     "description": "أداة لبناء وإنشاء التطبيقات والأنظمة البرمجية تلقائياً عن طريق كتابة الأوامر النصية والموجهات فقط.",
+    "hide_classes": []
   },
   {
     "url": "https://g4f.dev",
@@ -1671,7 +1677,8 @@
   "name": "Free AI",
   "category": "أدوات ذكاء اصطناعي",
   "description": "منصة توفر الوصول المباشر والمجاني لمجموعة واسعة من نماذج وأدوات الذكاء الاصطناعي لتوليد النصوص، التصميم، وأتمتة المهام اليومية بدون قيود أو رسوم.",
-  "badges" : ["مجاني"]
+  "hide_classes": [],
+  "badges" : ["مجاني","يدعم العربية"]
 },
     {
     "id": 221,
