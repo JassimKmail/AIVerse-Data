@@ -262,7 +262,8 @@
     "url": "https://www.app.araby.ai/",
     "icon": "https://www.app.araby.ai/favicon.ico",
     "category": "الكل",
-    "hide_classes": []
+    "hide_classes": [],
+      "badges": ["يدعم الواجهة العربية"]
   },
     {
       "name": "Canva Magic Studio",
