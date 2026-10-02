@@ -89,7 +89,8 @@
     "category": "تصميم وجرافيك",
     "description": "منصة عالمية للتصويت والمقارنة المباشرة (Benchmarking) بين نماذج الذكاء الاصطناعي المختلفة لتوليد التصاميم والجرافيك لاكتشاف الأفضل بينها.",
       "hide_classes": []
-  }, {
+  }, 
+    {
     "url": "https://higgsfield.ai",
     "name": "Higgsfield AI",
     "category": "توليد الفيديو",
