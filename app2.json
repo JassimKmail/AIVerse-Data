@@ -10,13 +10,14 @@
   "update_config": {
     "latest_version_code": 2,
     "latest_version_name": "1.0",
-    "is_force_update": false,
+    "is_force_update": true,
     "title": "تحديث جديد متاح",
     "description": "تم إصدار إصدار جديد من التطبيق يحتوي على تحسينات في الأداء وإصلاح بعض الأخطاء.",
     "changelog": [
       "تحسين سرعة التطبيق",
       "إصلاح بعض الأخطاء",
-      "إضافة ميزات جديدة"
+      "إضافة ميزات جديدة",
+      "تحديث ضروري"
     ],
     "download_url": "https://codelist.cc/apps3/261974-snapreels-v119-short-drama-streaming-saas-script-with-android-app.html"
   },
