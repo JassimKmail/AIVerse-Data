@@ -1659,14 +1659,7 @@
       "hide_classes": [],
       "id": 200
     },
-    {
-      "url": "https://arena.ai",
-      "name": "Arena AI (LMSYS)",
-      "category": "مقارنة النماذج",
-      "description": "منصة التقييم والمقارنة الشهيرة لتجربة نماذج الذكاء الاصطناعي التوليدية جنبًا إلى جنب واختبار جودة إجابات النماذج بشكل أعمى.",
-      "hide_classes": [],
-      "id": 201
-    },
+    
     {
       "url": "https://aitmpl.com",
       "name": "AI Templates",
