@@ -531,14 +531,7 @@
       "hide_classes": [],
       "id": 59
     },
-    {
-      "name": "Suno V5.5",
-      "category": "صناعة موسيقى وصوت",
-      "description": "تحديث متطور لأداة صناعة الموسيقى تتيح للمستخدمين إنتاج مسارات صوتية وموسيقى بدقة استوديو احترافية.",
-      "url": "https://suno.com",
-      "hide_classes": [],
-      "id": 60
-    },
+
     {
       "name": "Play.ht",
       "category": "توليد وتعديل الصوت",
@@ -891,14 +884,7 @@
       "hide_classes": [],
       "id": 104
     },
-    {
-      "name": "Midjourney v6",
-      "category": "توليد صور",
-      "description": "النسخة الأحدث والأكثر تطوراً من ميدجورني لتوليد صور واقعية بشكل مذهل بدقة تفاصيل غير مسبوقة.",
-      "url": "https://www.midjourney.com",
-      "hide_classes": [],
-      "id": 105
-    },
+   
     {
       "name": "Consumable AI",
       "category": "أخرى",
@@ -1035,14 +1021,7 @@
       "hide_classes": [],
       "id": 122
     },
-    {
-      "name": "Watermark Remover io",
-      "category": "توليد صور",
-      "description": "أداة سحابية شهيرة مخصصة لإزالة العلامات المائية المعقدة من الصور وتصفيتها وتنقيتها فورياً بدقة كبرى.",
-      "url": "https://www.watermarkremover.io",
-      "hide_classes": [],
-      "id": 123
-    },
+    
     {
       "name": "Klap",
       "category": "صناعة وتعديل فيديو",
@@ -1051,14 +1030,7 @@
       "hide_classes": [],
       "id": 124
     },
-    {
-      "name": "InVideo Studio",
-      "category": "صناعة وتعديل فيديو",
-      "description": "محرر الفيديو السحابي الكلاسيكي المدمج بأدوات ذكاء اصطناعي وقوالب جاهزة لصناعة إعلانات احترافية.",
-      "url": "https://invideo.io",
-      "hide_classes": [],
-      "id": 125
-    },
+    
     {
       "name": "Aisera",
       "category": "أخرى",
@@ -1371,14 +1343,7 @@
       "hide_classes": [],
       "id": 164
     },
-    {
-      "name": "Lovo.ai Voiceover",
-      "category": "توليد وتعديل الصوت",
-      "description": "واجهة مخصصة من منصة لوفو تتيح للمبتدئين إنتاج تعليق صوتي فوري بجودة عالية للألعاب والكتب المسموعة.",
-      "url": "https://lovo.ai",
-      "hide_classes": [],
-      "id": 165
-    },
+   
     {
       "name": "Resemble.ai",
       "category": "توليد وتعديل الصوت",
@@ -1395,14 +1360,7 @@
       "hide_classes": [],
       "id": 167
     },
-    {
-      "name": "Voicemod",
-      "category": "توليد وتعديل الصوت",
-      "description": "برنامج شهير لتغيير نبرة الصوت في الوقت الفعلي مدمج بأدوات ذكاء اصطناعي لبث الألعاب والمحادثات الحية.",
-      "url": "https://www.voicemod.net",
-      "hide_classes": [],
-      "id": 168
-    },
+   
     {
       "name": "Abridge Medical",
       "category": "أخرى",
@@ -1419,14 +1377,7 @@
       "hide_classes": [],
       "id": 170
     },
-    {
-      "name": "Visily Wireframes",
-      "category": "تطوير مواقع وتصميم",
-      "description": "أداة ممتازة تقوم بتحويل لقطات الشاشة للتطبيقات الحالية إلى نماذج وتصاميم (Wireframes) قابلة للتعديل بالكامل.",
-      "url": "https://www.visily.ai",
-      "hide_classes": [],
-      "id": 171
-    },
+   
     {
       "name": "Amazon Q",
       "category": "نماذج لغوية وبرمجة",
@@ -1451,14 +1402,7 @@
       "hide_classes": [],
       "id": 174
     },
-    {
-      "name": "Tavus Video",
-      "category": "صناعة وتعديل فيديو",
-      "description": "منصة فيديو متقدمة تولد حملات تسويقية مرئية ومخصصة لآلاف العملاء دفعة واحدة باستخدام تقنيات استنساخ المتحدثين.",
-      "url": "https://www.tavus.io",
-      "hide_classes": [],
-      "id": 175
-    },
+    
     {
       "name": "Pecan Analytics",
       "category": "أخرى",
@@ -1467,22 +1411,7 @@
       "hide_classes": [],
       "id": 176
     },
-    {
-      "name": "Artbreeder Collages",
-      "category": "توليد صور",
-      "description": "أداة داخل آرت بريدر تتيح لك تجميع أشكال هندسية ورسومات بدائية لتتحول فوراً إلى لوحات وصور فنية واقعية للغاية.",
-      "url": "https://www.artbreeder.com",
-      "hide_classes": [],
-      "id": 177
-    },
-    {
-      "name": "Stockimg AI Logos",
-      "category": "توليد صور",
-      "description": "قسم متخصص داخل منصة ستوك إيمج لإنشاء وتوليد شعارات تجارية (Logos) وأيقونات عصرية للمشاريع الناشئة.",
-      "url": "https://stockimg.ai",
-      "hide_classes": [],
-      "id": 178
-    },
+  
     {
       "name": "Podcastle Studio",
       "category": "توليد وتعديل الصوت",
@@ -1499,38 +1428,7 @@
       "hide_classes": [],
       "id": 180
     },
-    {
-      "name": "DeepAI Image Generator",
-      "category": "توليد صور",
-      "description": "أداة توليد صور كلاسيكية مجانية تقدم نماذج متنوعة لتوليد رسومات وأشكال سريعة مباشرة عبر المتصفح.",
-      "url": "https://deepai.org",
-      "hide_classes": [],
-      "id": 181
-    },
-    {
-      "name": "Hotpot AI Tools",
-      "category": "توليد صور",
-      "description": "مجموعة أدوات لتعديل الصور تشمل تكبير الحجم، مسح الأجزاء غير المرغوبة، وتحسين دقة الألوان بالذكاء الاصطناعي.",
-      "url": "https://hotpot.ai",
-      "hide_classes": [],
-      "id": 182
-    },
-    {
-      "name": "Excent UX",
-      "category": "تطوير مواقع وتصميم",
-      "description": "منصة متقدمة لتصميم تجربة المستخدم تتيح للمبدعين محاكاة تفاعل المستخدمين واختبار الواجهات بذكاء.",
-      "url": "https://www.uxpin.com",
-      "hide_classes": [],
-      "id": 183
-    },
-    {
-      "name": "Superhuman Mail",
-      "category": "أخرى",
-      "description": "تجربة بريد إلكتروني ثورية تدمج تقنيات ذكية لجدولة الرسائل، وتلخيص المحادثات الطويلة، وصياغة الردود بدقة.",
-      "url": "https://superhuman.com",
-      "hide_classes": [],
-      "id": 184
-    },
+
     {
       "name": "CapCut Web Tools",
       "category": "صناعة وتعديل فيديو",
@@ -1547,30 +1445,9 @@
       "hide_classes": [],
       "id": 186
     },
-    {
-      "name": "Forms.app Builder",
-      "category": "أخرى",
-      "description": "منصة بناء استمارات مدمجة بالذكاء الاصطناعي تقوم بإنشاء حقول الأسئلة وتنسيق التصميم بناءً على طلبك النصي.",
-      "url": "https://forms.app",
-      "hide_classes": [],
-      "id": 187
-    },
-    {
-      "name": "Typeform AI Forms",
-      "category": "أخرى",
-      "description": "تحديث ذكي لمنصة تايب فورم الشهيرة يتيح صياغة استبيانات تفاعلية مخصصة تزيد من نسب إكمال البيانات.",
-      "url": "https://www.typeform.com",
-      "hide_classes": [],
-      "id": 188
-    },
-    {
-      "name": "Aisera Automation",
-      "category": "أخرى",
-      "description": "نظام أتمتة مؤسسي يعتمد على محادثات ذكية لحل مشاكل الموظفين والعملاء في تكنولوجيا المعلومات ذاتياً.",
-      "url": "https://aisera.com",
-      "hide_classes": [],
-      "id": 189
-    },
+   
+  
+  
     {
       "name": "Designs.ai Graphic",
       "category": "تطوير مواقع وتصميم",
@@ -2695,17 +2572,7 @@
       ],
       "id": 303
     },
-    {
-      "name": "PhotoRoom Studio",
-      "category": "تعديل الصور",
-      "description": "أدوات ذكية لإنشاء صور المنتجات وإزالة الخلفيات وتحسين التصاميم.",
-      "url": "https://www.photoroom.com",
-      "hide_classes": [],
-      "badges": [
-        "مجاني"
-      ],
-      "id": 304
-    },
+    
     {
       "name": "Hailuo AI",
       "category": "توليد الفيديو",
