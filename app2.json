@@ -87,7 +87,7 @@
     {
       "name": "Arena Ai",
       "category": "نماذج لغوية وبرمجة",
-      "description": "",
+      "description": "منصة تقييم وتصنيف تنافسية لمقارنة أداء نماذج الذكاء الاصطناعي والتصويت للأفضل.",
       "url": "https://arena.ai",
       "hide_classes": [],
       "badges": [
@@ -126,7 +126,7 @@
     {
       "name": "Theresanaiforthat",
       "category": "نماذج لغوية وبرمجة",
-      "description": "",
+      "description": "دليل شامل ومحرك بحث لاكتشاف أدوات الذكاء الاصطناعي لمختلف المهام.",
       "url": "https://theresanaiforthat.com",
       "hide_classes": [],
       "badges": [
@@ -194,7 +194,7 @@
       "url": "https://onehop.ai/invite/4JTMQZ",
       "name": "OneHop Ai",
       "category": "شات بوت ومحادثة",
-      "description": "",
+      "description": "منصة توفر واجهة موحدة (API) لتجربة واختبار عدة نماذج ذكاء اصطناعي بسلسة وسرعة.",
       "hide_classes": [],
       "id": 19
     },
