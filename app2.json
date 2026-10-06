@@ -1,11 +1,11 @@
 {
   "admob_config": {
-  "ad_status": "off",
-  "ad_network": "unity",
-  "unity_game_id": "6190344",
-  "unity_banner_id": "Banner_Android",
-  "unity_interstitial_id": "Interstitial_Android",
-  "test_mode":  true
+    "ad_status": "off",
+    "ad_network": "unity",
+    "unity_game_id": "6190344",
+    "unity_banner_id": "Banner_Android",
+    "unity_interstitial_id": "Interstitial_Android",
+    "test_mode": true
   },
   "update_config": {
     "latest_version_code": 1,
@@ -29,7 +29,9 @@
       "description": "الرائد في المحادثة الذكية وتوليد النصوص، الإجابة على الأسئلة، وتحليل البيانات.",
       "url": "https://chatgpt.com",
       "hide_classes": [],
-      "badges":["واجهة عربية"]
+      "badges": [
+        "واجهة عربية"
+      ]
     },
     {
       "id": 2,
@@ -50,7 +52,7 @@
       ]
     },
     {
-      "id":4,
+      "id": 4,
       "name": "Grok",
       "category": "نماذج لغوية وبرمجة",
       "description": "  نموذج ذكاء اصطناعي تفاعلي متطور من شركة xAI ",
@@ -59,126 +61,150 @@
         "gb_Hd"
       ]
     },
-    
     {
       "name": "Meta AI",
       "category": "نماذج لغوية وبرمجة",
       "description": "مساعد الذكاء الاصطناعي الشامل والذكي من شركة ميتا، يعتمد على نموذج Llama القوي لتوليد النصوص، البرمجة، والبحث الفوري عن المعلومات.",
       "url": "https://www.meta.ai",
       "hide_classes": [],
-      "badges": ["واجهة عربية","مجاني"]
+      "badges": [
+        "واجهة عربية",
+        "مجاني"
+      ],
+      "id": 5
     },
-        {
-    "url": "https://manus.im",
-    "name": "Manus AI",
-    "category": "وكلاء الذكاء الاصطناعي",
-    "description": "وكيل ذكاء اصطناعي مستقل (Autonomous AI Agent) قادر على تنفيذ المهام المعتمدة والمعقدة بنفسه مثل البرمجة، إدارة الأعمال، وإنشاء العروض التقديمية عبر بيئة سحابية دون تدخل بشري مستمر.",
-    "hide_classes": [],
-    "badges": ["واجهة عربية"]  
-  },
-    
+    {
+      "url": "https://manus.im",
+      "name": "Manus AI",
+      "category": "وكلاء الذكاء الاصطناعي",
+      "description": "وكيل ذكاء اصطناعي مستقل (Autonomous AI Agent) قادر على تنفيذ المهام المعتمدة والمعقدة بنفسه مثل البرمجة، إدارة الأعمال، وإنشاء العروض التقديمية عبر بيئة سحابية دون تدخل بشري مستمر.",
+      "hide_classes": [],
+      "badges": [
+        "واجهة عربية"
+      ],
+      "id": 6
+    },
     {
       "name": "Arena Ai",
       "category": "نماذج لغوية وبرمجة",
       "description": "",
       "url": "https://arena.ai",
       "hide_classes": [],
-      "badges":["مجاني محدود"]
+      "badges": [
+        "مجاني محدود"
+      ],
+      "id": 7
     },
     {
       "name": "Perplexity AI",
       "category": "محركات بحث ذكية",
       "description": "محرك بحث ذكي يقدم إجابات مباشرة ومختصرة مع ذكر المصادر والمراجع بدقة.",
       "url": "https://www.perplexity.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 8
     },
     {
       "name": "Midjourney",
       "category": "توليد صور",
       "description": "الأقوى عالمياً في توليد الصور الفنية واللوحات الرقمية فائقة الواقعية من النصوص.",
       "url": "https://www.midjourney.com",
-      "hide_classes": []
-   },
-    {
-    "url": "https://designarena.ai",
-    "name": "Design Arena",
-    "category": "تصميم وجرافيك",
-    "description": "منصة عالمية للتصويت والمقارنة المباشرة (Benchmarking) بين نماذج الذكاء الاصطناعي المختلفة لتوليد التصاميم والجرافيك لاكتشاف الأفضل بينها.",
       "hide_classes": [],
-        "badges": ["واجهة عربية","مجاني للفترة الحالية"]
-  },
+      "id": 9
+    },
+    {
+      "url": "https://designarena.ai",
+      "name": "Design Arena",
+      "category": "تصميم وجرافيك",
+      "description": "منصة عالمية للتصويت والمقارنة المباشرة (Benchmarking) بين نماذج الذكاء الاصطناعي المختلفة لتوليد التصاميم والجرافيك لاكتشاف الأفضل بينها.",
+      "hide_classes": [],
+      "badges": [
+        "واجهة عربية",
+        "مجاني للفترة الحالية"
+      ],
+      "id": 10
+    },
     {
       "name": "Theresanaiforthat",
-      "category":"نماذج لغوية وبرمجة",
-      "description":"",
+      "category": "نماذج لغوية وبرمجة",
+      "description": "",
       "url": "https://theresanaiforthat.com",
       "hide_classes": [],
-     "badges": ["مجاني"]
+      "badges": [
+        "مجاني"
+      ],
+      "id": 11
     },
-    
     {
-    "url": "https://higgsfield.ai",
-    "name": "Higgsfield AI",
-    "category": "توليد الفيديو",
-    "description": "منصة متخصصة في إنشاء وتحرير مقاطع الفيديو باستخدام الذكاء الاصطناعي بدقة عالية وتنسيقات تناسب صناع المحتوى وحملات التسويق.",
-    "hide_classes": []
-  },
+      "url": "https://higgsfield.ai",
+      "name": "Higgsfield AI",
+      "category": "توليد الفيديو",
+      "description": "منصة متخصصة في إنشاء وتحرير مقاطع الفيديو باستخدام الذكاء الاصطناعي بدقة عالية وتنسيقات تناسب صناع المحتوى وحملات التسويق.",
+      "hide_classes": [],
+      "id": 12
+    },
     {
-    "url": "https://flow.google.com",
-    "name": "Google Flow",
-    "category": "أدوات جوجل",
-    "description": "أداة تجريبية وبيئة عمل متطورة من جوجل لإدارة وتنفيذ مسارات العمل الذكية (Workflows) والأتمتة باستخدام نماذج الذكاء الاصطناعي.",
-    "hide_classes": []
-  },
+      "url": "https://flow.google.com",
+      "name": "Google Flow",
+      "category": "أدوات جوجل",
+      "description": "أداة تجريبية وبيئة عمل متطورة من جوجل لإدارة وتنفيذ مسارات العمل الذكية (Workflows) والأتمتة باستخدام نماذج الذكاء الاصطناعي.",
+      "hide_classes": [],
+      "id": 13
+    },
     {
       "name": "Opal",
       "category": "نماذج لغوية وبرمجة",
       "description": "منصة ثورية تجريبية من Google Labs مدمجة في جمناي لبناء وتصميم تطبيقات مصغرة (Mini-apps) ذكية عبر توجيهات نصية بسيطة.",
       "url": "https://opal.google",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 14
     },
     {
       "name": "DALL-E 3",
       "category": "توليد صور",
       "description": "أداة OpenAI المدمجة لفهم النصوص بدقة وتوليد صور وتصاميم مميزة تعبر عنها.",
       "url": "https://openai.com/dall-e-3",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 15
     },
     {
       "name": "Stable Diffusion",
       "category": "توليد صور",
       "description": "محرك توليد صور مفتوح المصدر يمنح المصممين تحكماً كاملاً بالتفاصيل والأبعاد.",
       "url": "https://stability.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 16
     },
     {
       "name": "Leonardo AI",
       "category": "توليد صور",
       "description": "منصة ممتازة لتوليد صور الألعاب، الشخصيات، والتصاميم ثلاثية الأبعاد باحترافية.",
       "url": "https://leonardo.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 17
     },
-   {
-    "url": "https://duck.ai",
-    "name": "DuckDuckGo AI Chat",
-    "category": "شات بوت ومحادثة",
-    "description": "خدمة محادثة ذكية مجانية وآمنة تحافظ على الخصوصية التامة دون تتبع، تتيح لك التفاعل مع نماذج مثل ChatGPT و Claude و Llama بشكل مجهول الهوية.",
-     "hide_classes": []
-  },
-    
-   {
-    "url": "https://onehop.ai/invite/4JTMQZ",
-    "name": "OneHop Ai",
-    "category": "شات بوت ومحادثة",
-    "description": "",
-     "hide_classes": []
-  },
+    {
+      "url": "https://duck.ai",
+      "name": "DuckDuckGo AI Chat",
+      "category": "شات بوت ومحادثة",
+      "description": "خدمة محادثة ذكية مجانية وآمنة تحافظ على الخصوصية التامة دون تتبع، تتيح لك التفاعل مع نماذج مثل ChatGPT و Claude و Llama بشكل مجهول الهوية.",
+      "hide_classes": [],
+      "id": 18
+    },
+    {
+      "url": "https://onehop.ai/invite/4JTMQZ",
+      "name": "OneHop Ai",
+      "category": "شات بوت ومحادثة",
+      "description": "",
+      "hide_classes": [],
+      "id": 19
+    },
     {
       "name": "Adobe Firefly",
       "category": "توليد صور",
       "description": "أداة أدوبي التوليدية لتعديل الصور وتوليد العناصر بشكل آمن تجارياً ومتوافق مع فوتوشوب.",
       "url": "https://firefly.adobe.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 20
     },
     {
       "name": "v0 by Vercel",
@@ -187,243 +213,274 @@
       "url": "https://v0.dev",
       "hide_classes": [
         "v0-footer"
-      ]
+      ],
+      "id": 21
     },
     {
       "name": "GitHub Copilot",
       "category": "نماذج لغوية وبرمجة",
       "description": "المساعد البرمجي الأشهر للمطورين لإكمال الأكواد واقتراح الدوال البرمجية الذكية.",
       "url": "https://github.com/features/copilot",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 22
     },
     {
       "name": "Cursor",
       "category": "برمجة",
       "description": "محرر أكواد متكامل مبني بالذكاء الاصطناعي لتطوير المشاريع البرمجية بسرعة فائقة.",
       "url": "https://www.cursor.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 23
     },
     {
       "name": "Replit Agent",
       "category": "نماذج لغوية وبرمجة",
       "description": "بيئة برمجية ذكية تقوم ببناء تطبيقات كاملة من الصفر بمجرد شرح الفكرة لها.",
       "url": "https://replit.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 24
     },
-    
     {
       "name": "Runway Gen-3",
       "category": "فيديو",
       "description": "أداة رائدة في تحريك الصور وتوليد مقاطع الفيديو والمؤثرات البصرية للمصممين.",
       "url": "https://runwayml.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 25
     },
     {
       "name": "Pika Labs",
       "category": "فيديو",
       "description": "منصة سهلة ومميزة لتحريك الرسوم والكارتون وتوليد الفيديوهات القصيرة.",
       "url": "https://pika.art",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 26
     },
     {
       "name": "HeyGen",
       "category": "عروض تقدمية",
       "description": "توليد متحدثين افتراضيين (Avatars) واقعيين لتقديم الشروحات والإعلانات بدقة عالية.",
       "url": "https://www.heygen.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 27
     },
     {
-    "url": "https://saveto.ai",
-    "name": "SaveTo AI",
-    "category": "إنتاجية وتلخيص",
-    "description": "منصة شاملة لتلخيص وتحويل فيديوهات يوتيوب، تيك توك، بودكاست والمستندات إلى نصوص مكتوبة وملخصات منظمة باستخدام الذكاء الاصطناعي.",
+      "url": "https://saveto.ai",
+      "name": "SaveTo AI",
+      "category": "إنتاجية وتلخيص",
+      "description": "منصة شاملة لتلخيص وتحويل فيديوهات يوتيوب، تيك توك، بودكاست والمستندات إلى نصوص مكتوبة وملخصات منظمة باستخدام الذكاء الاصطناعي.",
       "hide_classes": [],
-      "badges":  ["مجاني"]
-  },
+      "badges": [
+        "مجاني"
+      ],
+      "id": 28
+    },
     {
       "name": "ElevenLabs",
       "category": "صوت",
       "description": "الأفضل عالمياً في تحويل النصوص إلى صوت بشري طبيعي جداً وتوليف ونبرات الصوت.",
       "url": "https://elevenlabs.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 29
     },
     {
       "name": "Suno AI",
       "category": "موسيقى",
       "description": "توليد أغاني ومقاطع موسيقية كاملة الكلمات والألحان بمجرد اختيار النمط.",
       "url": "https://suno.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 30
     },
     {
       "name": "Udio",
       "category": "صوت",
       "description": "منصة متطورة لإنشاء المقطوعات الموسيقية والأناشيد بجودة استوديو احترافية.",
       "url": "https://www.udio.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 31
     },
     {
       "name": "Gamma App",
       "category": "عروض تقديمية",
       "description": "إنشاء عروض تقديمية (PowerPoint) ومواقع ويب كاملة التنسيق في ثوانٍ معدودة.",
       "url": "https://gamma.app",
+      "hide_classes": [],
+      "id": 32
+    },
+    {
+      "id": 33,
+      "name": "Use AI",
+      "description": "منصة أدوات وتطبيقات الذكاء الاصطناعي المتقدمة",
+      "url": "https://use.ai/ar-sa",
+      "icon": "https://use.ai/favicon.ico",
+      "category": "الكل",
       "hide_classes": []
     },
-   
-  {
-    "id": 101,
-    "name": "Use AI",
-    "description": "منصة أدوات وتطبيقات الذكاء الاصطناعي المتقدمة",
-    "url": "https://use.ai/ar-sa",
-    "icon": "https://use.ai/favicon.ico",
-    "category": "الكل",
-    "hide_classes": []
-  },
-  {
-    "id": 102,
-    "name": "Felo AI",
-    "description": "محرك بحث ذكي وأداة لتلخيص وإدارة المعرفة",
-    "url": "https://felo.ai/ar/",
-    "icon": "https://felo.ai/favicon.ico",
-    "category": "الكل",
-    "hide_classes": []
-  },
-  {
-    "id": 103,
-    "name": "Araby AI",
-    "description": "منصة شاملة لمعالجة وإنشاء المحتوى باللغة العربية",
-    "url": "https://www.app.araby.ai/",
-    "icon": "https://www.app.araby.ai/favicon.ico",
-    "category": "الكل",
-    "hide_classes": [],
-      "badges": ["واجهة عربية"]
-  },
+    {
+      "id": 34,
+      "name": "Felo AI",
+      "description": "محرك بحث ذكي وأداة لتلخيص وإدارة المعرفة",
+      "url": "https://felo.ai/ar/",
+      "icon": "https://felo.ai/favicon.ico",
+      "category": "الكل",
+      "hide_classes": []
+    },
+    {
+      "id": 35,
+      "name": "Araby AI",
+      "description": "منصة شاملة لمعالجة وإنشاء المحتوى باللغة العربية",
+      "url": "https://www.app.araby.ai/",
+      "icon": "https://www.app.araby.ai/favicon.ico",
+      "category": "الكل",
+      "hide_classes": [],
+      "badges": [
+        "واجهة عربية"
+      ]
+    },
     {
       "name": "Canva Magic Studio",
       "category": "تعديل الصور",
       "description": "مجموعة أدوات ذكية داخل كانفا لتعديل التصاميم، إزالة الخلفيات، وتوليد النصوص.",
       "url": "https://www.canva.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 36
     },
     {
       "name": "Phind",
       "category": "برمجة",
       "description": "محرك بحث مخصص للمبرمجين لشرح الحلول وحل مشاكل برمجية معقدة بالدليل.",
       "url": "https://www.phind.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 37
     },
     {
       "name": "Beautiful.ai",
       "category": "عروض تقديمية",
       "description": "مصمم عروض تقديمية ذكي يقوم بضبط أحجام الخطوط والصور تلقائياً أثناء كتابتك.",
       "url": "https://www.beautiful.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 38
     },
     {
       "name": "Remove.bg",
       "category": "ازالة الخلفية",
       "description": "أداة سريعة ومتخصصة في إزالة خلفيات الصور بدقة فائقة وبكبسة زر واحدة.",
       "url": "https://www.remove.bg",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 39
     },
     {
       "name": "Upscayl",
       "category": "تعديل الصور",
       "description": "أداة لزيادة دقة وحجم الصور الضعيفة وتوضيح معالمها بالاعتماد على الذكاء الاصطناعي.",
       "url": "https://www.upscayl.org",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 40
     },
     {
       "name": "Clipdrop",
       "category": "تعديل الصور",
       "description": "مجموعة أدوات من الاستوديو الذكي لتعديل الإضاءة، إزالة العناصر، وتكبير خلفيات الصور.",
       "url": "https://clipdrop.co",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 41
     },
     {
       "name": "Jasper AI",
       "category": "كتابة مقالات",
       "description": "منصة متكاملة لكتابة المقالات الإعلانية، محتوى التسويق، والرسائل البريدية الاحترافية.",
       "url": "https://www.jasper.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 42
     },
     {
       "name": "Copy.ai",
       "category": "كتابة مقالات",
       "description": "توليد أفكار تسويقية وكتابة منشورات مواقع التواصل الاجتماعي لزيادة المبيعات.",
       "url": "https://www.copy.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 43
     },
     {
       "name": "QuillBot",
       "category": "ادوات كتابة وتحرير",
       "description": "أداة ذكية لإعادة صياغة النصوص والتحقق من القواعد الإملائية والسرقة الأدبية.",
       "url": "https://quillbot.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 44
     },
     {
       "name": "DeepL Translate",
       "category": "ترجمة",
       "description": "المترجم الأكثر دقة عالمياً، يفهم سياق الجمل ويقدم ترجمة طبيعية وممتازة.",
       "url": "https://www.deepl.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 45
     },
     {
       "name": "Synthesia",
       "category": "فيديو",
       "description": "تحويل النصوص المكتوبة إلى فيديوهات تدريبية وتعليمية بواسطة شخصيات ذكاء اصطناعي.",
       "url": "https://www.synthesia.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 46
     },
     {
       "name": "Luma Dream Machine",
       "category": "فيديو",
       "description": "محرك سريع لتوليد لقطات فيديو ثلاثية الأبعاد فائقة الحركة والواقعية الفيزيائية.",
       "url": "https://lumalabs.ai/dream-machine",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 47
     },
     {
       "name": "VoiceMod",
       "category": "صوت",
       "description": "تغيير نبرة الصوت في الوقت الحقيقي أثناء الألعاب أو البث المباشر والمحادثات.",
       "url": "https://www.voicemod.net",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 48
     },
     {
       "name": "Otter.ai",
       "category": "مساعد ذكي",
       "description": "مساعد ذكي للاجتماعات، يقوم بكتابة وتلخيص الملاحظات الصوتية والاجتماعات تلقائياً.",
       "url": "https://otter.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 49
     },
     {
       "name": "ChatPDF",
       "category": "مساعد ذكي",
       "description": "تطبيق يتيح لك رفع أي ملف PDF والمحادثة معه واستخراج الخلاصة والأسئلة منه.",
       "url": "https://www.chatpdf.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 50
     },
     {
       "name": "Consensus",
       "category": "مساعد ذكي",
       "description": "محرك بحث يعتمد على الأبحاث والدراسات العلمية المحكّمة للإجابة على التساؤلات الطبية والتقنية.",
       "url": "https://consensus.app",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 51
     },
     {
       "name": "Tome AI",
       "category": "عروض تقديمية",
       "description": "بناء قصص تفاعلية وعروض تقديمية مدعمة بالصور التوليدية بشكل منسق وجذاب.",
       "url": "https://tome.app",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 52
     },
     {
       "name": "Humata AI",
       "category": "مساعد ذكي",
       "description": "مسرّع قراءة الملفات القانونية والتقنية الطويلة عبر محرك بحث واستجواب داخلي مخصص.",
       "url": "https://www.humata.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 53
     },
-    
     {
       "name": "Qwen",
       "category": "نماذج لغوية وبرمجة",
@@ -431,2310 +488,2772 @@
       "url": "https://chat.qwen.ai",
       "hide_classes": [
         "gb_Hd"
-      ]
+      ],
+      "id": 54
     },
     {
       "name": "DeepSeek",
       "category": "نماذج لغوية وبرمجة",
       "description": "نموذج ذكاء اصطناعي متطور ومفتوح المصدر يتميز بقدرات استثنائية في البرمجة والحلول المنطقية والرياضية.",
       "url": "https://www.deepseek.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 55
     },
-
-       {
+    {
       "name": "Clipchamp",
       "category": "صناعة وتعديل فيديو",
       "description": "أداة تحرير الفيديو المدعومة من مايكروسوفت والتي تعتمد على أدوات ذكية لتسهيل المونتاج وقص المقاطع.",
       "url": "https://clipchamp.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 56
     },
-  
- 
     {
       "name": "Kling AI",
       "category": "صناعة وتعديل فيديو",
       "description": "أداة عالمية قوية لتوليد مقاطع فيديو خيالية وواقعية ذات دقة عالية وحركات فيزيائية دقيقة.",
       "url": "https://klingai.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 57
     },
     {
       "name": "Ideogram",
       "category": "توليد صور",
       "description": "مولد صور متميز للغاية بقدرته الاستثنائية على دمج وكتابة النصوص والكلمات داخل الصور بشكل صحيح.",
       "url": "https://ideogram.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 58
     },
     {
       "name": "Lexica",
       "category": "توليد صور",
       "description": "محرك بحث ومعرض ضخم للصور المولدة بالذكاء الاصطناعي يوفر أيضاً إمكانية توليد صور جديدة بدقة عالية.",
       "url": "https://lexica.art",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 59
     },
     {
       "name": "Suno V5.5",
       "category": "صناعة موسيقى وصوت",
       "description": "تحديث متطور لأداة صناعة الموسيقى تتيح للمستخدمين إنتاج مسارات صوتية وموسيقى بدقة استوديو احترافية.",
       "url": "https://suno.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 60
     },
-    
     {
       "name": "Play.ht",
       "category": "توليد وتعديل الصوت",
       "description": "منصة لتحويل النص إلى كلام تمنحك أصواتاً واقعية جداً وملائمة للبودكاست ومقاطع الفيديو التوضيحية.",
       "url": "https://playhtai.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 61
     },
     {
       "name": "Voice.ai",
       "category": "توليد وتعديل الصوت",
       "description": "برنامج مخصص لتغيير الصوت في الوقت الفعلي لأي شخصية بدقة متناهية أثناء الألعاب أو البث المباشر.",
       "url": "https://voice.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 62
     },
     {
       "name": "Descript",
       "category": "صناعة وتعديل فيديو",
       "description": "أداة تحرير فيديو وصوت ثورية تتيح لك المونتاج وتعديل الوسائط عبر تعديل النص المكتوب مباشرة.",
       "url": "https://www.descript.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 63
     },
     {
       "name": "Framer AI",
       "category": "تطوير مواقع وتصميم",
       "description": "أداة تصميم متقدمة تتيح لك توليد وتصميم مواقع ويب تفاعلية وكاملة العناصر بمجرد كتابة فكرتك.",
       "url": "https://www.framer.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 64
     },
     {
       "name": "10Web",
       "category": "تطوير مواقع وتصميم",
       "description": "منصة ذكية لبناء وإدارة مواقع الووردبريس آلياً وتحسين سرعتها وأمانها بالذكاء الاصطناعي في دقائق.",
       "url": "https://10web.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 65
     },
     {
       "name": "Durable",
       "category": "تطوير مواقع وتصميم",
       "description": "أسرع مولد مواقع إنترنت للشركات الناشئة والمشاريع الصغيرة، ينشئ موقعاً جاهزاً بالصور والنصوص في 30 ثانية.",
       "url": "https://durable.co",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 66
     },
     {
       "name": "Looka",
       "category": "تصميم شعارات وهوية",
       "description": "منصة ذكية تساعد رواد الأعمال على تصميم هويات بصرية وشعارات (Logos) احترافية ومتكاملة لمشاريعهم.",
       "url": "https://looka.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 67
     },
     {
       "name": "Veed.io",
       "category": "صناعة وتعديل فيديو",
       "description": "محرر فيديو سحابي يوفر أدوات ذكية لإضافة الترجمة التلقائية، قص المشاهد، وإنتاج المحتوى لمنصات التواصل الاجتماعي.",
       "url": "https://www.veed.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 68
     },
     {
       "name": "InVideo AI",
       "category": "صناعة وتعديل فيديو",
       "description": "منصة تولد مقاطع فيديو كاملة بالصوت والنصوص والمشاهد التعبيرية بناءً على سطر نصي تكتبه لها.",
       "url": "https://invideo.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 69
     },
-    
     {
       "name": "VanceAI",
       "category": "توليد صور",
       "description": "مجموعة أدوات سحابية قوية لتحسين جودة الصور، رفع دقتها، وتوضيح تفاصيل الصور الباهتة والمشوشة.",
       "url": "https://vanceai.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 70
     },
     {
       "name": "Photoroom",
       "category": "توليد صور",
       "description": "تطبيق وموقع استثنائي لأصحاب المتاجر الإلكترونية لتفريغ صور المنتجات وإضافة خلفيات استوديو احترافية.",
       "url": "https://www.photoroom.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 71
     },
     {
       "name": "Jenni AI",
       "category": "البحث العلمي والأكاديمي",
       "description": "مساعد كتابة أكاديمي متطور يساعد الطلاب والباحثين في صياغة الأوراق والبحوث والتقارير الجامعية.",
       "url": "https://jenni.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 72
     },
-        {
+    {
       "name": "Craiyon",
       "category": "توليد صور",
       "description": "مولد صور مجاني وسهل الاستخدام (عُرف سابقاً باسم DALL-E Mini) يتيح توليد رسومات غير محدودة من الكلمات.",
       "url": "https://www.craiyon.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 73
     },
-   
-         {
+    {
       "name": "You.com",
       "category": "محرك بحث ذكي",
       "description": "محرك بحث يركز على الخصوصية ومدمج بأدوات ذكاء اصطناعي مخصصة للمطورين والباحثين وصناع المحتوى.",
       "url": "https://you.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 74
     },
     {
       "name": "Kaiber",
       "category": "صناعة وتعديل فيديو",
       "description": "استوديو إبداعي يركز على تحويل الموسيقى والصور إلى مقاطع فيديو فنية ومؤثرات بصرية ساحرة للمطربين والفنانين.",
       "url": "https://kaiber.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 75
     },
-    
     {
       "name": "AnimateDiff",
       "category": "صناعة وتعديل فيديو",
       "description": "أداة مفتوحة المصدر ومتقدمة لإنشاء رسوم متحركة ومقاطع فيديو قصيرة وسلسة من الصور والنصوص.",
       "url": "https://animatediff.github.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 76
     },
     {
       "name": "Magnific AI",
       "category": "توليد صور",
       "description": "أداة خارقة لرفع دقة الصور وتوضيح تفاصيلها لدرجة خيالية وإضافة ملامح واقعية جداً.",
       "url": "https://magnific.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 77
     },
     {
       "name": "Krea AI",
       "category": "توليد صور",
       "description": "منصة لتوليد وتعديل الصور في الوقت الفعلي (Real-time) أثناء الرسم أو كتابة الأوصاف.",
       "url": "https://www.krea.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 78
     },
     {
       "name": "Reka AI",
       "category": "نماذج لغوية وبرمجة",
       "description": "مساعد ذكي متعدد الوسائط قادر على فهم النصوص، الصور، الفيديو، والأصوات والإجابة عنها بدقة.",
       "url": "https://www.reka.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 79
     },
     {
       "name": "Cohere",
       "category": "نماذج لغوية وبرمجة",
       "description": "منصة مخصصة للشركات والمطورين لبناء وتدريب نماذج معالجة لغات وتصنيف نصوص مخصصة.",
       "url": "https://cohere.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 80
     },
     {
       "name": "Mubert",
       "category": "صناعة موسيقى وصوت",
       "description": "منصة لتوليد مسارات موسيقية وخلفيات صوتية خالية من حقوق الملكية مخصصة لصناع المحتوى.",
       "url": "https://mubert.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 81
     },
     {
       "name": "Viggle AI",
       "category": "صناعة وتعديل فيديو",
       "description": "أداة مبتكرة تتيح لك دمج أي شخصية بداخل مقاطع فيديو متحركة وجعلها تقلد الحركات بدقة.",
       "url": "https://viggle.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 82
     },
     {
       "name": "Replicate",
       "category": "برمجة وأكواد",
       "description": "مستودع سحابي ضخم يسمح للمطورين بتشغيل وتجربة نماذج الذكاء الاصطناعي مفتوحة المصدر بسطر برميجي واحد.",
       "url": "https://replicate.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 83
     },
     {
       "name": "Relume",
       "category": "تطوير مواقع وتصميم",
       "description": "أداة ممتازة لمصممي المواقع تقوم بتوليد خرائط المواقع (Sitemaps) والـ Wireframes بنقرة زر.",
       "url": "https://www.relume.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 84
     },
     {
       "name": "Recraft",
       "category": "توليد صور",
       "description": "استوديو تصميم مخصص لإنشاء وتوليد الشعارات، الأيقونات، والرسومات المتجهية (Vectors) الاحترافية.",
       "url": "https://www.recraft.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 85
     },
     {
       "name": "Plask",
       "category": "صناعة وتعديل فيديو",
       "description": "أداة متطورة لالتقاط الحركة (Motion Capture) عبر الكاميرا وتحويل حركات البشر الحقيقية إلى مجسمات ثلاثية الأبعاد.",
       "url": "https://plask.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 86
     },
     {
       "name": "Rytr",
       "category": "كتابة محتوى وتسويق",
       "description": "مساعد كتابة اقتصادي وسريع يساعد في صياغة مقالات المدونات، رسائل البريد الإلكتروني، والمنشورات التسويقية.",
       "url": "https://rytr.me",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 87
     },
     {
       "name": "Writesonic",
       "category": "كتابة محتوى وتسويق",
       "description": "منصة شاملة لصناعة المحتوى وتحسين السيو (SEO) وتوليد نصوص إعلانية تزيد من المبيعات.",
       "url": "https://writesonic.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 88
     },
     {
       "name": "Soundraw",
       "category": "صناعة موسيقى وصوت",
       "description": "مولد موسيقى مبتكر يتيح لك تخصيص الألحان وتغيير سرعة الإيقاع وتوزيع الموسيقى بحرية بدون حقوق.",
       "url": "https://soundraw.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 89
     },
     {
       "name": "Opus Clip",
       "category": "صناعة وتعديل فيديو",
       "description": "أداة ممتازة لتحويل الفيديوهات الطويلة (مثل بودكاست أو يوتيوب) إلى مقاطع قصيرة (Shorts/Reels) جذابة ومترجمة تلقائياً.",
       "url": "https://www.opus.pro",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 90
     },
     {
       "name": "Inworld AI",
       "category": "نماذج لغوية وبرمجة",
       "description": "منصة متخصصة لصناع الألعاب لإنشاء شخصيات افتراضية (NPCs) ذكية تتحدث وتتفاعل مع اللاعبين بشكل حي.",
       "url": "https://inworld.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 91
     },
     {
       "name": "Abridge",
       "category": "أخرى",
       "description": "أداة طبية ذكية تقوم بتسجيل محادثات الأطباء مع المرضى وتحويلها إلى تقارير طبية منظمة تلقائياً.",
       "url": "https://www.abridge.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 92
     },
     {
       "name": "Feedly AI",
       "category": "أخرى",
       "description": "مساعد ذكي يقوم بفلترة الأخبار والمقالات العالمية عبر الإنترنت وتجميع ما يهم مجالك وعملك فقط.",
       "url": "https://feedly.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 93
     },
     {
       "name": "Sembly",
       "category": "إنتاج عروض ووثائق",
       "description": "وكيل ذكي يحضر اجتماعات الزووم و تيمز بدلاً عنك، ويسجل الملاحظات ويحلل القرارات والنتائج.",
       "url": "https://www.sembly.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 94
     },
-   
-   
     {
       "name": "WatermarkRemover",
       "category": "توليد صور",
       "description": "أداة مخصصة لحذف العلامات المائية والشعارات من الصور بدقة عالية ودون إتلاف الخلفية الأصيلة.",
       "url": "https://www.watermarkremover.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 95
     },
-    
     {
       "name": "Adobe Enhance",
       "category": "صناعة موسيقى وصوت",
       "description": "أداة مجانية رائعة من Adobe لتحسين جودة الصوت المسجل بالهاتف وجعله يبدو كأنه سُجل في استوديو احترافي.",
       "url": "https://podcast.adobe.com/enhance",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 96
     },
-    
-    
     {
       "name": "BigJPG",
       "category": "توليد صور",
       "description": "أداة متخصصة لتكبير حجم الصور والرسومات الكرتونية (Anime) مع الحفاظ على وضوح الخطوط والألوان.",
       "url": "https://bigjpg.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 97
     },
     {
       "name": "SheetGod",
       "category": "أخرى",
       "description": "أداة تتيح لك كتابة رغبتك باللغة العادية وتحويلها فوراً إلى معادلات إكسيل (Excel Formulas) معقدة وجاهزة.",
       "url": "https://www.boltai.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 98
     },
     {
       "name": "Codeium",
       "category": "برمجة وأكواد",
       "description": "مساعد برميجي مجاني وقوي للغاية يتكامل مع بيئات التطوير لإكمال الأكواد واكتشاف الأخطاء البرمجية.",
       "url": "https://codeium.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 99
     },
     {
       "name": "Tabnine",
       "category": "برمجة وأكواد",
       "description": "من أقدم وأقوى المساعدات البرمجية الذكية التي تحلل سياق مشروعك وتقترح عليك أسطر برمجية كاملة وآمنة.",
       "url": "https://www.tabnine.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 100
     },
     {
       "name": "Wordtune",
       "category": "أدوات كتابة وتحرير",
       "description": "أداة ذكية مخصصة لمساعدتك في إعادة صياغة الجمل الإنجليزية لجعلها تبدو أكثر احترافية ولباقة.",
       "url": "https://www.wordtune.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 101
     },
     {
       "name": "Grammarly",
       "category": "أدوات كتابة وتحرير",
       "description": "المساعد الإملائي والنحوي الأشهر عالمياً لتنقيح النصوص والتأكد من جودة الأسلوب وخلوه من الركاكة.",
       "url": "https://www.grammarly.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 102
     },
     {
       "name": "Scribe",
       "category": "إنتاج عروض ووثائق",
       "description": "أداة تقوم بتسجيل شاشتك أثناء القيام بعمل ما، وتحويل الخطوات تلقائياً إلى دليل إرشادي مصور ومكتوب.",
       "url": "https://scribehow.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 103
     },
-    
     {
       "name": "SiteScore",
       "category": "تطوير مواقع وتصميم",
       "description": "أداة ذكية لتحليل أداء مواقع الإنترنت، فحص السيو، وتقديم نصائح برمجية فورية لتحسين تجربة المستخدم.",
       "url": "https://sitescore.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 104
     },
     {
       "name": "Midjourney v6",
       "category": "توليد صور",
       "description": "النسخة الأحدث والأكثر تطوراً من ميدجورني لتوليد صور واقعية بشكل مذهل بدقة تفاصيل غير مسبوقة.",
       "url": "https://www.midjourney.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 105
     },
-    
     {
       "name": "Consumable AI",
       "category": "أخرى",
       "description": "منصة ذكية مخصصة لتحليل سلوك المستهلكين وتوقع توجهات السوق القادمة بدقة عبر قراءة البيانات الضخمة.",
       "url": "https://consumable.com.au",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 106
     },
     {
       "name": "Glean",
       "category": "محرك بحث ذكي",
       "description": "محرك بحث مخصص للشركات يقوم بالبحث الذكي داخل كافة ملفات وتطبيقات وإيميلات العمل في مكان واحد.",
       "url": "https://www.glean.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 107
     },
     {
       "name": "Pecan AI",
       "category": "أخرى",
       "description": "منصة متطورة تتيح لفرق التسويق والمبيعات بناء نماذج تحليلية تنبؤية بدون الحاجة لكتابة أكواد برمجية.",
       "url": "https://www.pecan.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 108
     },
     {
       "name": "Harvey AI",
       "category": "أدوات كتابة وتحرير",
       "description": "مساعد قانوني خارق مدعوم بالذكاء الاصطناعي، مخصص لمساعدة المحامين في صياغة العقود وتحليل القضايا المعقدة.",
       "url": "https://www.harvey.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 109
     },
     {
       "name": "Hebbia",
       "category": "محرك بحث ذكي",
       "description": "محرك بحث معرفي متقدم للمؤسسات الكبرى قادر على قراءة وفهم ملايين المستندات والإجابة عليها فوراً.",
       "url": "https://www.hebbia.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 110
     },
     {
       "name": "Tavus",
       "category": "صناعة وتعديل فيديو",
       "description": "منصة مذهلة تتيح لك استنساخ وجهك وصوتك لتوليد آلاف الفيديوهات المخصصة باسم كل عميل تلقائياً بضغطة زر.",
       "url": "https://www.tavus.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 111
     },
     {
       "name": "ElevenLabs Reader",
       "category": "توليد وتعديل الصوت",
       "description": "تطبيق وموقع مخصص لقراءة المقالات، الكتب الإلكترونية، والملفات النصية بأصوات بشرية طبيعية للغاية.",
       "url": "https://elevenlabs.io/text-to-speech",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 112
     },
     {
       "name": "Sincode AI",
       "category": "كتابة محتوى وتسويق",
       "description": "منصة شاملة توفر أكثر من 50 أداة ذكية مخصصة لكتابة المحتوى، تحسين السيو، وتوليد الأفكار الإبداعية.",
       "url": "https://www.sincode.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 113
     },
     {
       "name": "Lovo.ai Genny",
       "category": "توليد وتعديل الصوت",
       "description": "الجيل الجديد من منصة لوفو، يدمج بين تعديل الفيديو وتحويل النص إلى كلام وتوليد الفن الرقمي في واجهة واحدة.",
       "url": "https://lovo.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 114
     },
     {
       "name": "Guidde",
       "category": "إنتاج عروض ووثائق",
       "description": "أداة سريعة لإنشاء أدلة وفيديوهات توضيحية لخطوات العمل وتدريب الموظفين بالصوت والصورة في ثوانٍ.",
       "url": "https://www.guidde.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 115
     },
     {
       "name": "Chatbot.com",
       "category": "كتابة محتوى وتسويق",
       "description": "منصة احترافية لبناء وبرمجة روبوتات المحادثة التفاعلية لخدمة العملاء على المواقع وتطبيقات التواصل الاجتماعي.",
       "url": "https://www.chatbot.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 116
     },
     {
       "name": "Murf.ai",
       "category": "توليد وتعديل الصوت",
       "description": "استوديو رائع لتحويل النصوص إلى تعليق صوتي احترافي ملائم للإعلانات والفيديوهات التعليمية والعروض.",
       "url": "https://murf.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 117
     },
     {
       "name": "DeepBrain AI",
       "category": "صناعة وتعديل فيديو",
       "description": "منصة متخصصة لإنشاء فيديوهات تسويقية سريعة باستخدام مذيعين افتراضيين واقعيين يعتمدون على الذكاء الاصطناعي.",
       "url": "https://www.deepbrain.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 118
     },
     {
       "name": "Designs.ai",
       "category": "تطوير مواقع وتصميم",
       "description": "مجموعة أدوات ذكية متكاملة لتصميم الشعارات، الفيديوهات، والمنشورات، وتنسيق الألوان آلياً للمشاريع الناشئة.",
       "url": "https://designs.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 119
     },
     {
       "name": "Ocoya",
       "category": "كتابة محتوى وتسويق",
       "description": "منصة ذكية تساعدك على كتابة المنشورات، وتصميم الصور، وجدولة المحتوى على كافة شبكات التواصل الاجتماعي.",
       "url": "https://www.ocoya.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 120
     },
     {
       "name": "Predis.ai",
       "category": "كتابة محتوى وتسويق",
       "description": "أداة تقوم بتوليد منشورات كاملة (الصورة، النص، والهاشتاقات) لشبكات التواصل بمجرد كتابة فكرة مبسطة.",
       "url": "https://predis.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 121
     },
     {
       "name": "Simplified",
       "category": "تطوير مواقع وتصميم",
       "description": "تطبيق شامل للمبدعين يدمج بين التصميم الجرافيكي، كتابة المحتوى، المونتاج الذكي، وإدارة السوشيال ميديا.",
       "url": "https://simplified.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 122
     },
     {
       "name": "Watermark Remover io",
       "category": "توليد صور",
       "description": "أداة سحابية شهيرة مخصصة لإزالة العلامات المائية المعقدة من الصور وتصفيتها وتنقيتها فورياً بدقة كبرى.",
       "url": "https://www.watermarkremover.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 123
     },
     {
       "name": "Klap",
       "category": "صناعة وتعديل فيديو",
       "description": "أداة ممتازة تقوم بتحويل أي فيديو يوتيوب طويل إلى مقاطع تيك توك وريلز قصيرة وجذابة بنقرة واحدة.",
       "url": "https://klap.app",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 124
     },
     {
       "name": "InVideo Studio",
       "category": "صناعة وتعديل فيديو",
       "description": "محرر الفيديو السحابي الكلاسيكي المدمج بأدوات ذكاء اصطناعي وقوالب جاهزة لصناعة إعلانات احترافية.",
       "url": "https://invideo.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 125
     },
     {
       "name": "Aisera",
       "category": "أخرى",
       "description": "منصة أتمتة ذكية مخصصة للشركات الكبرى لتحسين خدمات الدعم الفني والموارد البشرية ذاتياً.",
       "url": "https://aisera.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 126
     },
     {
       "name": "Typeform AI",
       "category": "أخرى",
       "description": "أداة ذكية مدمجة في تايب فورم لتوليد نماذج الاستبيانات والأسئلة التفاعلية الجذابة بناءً على هدفك.",
       "url": "https://www.typeform.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 127
     },
     {
       "name": "Forms.app AI",
       "category": "أخرى",
       "description": "منصة تتيح لك بناء استمارات جمع البيانات، الاختبارات، والاستبيانات بنقرة واحدة عبر الأوامر النصية.",
       "url": "https://forms.app",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 128
     },
     {
       "name": "Taskade AI",
       "category": "إنتاج عروض ووثائق",
       "description": "مساحة عمل جماعية ذكية لإنشاء قوائم المهام، الخرائط الذهنية، وتنظيم المشاريع عبر مساعدين افتراضيين.",
       "url": "https://www.taskade.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 129
     },
     {
       "name": "Mindmeister AI",
       "category": "إنتاج عروض ووثائق",
       "description": "منصة شهيرة مدمجة بالذكاء الاصطناعي لتوليد وتوسيع الخرائط الذهنية وترتيب الأفكار المتشابكة بصرياً.",
       "url": "https://www.mindmeister.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 130
     },
     {
       "name": "GitMind",
       "category": "إنتاج عروض ووثائق",
       "description": "أداة مجانية لتوليد المخططات الانسيابية والخرائط المعرفية والذهنية للمشاريع بناءً على نصوصك.",
       "url": "https://gitmind.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 131
     },
     {
       "name": "Wondershare Virbo",
       "category": "صناعة وتعديل فيديو",
       "description": "برنامج مخصص لإنشاء مقاطع فيديو تسويقية وتوضيحية باستخدام شخصيات افتراضية تعبيرية ممتازة.",
       "url": "https://virbo.wondershare.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 132
     },
     {
       "name": "Rask AI",
       "category": "صناعة وتعديل فيديو",
       "description": "الأداة الأقوى لترجمة الفيديوهات ودبلجة الصوت إلى لغات أخرى مع الحفاظ على نبرة صوت المتحدث الأصلي.",
       "url": "https://www.rask.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 133
     },
     {
       "name": "CapCut Web AI",
       "category": "صناعة وتعديل فيديو",
       "description": "أدوات كاب كات السحابية الذكية المخصصة لإزالة الخلفيات، وتوليد الترجمة، وتحسين جودة الفيديو آلياً.",
       "url": "https://www.capcut.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 134
     },
     {
       "name": "Superhuman",
       "category": "أخرى",
       "description": "تطبيق بريد إلكتروني فائق السرعة مدمج بالذكاء الاصطناعي لتلخيص الرسائل وصياغة الردود الاحترافية فوراً.",
       "url": "https://superhuman.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 135
     },
     {
       "name": "Lavender",
       "category": "كتابة محتوى وتسويق",
       "description": "مساعد ذكي يحلل رسائل البريد التسويقية ويقترح تعديلات لزيادة فرص رد العملاء عليها وقراءتها.",
       "url": "https://www.lavender.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 136
     },
     {
       "name": "Regie.ai",
       "category": "كتابة محتوى وتسويق",
       "description": "منصة مخصصة لفرق المبيعات تساعد في تخصيص الرسائل وبناء حملات تواصل بريدية ذكية وتلقائية.",
       "url": "https://www.regie.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 137
     },
     {
       "name": "Excent",
       "category": "تطوير مواقع وتصميم",
       "description": "منصة تصميم واجهات مستخدم وأدوات برمجية ذكية تساعد المطورين في تسريع العمل وبناء تطبيقات ويب عصرية.",
       "url": "https://www.uxpin.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 138
     },
     {
       "name": "Uizard",
       "category": "تطوير مواقع وتصميم",
       "description": "أداة ثورية تتيح لك تحويل رسمة يدك البسيطة على ورقة إلى واجهة مستخدم رقمية وتطبيق تفاعلي جاهز.",
       "url": "https://uizard.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 139
     },
     {
       "name": "Visily",
       "category": "تطوير مواقع وتصميم",
       "description": "أداة تصميم سريعة تمكن غير المصممين من إنشاء هياكل تطبيقات ومواقع ويب (Wireframes) بذكاء كبير.",
       "url": "https://www.visily.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 140
     },
     {
       "name": "Galileo AI",
       "category": "تطوير مواقع وتصميم",
       "description": "مولد واجهات مستخدم مذهل، ينشئ لك تصميمات تطبيقات كاملة وقابلة للتعديل على Figma من الأوامر النصية.",
       "url": "https://www.usegalileo.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 141
     },
     {
       "name": "Hoppscotch AI",
       "category": "برمجة وأكواد",
       "description": "أداة مفتوحة المصدر ومطورة لمساعدة المبرمجين في اختبار واجهات برمجة التطبيقات (APIs) وتسريع هندستها.",
       "url": "https://hoppscotch.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 142
     },
     {
       "name": "Postman Postbot",
       "category": "برمجة وأكواد",
       "description": "المساعد الذكي المدمج في بوستمان لكتابة اختبارات الـ API تلقائياً وتلخيص بيانات الردود البرمجية لمطورين.",
       "url": "https://www.postman.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 143
     },
     {
       "name": "Amazon CodeWhisperer",
       "category": "برمجة وأكواد",
       "description": "المساعد البرمجي الرسمي من شركة أمازون، يولد الأكواد ويقترح حلولاً برمجية آمنة متوافقة مع الحوسبة السحابية.",
       "url": "https://aws.amazon.com/codewhisperer",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 144
     },
     {
       "name": "Mutable.ai",
       "category": "برمجة وأكواد",
       "description": "أداة متقدمة لتسريع تطوير البرمجيات تقوم بتحويل الأكواد البرمجية إلى وثائق ومستندات شرح واضحة آلياً.",
       "url": "https://mutable.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 145
     },
     {
       "name": "Sourcery",
       "category": "برمجة وأكواد",
       "description": "أداة ذكية للمطورين تقوم بمراجعة كود بايثون وجافا سكريبت وإعادة صياغته ليكون أكثر نظافة وسرعة.",
       "url": "https://sourcery.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 146
     },
     {
       "name": "CodiumAI",
       "category": "برمجة وأكواد",
       "description": "أداة برمجية ممتازة تقوم بتحليل الأكواد وتوليد اختبارات فحص (Unit Tests) ذكية لضمان خلو البرامج من الثغرات.",
       "url": "https://www.codium.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 147
     },
     {
       "name": "Stockimg.ai",
       "category": "توليد صور",
       "description": "منصة مخصصة لتوليد صور مخزنة، أغلفة كتب، شعارات، وخلفيات تجارية عالية الجودة بنقرة واحدة.",
       "url": "https://stockimg.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 148
     },
     {
       "name": "Artbreeder",
       "category": "توليد صور",
       "description": "منصة فريدة تتيح لك دمج وتعديل ملامح الصور والوجوه والمناظر الطبيعية لإنتاج لوحات فنية مبتكرة.",
       "url": "https://www.artbreeder.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 149
     },
     {
       "name": "Hotpot.ai",
       "category": "توليد صور",
       "description": "مجموعة أدوات سهلة لتوليد الصور، تلوين الصور القديمة بالأبيض والأسود، وإصلاح الخدوش آلياً.",
       "url": "https://hotpot.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 150
     },
     {
       "name": "DeepAI",
       "category": "توليد صور",
       "description": "من أقدم المواقع التي توفر أدوات مجانية وسريعة لتوليد الصور الفنية والكرتونية من الكلمات عبر الويب.",
       "url": "https://deepai.org",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 151
     },
     {
       "name": "Profile Picture AI",
       "category": "توليد صور",
       "description": "موقع مخصص لتحويل صورك الشخصية العادية إلى صور بروفايل (Avatars) احترافية ملائمة للسير الذاتية ولينكد إن.",
       "url": "https://www.profilepicture.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 152
     },
- 
     {
       "name": "Podcastle",
       "category": "توليد وتعديل الصوت",
       "description": "استوديو دمج وتحرير صوتي سحابي متكامل يتيح تسجيل البودكاست وتنقيته من الهواء والتشويش بذكاء.",
       "url": "https://podcastle.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 153
     },
     {
       "name": "Cleanvoice.ai",
       "category": "توليد وتعديل الصوت",
       "description": "أداة ذكية تقوم بفحص الملفات الصوتية وحذف التأتأة، والسكوت الطويل، والتنفس المزعج تلقائياً من البودكاست.",
       "url": "https://cleanvoice.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 154
     },
-  
     {
       "name": "Blackbox AI",
       "category": "برمجة",
       "description": "امتداد ذكي للبحث عن الأكواد البرمجية وتحويل الشروحات النصية إلى كود جاهز فوراً.",
       "url": "https://www.blackbox.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 155
     },
     {
       "name": "Inflection AI",
       "category": "نماذج لغوية وبرمجة",
       "description": "استوديو ذكاء اصطناعي رائد يركز على بناء مساعدين رقميين ذوي ذكاء عاطفي عالٍ وقدرات تواصل طبيعية.",
       "url": "https://inflection.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 156
     },
     {
       "name": "Elicit",
       "category": "البحث العلمي والأكاديمي",
       "description": "مساعد بحثي متطور يقوم بأتمتة مهام البحث العلمي وتلخيص الأوراق البحثية واستخراج البيانات من الدراسات.",
       "url": "https://elicit.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 157
     },
     {
       "name": "Scite.ai",
       "category": "البحث العلمي والأكاديمي",
       "description": "منصة ذكية تساعد الباحثين على التحقق من الاقتباسات العلمية ومعرفة ما إذا كانت الدراسات الأخرى تؤيدها أو تدحضها.",
       "url": "https://scite.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 158
     },
     {
       "name": "CodeRabbit",
       "category": "برمجة وأكواد",
       "description": "أداة ذكية لمراجعة الأكواد البرمجية بشكل آلي وتقديم نصائح دقيقة لتحسين الأداء والأمان داخل سحابة التطوير.",
       "url": "https://coderabbit.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 159
     },
     {
       "name": "Sweep AI",
       "category": "برمجة وأكواد",
       "description": "مساعد برميجي ذكي يقوم بقراءة تقارير الأخطاء وتحويلها تلقائياً إلى تعديلات برمجية جاهزة للدمج في المشروع.",
       "url": "https://sweep.dev",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 160
     },
     {
       "name": "Blinkshot",
       "category": "توليد صور",
       "description": "أداة توليد صور ذكية فائقة السرعة تقوم بإنشاء وتحديث الصور واللوحات الفنية أثناء كتابتك للوصف سطر بستر.",
       "url": "https://www.blinkshot.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 161
     },
     {
       "name": "Photoroom AI Web",
       "category": "توليد صور",
       "description": "نسخة الويب من أداة فوتوروم الشهيرة المخصصة لتعديل إضاءة المنتجات وإزالة الخلفيات وتجهيز التصاميم للتجارة الإلكترونية.",
       "url": "https://www.photoroom.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 162
     },
     {
       "name": "Clipdrop Relight",
       "category": "توليد صور",
       "description": "أداة متخصصة من كليب دروب تسمح لك بإعادة توزيع وإضافة مصادر إضاءة استوديو ثلاثية الأبعاد على صورك الثابتة بذكاء.",
       "url": "https://clipdrop.co/relight",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 163
     },
     {
       "name": "Kupic AI",
       "category": "توليد صور",
       "description": "أداة ممتازة لرفع جودة الصور والرسومات وتوضيح معالم الوجوه الباهتة وتوسيع أبعاد الخلفيات باستخدام تقنيات توليدية.",
       "url": "https://kupic.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 164
     },
     {
       "name": "Lovo.ai Voiceover",
       "category": "توليد وتعديل الصوت",
       "description": "واجهة مخصصة من منصة لوفو تتيح للمبتدئين إنتاج تعليق صوتي فوري بجودة عالية للألعاب والكتب المسموعة.",
       "url": "https://lovo.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 165
     },
     {
       "name": "Resemble.ai",
       "category": "توليد وتعديل الصوت",
       "description": "منصة احترافية لاستنساخ الأصوات البشرية وتوليد محتوى صوتي ديناميكي مخصص ومحمي لمنع التزييف العميق.",
       "url": "https://www.resemble.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 166
     },
     {
       "name": "Bark AI",
       "category": "توليد وتعديل الصوت",
       "description": "نموذج صوتي مفتوح المصدر قادر على توليد كلام واقعي يتضمن تأثيرات بشرية مثل الضحك، التنهد، والتردد الصوتي.",
       "url": "https://github.com/suno-ai/bark",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 167
     },
     {
       "name": "Voicemod",
       "category": "توليد وتعديل الصوت",
       "description": "برنامج شهير لتغيير نبرة الصوت في الوقت الفعلي مدمج بأدوات ذكاء اصطناعي لبث الألعاب والمحادثات الحية.",
       "url": "https://www.voicemod.net",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 168
     },
     {
       "name": "Abridge Medical",
       "category": "أخرى",
       "description": "منصة رائدة لتلخيص الاستشارات الطبية السريرية ومساعدة الأطباء في كتابة وثائق المرضى الرسمية آلياً وبأمان.",
       "url": "https://www.abridge.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 169
     },
-   
-
-
     {
       "name": "Uizard Autodesigner",
       "category": "تطوير مواقع وتصميم",
       "description": "ميزة ذكية داخل يوزارد تتيح لك توليد تصميم كامل لتطبيق جوال متعدد الشاشات بمجرد كتابة فكرة المشروع نصياً.",
       "url": "https://uizard.io/autodesigner",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 170
     },
     {
       "name": "Visily Wireframes",
       "category": "تطوير مواقع وتصميم",
       "description": "أداة ممتازة تقوم بتحويل لقطات الشاشة للتطبيقات الحالية إلى نماذج وتصاميم (Wireframes) قابلة للتعديل بالكامل.",
       "url": "https://www.visily.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 171
     },
     {
       "name": "Amazon Q",
       "category": "نماذج لغوية وبرمجة",
       "description": "مساعد الذكاء الاصطناعي الرسمي من شركة أمازون المخصص لمساعدة موظفي ومطوري الشركات على العمل والبحث الآمن.",
       "url": "https://aws.amazon.com/q",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 172
     },
- 
-  
     {
       "name": "Predis.ai Video",
       "category": "صناعة وتعديل فيديو",
       "description": "أداة مخصصة لإنشاء مقاطع فيديو ترويجية وإعلانات لشبكات التواصل الاجتماعي كاملة بالمشاهد والموسيقى من نص بسيط.",
       "url": "https://predis.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 173
     },
     {
       "name": "Klap Shorts",
       "category": "صناعة وتعديل فيديو",
       "description": "أداة متطورة تستخرج أفضل اللقطات الحماسية من الفيديوهات الطويلة وتقصها عمودياً لتناسب ريلز وتيك توك مع ترجمة تلقائية.",
       "url": "https://klap.app",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 174
     },
     {
       "name": "Tavus Video",
       "category": "صناعة وتعديل فيديو",
       "description": "منصة فيديو متقدمة تولد حملات تسويقية مرئية ومخصصة لآلاف العملاء دفعة واحدة باستخدام تقنيات استنساخ المتحدثين.",
       "url": "https://www.tavus.io",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 175
     },
-
-  
     {
       "name": "Pecan Analytics",
       "category": "أخرى",
       "description": "منصة ذكية تتيح لفرق تحليل البيانات بناء نماذج ذكاء اصطناعي تتوقع مبيعات السلع وتوجهات المستهلكين المستقبلية.",
       "url": "https://www.pecan.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 176
     },
-
     {
       "name": "Artbreeder Collages",
       "category": "توليد صور",
       "description": "أداة داخل آرت بريدر تتيح لك تجميع أشكال هندسية ورسومات بدائية لتتحول فوراً إلى لوحات وصور فنية واقعية للغاية.",
       "url": "https://www.artbreeder.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 177
     },
     {
       "name": "Stockimg AI Logos",
       "category": "توليد صور",
       "description": "قسم متخصص داخل منصة ستوك إيمج لإنشاء وتوليد شعارات تجارية (Logos) وأيقونات عصرية للمشاريع الناشئة.",
       "url": "https://stockimg.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 178
     },
-   
     {
       "name": "Podcastle Studio",
       "category": "توليد وتعديل الصوت",
       "description": "محرر بودكاست متكامل يتيح تحويل النص إلى كلام، وإجراء مقابلات عن بعد بجودة عالية مع تنقية آلية للصوت.",
       "url": "https://podcastle.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 179
     },
     {
       "name": "Profile Picture Avatars",
       "category": "توليد صور",
       "description": "منصة لتوليد صور رمزية وشخصية فنية مذهلة وملائمة للحسابات الرقمية والألعاب بناءً على صورك الحقيقية.",
       "url": "https://www.profilepicture.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 180
     },
     {
       "name": "DeepAI Image Generator",
       "category": "توليد صور",
       "description": "أداة توليد صور كلاسيكية مجانية تقدم نماذج متنوعة لتوليد رسومات وأشكال سريعة مباشرة عبر المتصفح.",
       "url": "https://deepai.org",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 181
     },
     {
       "name": "Hotpot AI Tools",
       "category": "توليد صور",
       "description": "مجموعة أدوات لتعديل الصور تشمل تكبير الحجم، مسح الأجزاء غير المرغوبة، وتحسين دقة الألوان بالذكاء الاصطناعي.",
       "url": "https://hotpot.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 182
     },
     {
       "name": "Excent UX",
       "category": "تطوير مواقع وتصميم",
       "description": "منصة متقدمة لتصميم تجربة المستخدم تتيح للمبدعين محاكاة تفاعل المستخدمين واختبار الواجهات بذكاء.",
       "url": "https://www.uxpin.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 183
     },
-   
     {
       "name": "Superhuman Mail",
       "category": "أخرى",
       "description": "تجربة بريد إلكتروني ثورية تدمج تقنيات ذكية لجدولة الرسائل، وتلخيص المحادثات الطويلة، وصياغة الردود بدقة.",
       "url": "https://superhuman.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 184
     },
     {
       "name": "CapCut Web Tools",
       "category": "صناعة وتعديل فيديو",
       "description": "منصة كاب كات السحابية التي توفر فلاتر ذكية وتوليد آلي للمؤثرات البصرية والصوتية مباشرة من المتصفح.",
       "url": "https://www.capcut.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 185
     },
     {
       "name": "Wondershare Virbo Video",
       "category": "صناعة وتعديل فيديو",
       "description": "أداة لإنشاء متحدثين افتراضيين بلغات متعددة لخدمة العروض التسويقية وتوليد الشروحات التعليمية بدقة.",
       "url": "https://virbo.wondershare.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 186
     },
     {
       "name": "Forms.app Builder",
       "category": "أخرى",
       "description": "منصة بناء استمارات مدمجة بالذكاء الاصطناعي تقوم بإنشاء حقول الأسئلة وتنسيق التصميم بناءً على طلبك النصي.",
       "url": "https://forms.app",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 187
     },
     {
       "name": "Typeform AI Forms",
       "category": "أخرى",
       "description": "تحديث ذكي لمنصة تايب فورم الشهيرة يتيح صياغة استبيانات تفاعلية مخصصة تزيد من نسب إكمال البيانات.",
       "url": "https://www.typeform.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 188
     },
     {
       "name": "Aisera Automation",
       "category": "أخرى",
       "description": "نظام أتمتة مؤسسي يعتمد على محادثات ذكية لحل مشاكل الموظفين والعملاء في تكنولوجيا المعلومات ذاتياً.",
       "url": "https://aisera.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 189
     },
     {
       "name": "Designs.ai Graphic",
       "category": "تطوير مواقع وتصميم",
       "description": "جزء من منصة ديزاينز يركز على توليد منشورات وتصميمات جرافيكية متناسقة الألوان والهوية البصرية آلياً.",
       "url": "https://designs.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 190
     },
     {
       "name": "Consumable Marketing AI",
       "category": "أخرى",
       "description": "أداة ذكاء اصطناعي متخصصة في تحليل توجهات الحملات الإعلانية الرقمية وتقديم توصيات لتحسين الإنفاق التسويقي.",
       "url": "https://consumable.com.au",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 191
     },
     {
       "name": "NotebookLM",
       "category": "البحث العلمي والأكاديمي",
       "description": "دفتر ملاحظات ذكي من جوجل يتيح لك رفع مستنداتك وكتبك لعمل ملخصات، وإنتاج تدوينات صوتية (Podcasts) نقاشية تفاعلية آلياً.",
       "url": "https://notebooklm.google",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 192
     },
     {
       "name": "Lovable",
       "category": "تطوير مواقع وتصميم",
       "description": "منصة برمجية ثورية تتيح بناء وتطوير تطبيقات ويب كاملة وقابلة للتشغيل بمجرد كتابة وتوضيح الفكرة باللغة الطبيعية.",
       "url": "https://lovable.dev",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 193
     },
     {
       "name": "TTSMaker",
       "category": "توليد وتعديل الصوت",
       "description": "أداة مجانية واحترافية مخصصة لتحويل النصوص إلى كلام منطوق يدعم اللغة العربية والعديد من اللغات والأصوات الطبيعية.",
       "url": "https://ttsmaker.com",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 194
     },
     {
       "name": "Bing Image Creator",
       "category": "توليد صور",
       "description": "منشئ ومولد الصور الذكي والشهير من مايكروسوفت، المدمج بمحرك DALL-E لتوليد لوحات وتصاميم فنية فائقة الدقة والجمال.",
       "url": "https://www.bing.com/images/create",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 195
     },
     {
       "name": "Fliki",
       "category": "صناعة وتعديل فيديو",
       "description": "منصة ممتازة لتحويل المقالات والنصوص المكتوبة إلى مقاطع فيديو ترويجية واجتماعية كاملة بالتعليق الصوتي والصور التعبيرية.",
       "url": "https://fliki.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 196
     },
     {
       "name": "DomoAI",
       "category": "صناعة وتعديل فيديو",
       "description": "أداة ذكاء اصطناعي متقدمة مخصصة لتحويل الفيديوهات العادية وتغيير نمطها الفني إلى رسوم متحركة وأنيميشن مذهل.",
       "url": "https://domoai.app",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 197
     },
     {
       "name": "GPTGO",
       "category": "محرك بحث ذكي",
       "description": "محرك بحث يدمج بين نتائج بحث جوجل التقليدية وإجابات وتلخيصات ذكية وفورية مستندة إلى تقنيات ChatGPT.",
       "url": "https://gptgo.ai",
-      "hide_classes": []
+      "hide_classes": [],
+      "id": 198
     },
-    
     {
       "name": "Ashna.ai",
       "category": "نماذج لغوية وبرمجة",
       "description": "منصة ذكاء اصطناعي متكاملة تتيح للمستخدم إنجاز المهام المختلفة باستخدام عدة نماذج ذكاء اصطناعي، مثل إنشاء المحتوى وتحليل الملفات والبحث وإنشاء المستندات والعروض التقديمية",
       "url": "https://app.ashna.ai",
+      "hide_classes": [],
+      "id": 199
+    },
+    {
+      "url": "https://genspark.ai",
+      "name": "Genspark AI",
+      "category": "ملاحة وبحث ذكي",
+      "description": "محرك بحث ذكي يعتمد على وكلاء متعددين (Multi-Agents) لتوليد صفحات مخصصة وموثوقة تتضمن معلومات ملخصة وشاملة لأي موضوع تشهده.",
+      "hide_classes": [],
+      "id": 200
+    },
+    {
+      "url": "https://arena.ai",
+      "name": "Arena AI (LMSYS)",
+      "category": "مقارنة النماذج",
+      "description": "منصة التقييم والمقارنة الشهيرة لتجربة نماذج الذكاء الاصطناعي التوليدية جنبًا إلى جنب واختبار جودة إجابات النماذج بشكل أعمى.",
+      "hide_classes": [],
+      "id": 201
+    },
+    {
+      "url": "https://aitmpl.com",
+      "name": "AI Templates",
+      "category": "تطوير وبرمجة",
+      "description": "مكتبة وإطار عمل يوفر قوالب وإعدادات جاهزة (Templates & Agents) لأداة Claude Code ومساعدي البرمجة بالذكاء الاصطناعي لتسريع تطوير المشاريع.",
+      "hide_classes": [],
+      "id": 202
+    },
+    {
+      "url": "https://futurepedia.io",
+      "name": "Futurepedia",
+      "category": "دليل أدوات",
+      "description": "أكبر موسوعة ودليل شامل يضم آلاف أدوات الذكاء الاصطناعي المحدثة يومياً مصنفة بحسب المجال والاستخدام.",
+      "hide_classes": [],
+      "id": 203
+    },
+    {
+      "url": "https://natively.dev",
+      "name": "Natively",
+      "category": "تطوير تطبيقات",
+      "description": "منصة تحويل مواقع الويب وتطبيقات Web3/Bubble إلى تطبيقات برمجية متكاملة للاندرويد والأيفون بخصائص Native مخصصة.",
+      "hide_classes": [],
+      "id": 204
+    },
+    {
+      "url": "https://getaibuild.com",
+      "name": "AI Build",
+      "category": "بناء برمجيات",
+      "description": "أداة لبناء وإنشاء التطبيقات والأنظمة البرمجية تلقائياً عن طريق كتابة الأوامر النصية والموجهات فقط.",
+      "hide_classes": [],
+      "id": 205
+    },
+    {
+      "url": "https://g4f.dev",
+      "name": "GPT4Free (G4F)",
+      "category": "تطوير ومكتبات",
+      "description": "واجهة برمجة ومكتبة مفتوحة المصدر تتيح الوصول لنماذج الذكاء الاصطناعي المتقدمة واستخدامها مجاناً لأغراض التطوير والاستكشاف.",
+      "hide_classes": [],
+      "id": 206
+    },
+    {
+      "url": "https://8b.com",
+      "name": "8b Website Builder",
+      "category": "تصميم مواقع",
+      "description": "منصة حديثة وسريعة لبناء المواقع الإلكترونية التفاعلية بكل سهولة وبدون الحاجة لخبرة برمجية.",
+      "hide_classes": [],
+      "id": 207
+    },
+    {
+      "id": 208,
+      "name": "FlowGPT",
+      "description": "منصة شاملة لاكتشاف وتبادل برومبتات ونماذج الذكاء الاصطناعي التفاعلية.",
+      "url": "https://flowgpt.com/",
+      "icon": "https://flowgpt.com/favicon.ico",
+      "category": "مساعدين",
       "hide_classes": []
     },
     {
-    "url": "https://genspark.ai",
-    "name": "Genspark AI",
-    "category": "ملاحة وبحث ذكي",
-    "description": "محرك بحث ذكي يعتمد على وكلاء متعددين (Multi-Agents) لتوليد صفحات مخصصة وموثوقة تتضمن معلومات ملخصة وشاملة لأي موضوع تشهده.",
+      "id": 209,
+      "name": "Pi AI",
+      "description": "مساعد ذكاء اصطناعي تفاعلي وصديق شخصي يمتاز بالحوار الطبيعي والدعم الصوتي.",
+      "url": "https://pi.ai/talk/",
+      "icon": "https://pi.ai/favicon.ico",
+      "category": "مساعدين",
       "hide_classes": []
-  },
+    },
     {
-    "url": "https://arena.ai",
-    "name": "Arena AI (LMSYS)",
-    "category": "مقارنة النماذج",
-    "description": "منصة التقييم والمقارنة الشهيرة لتجربة نماذج الذكاء الاصطناعي التوليدية جنبًا إلى جنب واختبار جودة إجابات النماذج بشكل أعمى.",
+      "id": 210,
+      "name": "Wsup AI",
+      "description": "أداة ذكاء اصطناعي مخصصة للمحادثات السريعة وتوليد المحتوى.",
+      "url": "https://wsupai.app/",
+      "icon": "https://wsupai.app/favicon.ico",
+      "category": "مساعدين",
       "hide_classes": []
-  },
+    },
     {
-    "url": "https://aitmpl.com",
-    "name": "AI Templates",
-    "category": "تطوير وبرمجة",
-    "description": "مكتبة وإطار عمل يوفر قوالب وإعدادات جاهزة (Templates & Agents) لأداة Claude Code ومساعدي البرمجة بالذكاء الاصطناعي لتسريع تطوير المشاريع.",
+      "id": 211,
+      "name": "Heck AI",
+      "description": "منصة شات ذكية توفر الوصول لنماذج ذكاء اصطناعي متعددة في مكان واحد.",
+      "url": "https://heck.ai/",
+      "icon": "https://heck.ai/favicon.ico",
+      "category": "مساعدين",
       "hide_classes": []
-  },
+    },
     {
-    "url": "https://futurepedia.io",
-    "name": "Futurepedia",
-    "category": "دليل أدوات",
-    "description": "أكبر موسوعة ودليل شامل يضم آلاف أدوات الذكاء الاصطناعي المحدثة يومياً مصنفة بحسب المجال والاستخدام.",
+      "id": 212,
+      "name": "Kimi AI",
+      "description": "نموذج ذكاء اصطناعي متقدم قادر على قراءة ومعالجة المستندات والروابط الطويلة.",
+      "url": "https://www.kimi.com/",
+      "icon": "https://www.kimi.com/favicon.ico",
+      "category": "مساعدين",
       "hide_classes": []
-  },
-        {
-    "url": "https://natively.dev",
-    "name": "Natively",
-    "category": "تطوير تطبيقات",
-    "description": "منصة تحويل مواقع الويب وتطبيقات Web3/Bubble إلى تطبيقات برمجية متكاملة للاندرويد والأيفون بخصائص Native مخصصة.",
-    "hide_classes": []
-  },
-  {
-    "url": "https://getaibuild.com",
-    "name": "AI Build",
-    "category": "بناء برمجيات",
-    "description": "أداة لبناء وإنشاء التطبيقات والأنظمة البرمجية تلقائياً عن طريق كتابة الأوامر النصية والموجهات فقط.",
-    "hide_classes": []
-  },
-  {
-    "url": "https://g4f.dev",
-    "name": "GPT4Free (G4F)",
-    "category": "تطوير ومكتبات",
-    "description": "واجهة برمجة ومكتبة مفتوحة المصدر تتيح الوصول لنماذج الذكاء الاصطناعي المتقدمة واستخدامها مجاناً لأغراض التطوير والاستكشاف.",
-    "hide_classes": []
-  },
-  {
-    "url": "https://8b.com",
-    "name": "8b Website Builder",
-    "category": "تصميم مواقع",
-    "description": "منصة حديثة وسريعة لبناء المواقع الإلكترونية التفاعلية بكل سهولة وبدون الحاجة لخبرة برمجية.",
-    "hide_classes": []
-  },
+    },
     {
-    "id": 201,
-    "name": "FlowGPT",
-    "description": "منصة شاملة لاكتشاف وتبادل برومبتات ونماذج الذكاء الاصطناعي التفاعلية.",
-    "url": "https://flowgpt.com/",
-    "icon": "https://flowgpt.com/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 202,
-    "name": "Pi AI",
-    "description": "مساعد ذكاء اصطناعي تفاعلي وصديق شخصي يمتاز بالحوار الطبيعي والدعم الصوتي.",
-    "url": "https://pi.ai/talk/",
-    "icon": "https://pi.ai/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 203,
-    "name": "Wsup AI",
-    "description": "أداة ذكاء اصطناعي مخصصة للمحادثات السريعة وتوليد المحتوى.",
-    "url": "https://wsupai.app/",
-    "icon": "https://wsupai.app/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 204,
-    "name": "Heck AI",
-    "description": "منصة شات ذكية توفر الوصول لنماذج ذكاء اصطناعي متعددة في مكان واحد.",
-    "url": "https://heck.ai/",
-    "icon": "https://heck.ai/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 205,
-    "name": "Kimi AI",
-    "description": "نموذج ذكاء اصطناعي متقدم قادر على قراءة ومعالجة المستندات والروابط الطويلة.",
-    "url": "https://www.kimi.com/",
-    "icon": "https://www.kimi.com/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 206,
-    "name": "Microsoft Copilot",
-    "description": "مساعد الذكاء الاصطناعي الشامل من مايكروسوفت لكتابة النصوص، البحث، وتوليد الصور.",
-    "url": "https://copilot.microsoft.com/",
-    "icon": "https://copilot.microsoft.com/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 207,
-    "name": "The Old LLM",
-    "description": "واجهة بسيطة ومجانية للتفاعل مع نماذج اللغات الضخمة المفتوحة المصدر.",
-    "url": "https://theoldllm.vercel.app/",
-    "icon": "https://theoldllm.vercel.app/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 208,
-    "name": "Vheer AI",
-    "description": "محرك ومساعد ذكي للإنتاجية والإجابة على الأسئلة وتلخيص المحتوى.",
-    "url": "https://vheer.com/",
-    "icon": "https://vheer.com/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 209,
-    "name": "Perchance Text Gen",
-    "description": "أداة مجانية مفتوحة لتوليد النصوص والقصص بالذكاء الاصطناعي.",
-    "url": "https://perchance.org/wtr90dexsn",
-    "icon": "https://perchance.org/favicon.ico",
-    "category": "كتابة نصوص",
-    "hide_classes": []
-  },
-  {
-    "id": 210,
-    "name": "TTSMP3",
-    "description": "تحويل النصوص إلى كلام صوتي طبيعي بصيغة MP3 بعدة لغات.",
-    "url": "https://ttsmp3.com/",
-    "icon": "https://ttsmp3.com/favicon.ico",
-    "category": "صوتيات",
-    "hide_classes": []
-  },
-  {
-    "id": 211,
-    "name": "Voice Generator",
-    "description": "أداة أونلاين مجانية لتحويل الكتابة إلى صوت باستخدام تقنيات الصوت الذكية.",
-    "url": "https://voicegenerator.io/",
-    "icon": "https://voicegenerator.io/favicon.ico",
-    "category": "صوتيات",
-    "hide_classes": []
-  },
-  {
-    "id": 212,
-    "name": "FakeYou",
-    "description": "منصة تحويل النص إلى صوت واستنساخ أصوات الشخصيات المشهورة بالذكاء الاصطناعي.",
-    "url": "https://fakeyou.com/",
-    "icon": "https://fakeyou.com/favicon.ico",
-    "category": "صوتيات",
-    "hide_classes": []
-  },
-  {
-    "id": 213,
-    "name": "Yupp AI",
-    "description": "منصة مقارنة وتوليد نصوص ذكية تساعدك على تجربة نماذج متعددة للذكاء الاصطناعي.",
-    "url": "https://www.yupp.ai/",
-    "icon": "https://www.yupp.ai/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 214,
-    "name": "Poe AI",
-    "description": "منصة Quora الشهيرة لإنشاء والتحدث مع أفضل روبوتات الذكاء الاصطناعي (GPT-4, Claude).",
-    "url": "https://poe.com/",
-    "icon": "https://poe.com/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 215,
-    "name": "Chatsonic (Writesonic)",
-    "description": "مساعد كتابة محتوى ومحاكي محادثات ذكي مع وصول فوري للبيانات المحدثة.",
-    "url": "https://writesonic.com/chat",
-    "icon": "https://writesonic.com/favicon.ico",
-    "category": "كتابة نصوص",
-    "hide_classes": []
-  },
-  {
-    "id": 216,
-    "name": "Character AI",
-    "description": "التحدث والمحادثة التفاعلية مع شخصيات افتراضية وحقيقية مصممة بالذكاء الاصطناعي.",
-    "url": "https://character.ai/",
-    "icon": "https://character.ai/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 217,
-    "name": "Bing Image Creator",
-    "description": "مولد الصور الشهير من مايكروسوفت المعتمد على DALL-E لإنشاء صور عالية الدقة.",
-    "url": "https://www.bing.com/images/create/ai-image-generator",
-    "icon": "https://www.bing.com/favicon.ico",
-    "category": "تصميم وتوليد صور",
-    "hide_classes": []
-  },
-  {
-    "id": 218,
-    "name": "Microsoft Designer",
-    "description": "تطبيق تصميم جرافيكي ذكي لتوليد منشورات، بطاقات، وتصاميم كاملة بضغطة زر.",
-    "url": "https://designer.microsoft.com/",
-    "icon": "https://designer.microsoft.com/favicon.ico",
-    "category": "تصميم وتوليد صور",
-    "hide_classes": []
-  },
-  {
-    "id": 219,
-    "name": "Genmo AI",
-    "description": "منصة تحويل الصور والنصوص إلى مقاطع فيديو أنيميشن ثلاثية الأبعاد متحركة.",
-    "url": "https://www.genmo.ai/",
-    "icon": "https://www.genmo.ai/favicon.ico",
-    "category": "فيديو وشاشات",
-    "hide_classes": []
-  },
-  {
-    "id": 220,
-    "name": "PixVerse AI",
-    "description": "أداة متقدمة لتوليد مقاطع فيديو سينمائية بجودة عالية انطلاقاً من الصور والنصوص.",
-    "url": "https://app.pixverse.ai/",
-    "icon": "https://app.pixverse.ai/favicon.ico",
-    "category": "فيديو وشاشات",
-    "hide_classes": []
-  },
+      "id": 213,
+      "name": "Microsoft Copilot",
+      "description": "مساعد الذكاء الاصطناعي الشامل من مايكروسوفت لكتابة النصوص، البحث، وتوليد الصور.",
+      "url": "https://copilot.microsoft.com/",
+      "icon": "https://copilot.microsoft.com/favicon.ico",
+      "category": "مساعدين",
+      "hide_classes": []
+    },
     {
-  "url": "https://free.ai",
-  "name": "Free AI",
-  "category": "أدوات ذكاء اصطناعي",
-  "description": "منصة توفر الوصول المباشر والمجاني لمجموعة واسعة من نماذج وأدوات الذكاء الاصطناعي لتوليد النصوص، التصميم، وأتمتة المهام اليومية بدون قيود أو رسوم.",
-  "hide_classes": [],
-  "badges": ["مجاني","يدعم الواجهة العربية"]
-},
+      "id": 214,
+      "name": "The Old LLM",
+      "description": "واجهة بسيطة ومجانية للتفاعل مع نماذج اللغات الضخمة المفتوحة المصدر.",
+      "url": "https://theoldllm.vercel.app/",
+      "icon": "https://theoldllm.vercel.app/favicon.ico",
+      "category": "مساعدين",
+      "hide_classes": []
+    },
     {
-    "id": 221,
-    "name": "MiniMax Audio",
-    "description": "منصة متقدمة لتوليد الصوت وتحويل النصوص إلى كلام واستنسخ الأصوات بجودة عالية.",
-    "url": "https://www.minimax.io/audio",
-    "icon": "https://www.minimax.io/favicon.ico",
-    "category": "صوتيات",
-    "hide_classes": []
-  },
-  {
-    "id": 222,
-    "name": "Lucy Decart AI",
-    "description": "محاكي وتجربة ذكاء اصطناعي تفاعلية لتوليد الرسوم والوسائط الفورية.",
-    "url": "https://lucy.decart.ai/",
-    "icon": "https://lucy.decart.ai/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 223,
-    "name": "EZRemove Watermark",
-    "description": "أداة ذكية لإزالة العلامات المائية والملاحظات غير المرغوب فيها من مقاطع الفيديو.",
-    "url": "https://ezremove.ai/video-watermark-remover/",
-    "icon": "https://ezremove.ai/favicon.ico",
-    "category": "فيديو وشاشات",
-    "hide_classes": []
-  },
-  {
-    "id": 224,
-    "name": "Virton Tech",
-    "description": "منصة حلول ذكاء اصطناعي وتكنولوجيا أتمتة متطورة للشركات والأفراد.",
-    "url": "https://virton.tech/en/",
-    "icon": "https://virton.tech/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 225,
-    "name": "Google AI Studio Speech",
-    "description": "أداة جوجل الرسمية المتقدمة لتوليد الأصوات ومعالجة الكلام عبر نماذج Gemini.",
-    "url": "https://aistudio.google.com/generate-speech",
-    "icon": "https://www.gstatic.com/lamda/images/favicon_v1_1567c8b0fe03866e138a3.png",
-    "category": "صوتيات",
-    "hide_classes": []
-  },
-  {
-    "id": 226,
-    "name": "Lumo by Proton",
-    "description": "مساعد ذكاء اصطناعي يركز على الخصوصية وحماية البيانات من آمن التشفير Proton.",
-    "url": "https://lumo.proton.me/",
-    "icon": "https://lumo.proton.me/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 227,
-    "name": "Fal AI Seedream V5",
-    "description": "نموذج تحرير وتوليد الصور عالي السرعة والدقة من Bytedance عبر منصة Fal.",
-    "url": "https://fal.ai/models/fal-ai/bytedance/seedream/v5/lite/edit",
-    "icon": "https://fal.ai/favicon.ico",
-    "category": "تصميم وتوليد صور",
-    "hide_classes": []
-  },
-  {
-    "id": 228,
-    "name": "Z.ai Chat",
-    "description": "واجهة محادثة ذكية وتفاعلية للوصول لنماذج معالجة اللغة وإجابة الأسئلة.",
-    "url": "https://chat.z.ai/",
-    "icon": "https://chat.z.ai/favicon.ico",
-    "category": "مساعدين",
-    "hide_classes": []
-  },
-  {
-    "id": 229,
-    "name": "Quiki AI",
-    "description": "منصة لتوليد المحتوى السريع وإنشاء الملخصات والدراسات التفاعلية.",
-    "url": "https://quiki.io/",
-    "icon": "https://quiki.io/favicon.ico",
-    "category": "كتابة نصوص",
-    "hide_classes": []
-  },
-  {
-    "id": 230,
-    "name": "PDF Guru Summarizer",
-    "description": "أداة قراءة وتلخيص ملفات PDF واستخراج المعلومات الهامة منها بالذكاء الاصطناعي.",
-    "url": "https://pdfguru.com/pdf-summarizer",
-    "icon": "https://pdfguru.com/favicon.ico",
-    "category": "إنتاجية وأدوات",
-    "hide_classes": []
-  },
-  {
-    "id": 231,
-    "name": "MinutesLink",
-    "description": "مساعد الاجتماعات الذكي لتسجيل، تلخيص، وتدوين نقاط العمل تلقائياً.",
-    "url": "https://minuteslink.com/",
-    "icon": "https://minuteslink.com/favicon.ico",
-    "category": "إنتاجية وأدوات",
-    "hide_classes": []
-  },
-  {
-    "id": 232,
-    "name": "Rocket.new",
-    "description": "منصة بناء وتصميم مواقع وتطبيقات ويب فائقة السرعة بالذكاء الاصطناعي.",
-    "url": "https://www.rocket.new/",
-    "icon": "https://www.rocket.new/favicon.ico",
-    "category": "برمجة وبناء تطبيقات",
-    "hide_classes": []
-  },
-  {
-    "id": 233,
-    "name": "Bravo Studio",
-    "description": "تحويل تصاميم Figma وAdobe XD إلى تطبيقات جوال حقيقية بدون كود.",
-    "url": "https://www.bravostudio.app/",
-    "icon": "https://www.bravostudio.app/favicon.ico",
-    "category": "برمجة وبناء تطبيقات",
-    "hide_classes": []
-  },
-  {
-    "id": 234,
-    "name": "Modulify AI",
-    "description": "أداة إنشاء قوالب وتصاميم واجهات المستخدم وتوليد المكونات البرمجية.",
-    "url": "https://www.modulify.ai/",
-    "icon": "https://www.modulify.ai/favicon.ico",
-    "category": "برمجة وبناء تطبيقات",
-    "hide_classes": []
-  },
-  {
-    "id": 235,
-    "name": "Appaca AI",
-    "description": "تطوير وبناء التطبيقات والأفكار الذكية بضغطة زر وبدون خبرة برمجية.",
-    "url": "https://www.appaca.ai/",
-    "icon": "https://www.appaca.ai/favicon.ico",
-    "category": "برمجة وبناء تطبيقات",
-    "hide_classes": []
-  },
-  {
-    "id": 236,
-    "name": "AutoReel",
-    "description": "توليد مقاطع Reels وفيديوهات قصيرة لمنصات التواصل الاجتماعي تلقائياً.",
-    "url": "https://www.autoreelapp.com/",
-    "icon": "https://www.autoreelapp.com/favicon.ico",
-    "category": "فيديو وشاشات",
-    "hide_classes": []
-  },
-  {
-    "id": 237,
-    "name": "Lazybird",
-    "description": "أداة إنتاجية ذكية لإنجاز المهام وأتمتة العمليات الشخصية بسهولة.",
-    "url": "https://www.lazybird.app/",
-    "icon": "https://www.lazybird.app/favicon.ico",
-    "category": "إنتاجية وأدوات",
-    "hide_classes": []
-  },
-{
-"name": "Grammarly",
-"category": "كتابة وتحرير",
-"description": "مساعد ذكي للتدقيق اللغوي وتحسين الكتابة وتحليل الأسلوب.",
-"url": "https://www.grammarly.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "LanguageTool",
-"category": "كتابة وتحرير",
-"description": "مدقق لغوي ذكي للكشف عن الأخطاء الإملائية والنحوية وتحسين النصوص.",
-"url": "https://languagetool.org",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Hemingway Editor",
-"category": "كتابة وتحرير",
-"description": "أداة لتحسين وضوح النصوص واكتشاف الجمل المعقدة والمبنية للمجهول.",
-"url": "https://hemingwayapp.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Scribens",
-"category": "كتابة وتحرير",
-"description": "مدقق لغوي يساعد على اكتشاف الأخطاء وتحسين صياغة النصوص.",
-"url": "https://www.scribens.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Smodin",
-"category": "كتابة بالذكاء الاصطناعي",
-"description": "منصة للكتابة وإعادة الصياغة والتلخيص والبحث باستخدام الذكاء الاصطناعي.",
-"url": "https://smodin.io",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Elicit",
-"category": "البحث العلمي",
-"description": "مساعد بحث علمي يستخدم الذكاء الاصطناعي للعثور على الأوراق وتحليلها.",
-"url": "https://elicit.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "ResearchRabbit",
-"category": "البحث العلمي",
-"description": "أداة ذكية لاكتشاف الأوراق العلمية والمراجع والروابط بين الأبحاث.",
-"url": "https://www.researchrabbit.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Connected Papers",
-"category": "البحث العلمي",
-"description": "أداة مرئية لاكتشاف الأبحاث المرتبطة بموضوع أو ورقة علمية.",
-"url": "https://www.connectedpapers.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Semantic Scholar",
-"category": "البحث العلمي",
-"description": "محرك بحث علمي مدعوم بالذكاء الاصطناعي لاكتشاف وتحليل الأبحاث.",
-"url": "https://www.semanticscholar.org",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "SciSpace",
-"category": "البحث العلمي",
-"description": "منصة تساعد على قراءة وفهم وتلخيص الأوراق العلمية والمستندات البحثية.",
-"url": "https://scispace.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Explainpaper",
-"category": "البحث العلمي",
-"description": "أداة تشرح الأوراق العلمية والمصطلحات المعقدة باستخدام الذكاء الاصطناعي.",
-"url": "https://www.explainpaper.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Paperpal",
-"category": "البحث العلمي",
-"description": "مساعد ذكي لتحسين الكتابة الأكاديمية وتدقيق الأوراق العلمية.",
-"url": "https://paperpal.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "AskYourPDF",
-"category": "تحليل الملفات",
-"description": "أداة للمحادثة مع ملفات PDF واستخراج المعلومات منها.",
-"url": "https://askyourpdf.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "PDF.ai",
-"category": "تحليل الملفات",
-"description": "منصة تتيح طرح الأسئلة على ملفات PDF والحصول على إجابات ذكية.",
-"url": "https://pdf.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Humata",
-"category": "تحليل الملفات",
-"description": "مساعد ذكي لقراءة وتحليل المستندات الطويلة والإجابة عن محتواها.",
-"url": "https://www.humata.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "AskCodi",
-"category": "برمجة",
-"description": "مساعد برمجي لإنشاء وشرح وتحسين الأكواد باستخدام الذكاء الاصطناعي.",
-"url": "https://www.askcodi.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Blackbox AI",
-"category": "برمجة",
-"description": "مساعد برمجي لتوليد الأكواد وشرحها وتحويل الأفكار إلى تطبيقات.",
-"url": "https://www.blackbox.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Tabnine",
-"category": "برمجة",
-"description": "مساعد برمجي يوفر إكمال الأكواد واقتراحات ذكية داخل بيئة التطوير.",
-"url": "https://www.tabnine.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "CodeRabbit",
-"category": "برمجة",
-"description": "مراجع أكواد بالذكاء الاصطناعي لتحليل Pull Requests واكتشاف المشاكل.",
-"url": "https://coderabbit.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Continue",
-"category": "برمجة",
-"description": "مساعد برمجي مفتوح المصدر يمكن دمجه مع محررات الأكواد والنماذج المختلفة.",
-"url": "https://www.continue.dev",
-"hide_classes": [],
-"badges": ["مجاني", "مفتوح المصدر"]
-},
-{
-"name": "Aider",
-"category": "برمجة",
-"description": "أداة برمجة تعمل مع نماذج الذكاء الاصطناعي لتعديل المشاريع من الطرفية.",
-"url": "https://aider.chat",
-"hide_classes": [],
-"badges": ["مجاني", "مفتوح المصدر"]
-},
-{
-"name": "Cline",
-"category": "برمجة",
-"description": "وكيل برمجي مفتوح المصدر يساعد على إنشاء وتعديل المشاريع البرمجية.",
-"url": "https://cline.bot",
-"hide_classes": [],
-"badges": ["مجاني", "مفتوح المصدر"]
-},
-{
-"name": "OpenCode",
-"category": "برمجة",
-"description": "وكيل برمجي مفتوح المصدر للعمل على الأكواد والمشاريع من خلال الطرفية.",
-"url": "https://opencode.ai",
-"hide_classes": [],
-"badges": ["مجاني", "مفتوح المصدر"]
-},
-{
-"name": "Windsurf",
-"category": "برمجة",
-"description": "بيئة تطوير ذكية تجمع بين محرر الأكواد ووكلاء الذكاء الاصطناعي.",
-"url": "https://windsurf.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Zed",
-"category": "برمجة",
-"description": "محرر أكواد حديث يوفر إمكانيات ذكاء اصطناعي للتطوير البرمجي.",
-"url": "https://zed.dev",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Bolt.new",
-"category": "بناء التطبيقات",
-"description": "منصة لبناء تطبيقات ومواقع ويب كاملة باستخدام أوامر باللغة الطبيعية.",
-"url": "https://bolt.new",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Base44",
-"category": "بناء التطبيقات",
-"description": "منصة لبناء تطبيقات ويب بالذكاء الاصطناعي من خلال وصف الفكرة.",
-"url": "https://base44.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Softr AI",
-"category": "بناء التطبيقات",
-"description": "منصة لإنشاء تطبيقات ومواقع أعمال باستخدام الذكاء الاصطناعي وبدون برمجة.",
-"url": "https://www.softr.io",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Glide AI",
-"category": "بناء التطبيقات",
-"description": "منصة لإنشاء تطبيقات أعمال وقواعد بيانات باستخدام أدوات ذكية بدون كود.",
-"url": "https://www.glideapps.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "FlutterFlow",
-"category": "بناء التطبيقات",
-"description": "منصة مرئية لبناء تطبيقات الهاتف والويب مع أدوات ذكاء اصطناعي.",
-"url": "https://flutterflow.io",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Uplimit",
-"category": "تعليم",
-"description": "منصة تعليمية تستخدم الذكاء الاصطناعي للتعلم والتدريب وبناء المحتوى.",
-"url": "https://uplimit.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Napkin AI",
-"category": "تصميم وعروض",
-"description": "تحويل الأفكار والنصوص إلى مخططات ورسومات بصرية وعروض توضيحية.",
-"url": "https://www.napkin.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "SlidesAI",
-"category": "عروض تقديمية",
-"description": "إنشاء عروض تقديمية من النصوص باستخدام الذكاء الاصطناعي.",
-"url": "https://www.slidesai.io",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Plus AI",
-"category": "عروض تقديمية",
-"description": "مساعد لإنشاء وتحرير عروض Google Slides وPowerPoint بالذكاء الاصطناعي.",
-"url": "https://www.plusdocs.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Slidesgo AI",
-"category": "عروض تقديمية",
-"description": "مولد عروض تقديمية يعتمد على الذكاء الاصطناعي لإنشاء الشرائح بسرعة.",
-"url": "https://slidesgo.com/ai-presentation-maker",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Miro AI",
-"category": "إنتاجية",
-"description": "أدوات ذكاء اصطناعي داخل لوحات Miro لتنظيم الأفكار وتحليلها.",
-"url": "https://miro.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Mem",
-"category": "إنتاجية",
-"description": "مساحة عمل ذكية لتنظيم الملاحظات والمعلومات واسترجاعها بالذكاء الاصطناعي.",
-"url": "https://mem.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Reclaim AI",
-"category": "إنتاجية",
-"description": "مساعد ذكي لتنظيم الوقت والمهام والاجتماعات تلقائياً.",
-"url": "https://reclaim.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Motion",
-"category": "إنتاجية",
-"description": "مساعد ذكي لتنظيم المهام والمواعيد وإنشاء جداول عمل تلقائية.",
-"url": "https://www.usemotion.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Taskade AI",
-"category": "إنتاجية",
-"description": "منصة لإدارة المشاريع والمهام وإنشاء وكلاء وسير عمل بالذكاء الاصطناعي.",
-"url": "https://www.taskade.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Gamma Brain",
-"category": "إنتاجية",
-"description": "أدوات ذكية لتنظيم وتحويل الأفكار والمعلومات إلى محتوى قابل للاستخدام.",
-"url": "https://gamma.app",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Glean",
-"category": "إنتاجية",
-"description": "محرك معرفة ذكي للبحث داخل المعلومات والمستندات الخاصة بالعمل.",
-"url": "https://www.glean.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Consensus",
-"category": "البحث العلمي",
-"description": "محرك بحث علمي يستخدم الأبحاث المنشورة للإجابة عن الأسئلة.",
-"url": "https://consensus.app",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Scholarcy",
-"category": "البحث العلمي",
-"description": "أداة لتلخيص الأبحاث والمقالات العلمية واستخراج أهم المعلومات.",
-"url": "https://www.scholarcy.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Perplexity Labs",
-"category": "البحث والإنتاجية",
-"description": "بيئة لإنشاء تقارير ومشاريع ومحتوى اعتماداً على البحث والذكاء الاصطناعي.",
-"url": "https://www.perplexity.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Mage.space",
-"category": "توليد الصور",
-"description": "منصة لتوليد الصور باستخدام نماذج ذكاء اصطناعي متعددة.",
-"url": "https://www.mage.space",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Playground AI",
-"category": "توليد الصور",
-"description": "منصة لإنشاء وتعديل الصور باستخدام نماذج الذكاء الاصطناعي.",
-"url": "https://playground.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Tensor.Art",
-"category": "توليد الصور",
-"description": "منصة لاستكشاف وتشغيل نماذج توليد الصور وإنشاء أعمال فنية بالذكاء الاصطناعي.",
-"url": "https://tensor.art",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "SeaArt AI",
-"category": "توليد الصور",
-"description": "منصة لإنشاء الصور والشخصيات والأعمال الفنية باستخدام نماذج متعددة.",
-"url": "https://www.seaart.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Dezgo",
-"category": "توليد الصور",
-"description": "مولد صور يعتمد على نماذج الذكاء الاصطناعي مع أدوات تحرير وتخصيص.",
-"url": "https://dezgo.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "ArtGuru",
-"category": "توليد الصور",
-"description": "مجموعة أدوات لإنشاء الصور وتحسينها باستخدام الذكاء الاصطناعي.",
-"url": "https://www.artguru.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "ImgCreator",
-"category": "توليد الصور",
-"description": "أداة لإنشاء الصور والتصاميم من النصوص باستخدام الذكاء الاصطناعي.",
-"url": "https://imgcreator.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "PicWish",
-"category": "تعديل الصور",
-"description": "أدوات ذكية لإزالة الخلفيات وتحسين الصور وتعديلها تلقائياً.",
-"url": "https://picwish.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "insMind",
-"category": "تعديل الصور",
-"description": "محرر صور بالذكاء الاصطناعي متخصص في صور المنتجات والتجارة الإلكترونية.",
-"url": "https://www.insmind.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Fotor AI",
-"category": "تعديل الصور",
-"description": "منصة لتوليد وتحرير وتحسين الصور باستخدام الذكاء الاصطناعي.",
-"url": "https://www.fotor.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Pixlr AI",
-"category": "تعديل الصور",
-"description": "محرر صور عبر الإنترنت يحتوي على أدوات توليد وتعديل مدعومة بالذكاء الاصطناعي.",
-"url": "https://pixlr.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Picsart AI",
-"category": "تعديل الصور",
-"description": "منصة تصميم وتحرير صور تحتوي على مجموعة كبيرة من أدوات الذكاء الاصطناعي.",
-"url": "https://picsart.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Cutout.Pro",
-"category": "تعديل الصور",
-"description": "أدوات ذكية لإزالة الخلفيات وتحسين الصور وإنشاء المحتوى المرئي.",
-"url": "https://www.cutout.pro",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "PhotoRoom Studio",
-"category": "تعديل الصور",
-"description": "أدوات ذكية لإنشاء صور المنتجات وإزالة الخلفيات وتحسين التصاميم.",
-"url": "https://www.photoroom.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Hailuo AI",
-"category": "توليد الفيديو",
-"description": "منصة لإنشاء مقاطع فيديو من النصوص والصور باستخدام الذكاء الاصطناعي.",
-"url": "https://hailuoai.video",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Haiper",
-"category": "توليد الفيديو",
-"description": "مولد فيديو بالذكاء الاصطناعي لإنشاء وتحريك المشاهد من النصوص والصور.",
-"url": "https://haiper.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Vidu AI",
-"category": "توليد الفيديو",
-"description": "منصة لتوليد فيديوهات قصيرة من النصوص والصور بجودة عالية.",
-"url": "https://www.vidu.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Pollo AI",
-"category": "توليد الفيديو",
-"description": "منصة تجمع عدة نماذج لإنشاء الفيديو من النصوص والصور.",
-"url": "https://pollo.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Hedra",
-"category": "توليد الفيديو",
-"description": "منصة لإنشاء شخصيات وفيديوهات متحركة بالذكاء الاصطناعي.",
-"url": "https://www.hedra.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Klap",
-"category": "تحرير الفيديو",
-"description": "أداة تحول الفيديوهات الطويلة إلى مقاطع قصيرة مناسبة لـ Shorts وReels.",
-"url": "https://klap.app",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Vizard AI",
-"category": "تحرير الفيديو",
-"description": "أداة ذكية لاستخراج المقاطع القصيرة والترجمة والتحرير التلقائي للفيديو.",
-"url": "https://vizard.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Captions AI",
-"category": "تحرير الفيديو",
-"description": "أدوات ذكية لإنشاء وتحرير فيديوهات التواصل الاجتماعي وإضافة الترجمة.",
-"url": "https://www.captions.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Wisecut",
-"category": "تحرير الفيديو",
-"description": "محرر فيديو ذكي يقوم بالقص التلقائي وإضافة الترجمة وتحسين الصوت.",
-"url": "https://www.wisecut.video",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "VEED AI",
-"category": "تحرير الفيديو",
-"description": "محرر فيديو عبر الإنترنت مع أدوات ذكاء اصطناعي للترجمة وإنشاء المحتوى.",
-"url": "https://www.veed.io",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Murf AI",
-"category": "الصوت وتحويل النص",
-"description": "منصة لتحويل النصوص إلى أصوات واقعية وإنشاء التعليق الصوتي.",
-"url": "https://murf.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Speechify",
-"category": "الصوت وتحويل النص",
-"description": "أداة لتحويل النصوص والكتب والمستندات إلى صوت طبيعي.",
-"url": "https://speechify.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Fish Audio",
-"category": "الصوت",
-"description": "منصة لتوليد الأصوات واستنساخها وتحويل النص إلى كلام.",
-"url": "https://fish.audio",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Resemble AI",
-"category": "الصوت",
-"description": "منصة لإنشاء واستنساخ الأصوات وتوليد الكلام بالذكاء الاصطناعي.",
-"url": "https://www.resemble.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Podcastle",
-"category": "الصوت والبودكاست",
-"description": "استوديو صوتي ذكي لتسجيل وتحرير وتحسين البودكاست.",
-"url": "https://podcastle.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Cleanvoice",
-"category": "تحرير الصوت",
-"description": "أداة لتنظيف التسجيلات الصوتية وإزالة التوقفات والأصوات غير المرغوبة.",
-"url": "https://cleanvoice.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Auphonic",
-"category": "تحرير الصوت",
-"description": "أداة لتحسين مستوى الصوت وتقليل الضوضاء ومعالجة التسجيلات تلقائياً.",
-"url": "https://auphonic.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Beatoven AI",
-"category": "توليد الموسيقى",
-"description": "أداة لإنشاء موسيقى أصلية مناسبة للفيديوهات والبودكاست والمحتوى.",
-"url": "https://www.beatoven.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Soundful",
-"category": "توليد الموسيقى",
-"description": "مولد موسيقى بالذكاء الاصطناعي لإنشاء مقاطع موسيقية أصلية.",
-"url": "https://soundful.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Loudly AI Music",
-"category": "توليد الموسيقى",
-"description": "منصة لإنشاء موسيقى بالذكاء الاصطناعي وتخصيصها حسب نوع المحتوى.",
-"url": "https://www.loudly.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Boomy",
-"category": "توليد الموسيقى",
-"description": "أداة سهلة لإنشاء الأغاني والموسيقى باستخدام الذكاء الاصطناعي.",
-"url": "https://boomy.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Moises AI",
-"category": "الموسيقى",
-"description": "أداة ذكية لفصل الآلات والأصوات من الأغاني ومعالجة المسارات الموسيقية.",
-"url": "https://moises.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "AIVA",
-"category": "توليد الموسيقى",
-"description": "منصة لتأليف موسيقى أصلية باستخدام الذكاء الاصطناعي.",
-"url": "https://www.aiva.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Diagram",
-"category": "تصميم",
-"description": "أدوات ذكية تساعد المصممين على إنشاء واجهات وتجارب مستخدم.",
-"url": "https://diagram.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Visily",
-"category": "تصميم واجهات",
-"description": "منصة لإنشاء Wireframes وواجهات التطبيقات والمواقع بالذكاء الاصطناعي.",
-"url": "https://www.visily.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Uizard",
-"category": "تصميم واجهات",
-"description": "تحويل الأفكار والرسومات إلى واجهات تطبيقات ومواقع باستخدام الذكاء الاصطناعي.",
-"url": "https://uizard.io",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Relume AI",
-"category": "تصميم مواقع",
-"description": "أداة لإنشاء خرائط المواقع وWireframes لمشاريع الويب باستخدام الذكاء الاصطناعي.",
-"url": "https://www.relume.io",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Webflow AI",
-"category": "تطوير مواقع",
-"description": "أدوات ذكاء اصطناعي تساعد على تصميم وبناء مواقع الويب.",
-"url": "https://webflow.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Hostinger AI Website Builder",
-"category": "بناء المواقع",
-"description": "أداة لإنشاء مواقع ويب باستخدام الذكاء الاصطناعي والقوالب الجاهزة.",
-"url": "https://www.hostinger.com/website-builder",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Durable AI Website Builder",
-"category": "بناء المواقع",
-"description": "منصة لإنشاء مواقع للشركات والمشاريع باستخدام الذكاء الاصطناعي.",
-"url": "https://durable.co",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Appy Pie AI",
-"category": "بناء التطبيقات",
-"description": "منصة لإنشاء تطبيقات ومواقع وأدوات رقمية باستخدام الذكاء الاصطناعي.",
-"url": "https://www.appypie.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Sider AI",
-"category": "مساعد ذكي",
-"description": "مساعد ذكاء اصطناعي يعمل داخل المتصفح للتلخيص والكتابة والترجمة والبحث.",
-"url": "https://sider.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Monica AI",
-"category": "مساعد ذكي",
-"description": "مساعد شامل للكتابة والترجمة والتلخيص وتحليل المحتوى.",
-"url": "https://monica.im",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Merlin AI",
-"category": "مساعد ذكي",
-"description": "مساعد ذكاء اصطناعي للبحث والكتابة والتلخيص يعمل عبر المتصفح.",
-"url": "https://www.getmerlin.in",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "YouTube Summary with ChatGPT",
-"category": "تلخيص الفيديو",
-"description": "أدوات لتلخيص محتوى فيديوهات YouTube واستخراج أهم الأفكار.",
-"url": "https://youtubesummary.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Eightify",
-"category": "تلخيص الفيديو",
-"description": "أداة لتلخيص فيديوهات YouTube واستخراج النقاط الرئيسية بسرعة.",
-"url": "https://eightify.app",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Tactiq",
-"category": "الاجتماعات",
-"description": "مساعد اجتماعات يقوم بتحويل الكلام إلى نص وإنشاء ملخصات ونقاط عمل.",
-"url": "https://tactiq.io",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Fireflies.ai",
-"category": "الاجتماعات",
-"description": "مساعد اجتماعات ذكي يقوم بالتسجيل والتفريغ والتلخيص.",
-"url": "https://fireflies.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Fathom",
-"category": "الاجتماعات",
-"description": "مساعد اجتماعات لتسجيل المكالمات وإنشاء الملخصات ونقاط العمل.",
-"url": "https://fathom.video",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Krisp AI",
-"category": "الصوت والاجتماعات",
-"description": "أداة لإزالة الضوضاء من المكالمات وتحسين جودة الصوت باستخدام الذكاء الاصطناعي.",
-"url": "https://krisp.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Zapier AI",
-"category": "الأتمتة",
-"description": "أدوات ذكاء اصطناعي وأتمتة لربط التطبيقات وتنفيذ المهام المتكررة.",
-"url": "https://zapier.com/ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Make AI",
-"category": "الأتمتة",
-"description": "منصة أتمتة مرئية توفر إمكانيات ذكاء اصطناعي لبناء سير عمل آلي.",
-"url": "https://www.make.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "n8n",
-"category": "الأتمتة",
-"description": "منصة أتمتة مفتوحة المصدر لبناء سير عمل وربط خدمات الذكاء الاصطناعي.",
-"url": "https://n8n.io",
-"hide_classes": [],
-"badges": ["مجاني", "مفتوح المصدر"]
-},
-{
-"name": "HuggingChat",
-"category": "نماذج الذكاء الاصطناعي",
-"description": "واجهة محادثة للوصول إلى نماذج ذكاء اصطناعي مفتوحة المصدر.",
-"url": "https://huggingface.co/chat",
-"hide_classes": [],
-"badges": ["مجاني", "مفتوح المصدر"]
-},
-{
-"name": "OpenRouter",
-"category": "نماذج وواجهات API",
-"description": "منصة توفر واجهة موحدة للوصول إلى مجموعة كبيرة من نماذج الذكاء الاصطناعي.",
-"url": "https://openrouter.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Together AI",
-"category": "نماذج وواجهات API",
-"description": "منصة للمطورين لتجربة وتشغيل نماذج الذكاء الاصطناعي التوليدي.",
-"url": "https://www.together.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Groq",
-"category": "نماذج وواجهات API",
-"description": "منصة توفر وصولاً سريعاً إلى نماذج الذكاء الاصطناعي للمطورين والمستخدمين.",
-"url": "https://groq.com",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Mistral AI Le Chat",
-"category": "مساعد ذكي",
-"description": "مساعد محادثة من Mistral يدعم الكتابة والتحليل والبحث والبرمجة.",
-"url": "https://chat.mistral.ai",
-"hide_classes": [],
-"badges": ["مجاني"]
-},
-{
-"name": "Zed AI",
-"category": "برمجة",
-"description": "محرر أكواد سريع ومفتوح المصدر مع إمكانيات ذكاء اصطناعي.",
-"url": "https://zed.dev",
-"hide_classes": [],
-"badges": ["مجاني", "مفتوح المصدر"] 
-}
+      "id": 215,
+      "name": "Vheer AI",
+      "description": "محرك ومساعد ذكي للإنتاجية والإجابة على الأسئلة وتلخيص المحتوى.",
+      "url": "https://vheer.com/",
+      "icon": "https://vheer.com/favicon.ico",
+      "category": "مساعدين",
+      "hide_classes": []
+    },
+    {
+      "id": 216,
+      "name": "Perchance Text Gen",
+      "description": "أداة مجانية مفتوحة لتوليد النصوص والقصص بالذكاء الاصطناعي.",
+      "url": "https://perchance.org/wtr90dexsn",
+      "icon": "https://perchance.org/favicon.ico",
+      "category": "كتابة نصوص",
+      "hide_classes": []
+    },
+    {
+      "id": 217,
+      "name": "TTSMP3",
+      "description": "تحويل النصوص إلى كلام صوتي طبيعي بصيغة MP3 بعدة لغات.",
+      "url": "https://ttsmp3.com/",
+      "icon": "https://ttsmp3.com/favicon.ico",
+      "category": "صوتيات",
+      "hide_classes": []
+    },
+    {
+      "id": 218,
+      "name": "Voice Generator",
+      "description": "أداة أونلاين مجانية لتحويل الكتابة إلى صوت باستخدام تقنيات الصوت الذكية.",
+      "url": "https://voicegenerator.io/",
+      "icon": "https://voicegenerator.io/favicon.ico",
+      "category": "صوتيات",
+      "hide_classes": []
+    },
+    {
+      "id": 219,
+      "name": "FakeYou",
+      "description": "منصة تحويل النص إلى صوت واستنساخ أصوات الشخصيات المشهورة بالذكاء الاصطناعي.",
+      "url": "https://fakeyou.com/",
+      "icon": "https://fakeyou.com/favicon.ico",
+      "category": "صوتيات",
+      "hide_classes": []
+    },
+    {
+      "id": 220,
+      "name": "Yupp AI",
+      "description": "منصة مقارنة وتوليد نصوص ذكية تساعدك على تجربة نماذج متعددة للذكاء الاصطناعي.",
+      "url": "https://www.yupp.ai/",
+      "icon": "https://www.yupp.ai/favicon.ico",
+      "category": "مساعدين",
+      "hide_classes": []
+    },
+    {
+      "id": 221,
+      "name": "Poe AI",
+      "description": "منصة Quora الشهيرة لإنشاء والتحدث مع أفضل روبوتات الذكاء الاصطناعي (GPT-4, Claude).",
+      "url": "https://poe.com/",
+      "icon": "https://poe.com/favicon.ico",
+      "category": "مساعدين",
+      "hide_classes": []
+    },
+    {
+      "id": 222,
+      "name": "Chatsonic (Writesonic)",
+      "description": "مساعد كتابة محتوى ومحاكي محادثات ذكي مع وصول فوري للبيانات المحدثة.",
+      "url": "https://writesonic.com/chat",
+      "icon": "https://writesonic.com/favicon.ico",
+      "category": "كتابة نصوص",
+      "hide_classes": []
+    },
+    {
+      "id": 223,
+      "name": "Character AI",
+      "description": "التحدث والمحادثة التفاعلية مع شخصيات افتراضية وحقيقية مصممة بالذكاء الاصطناعي.",
+      "url": "https://character.ai/",
+      "icon": "https://character.ai/favicon.ico",
+      "category": "مساعدين",
+      "hide_classes": []
+    },
+    {
+      "id": 224,
+      "name": "Bing Image Creator",
+      "description": "مولد الصور الشهير من مايكروسوفت المعتمد على DALL-E لإنشاء صور عالية الدقة.",
+      "url": "https://www.bing.com/images/create/ai-image-generator",
+      "icon": "https://www.bing.com/favicon.ico",
+      "category": "تصميم وتوليد صور",
+      "hide_classes": []
+    },
+    {
+      "id": 225,
+      "name": "Microsoft Designer",
+      "description": "تطبيق تصميم جرافيكي ذكي لتوليد منشورات، بطاقات، وتصاميم كاملة بضغطة زر.",
+      "url": "https://designer.microsoft.com/",
+      "icon": "https://designer.microsoft.com/favicon.ico",
+      "category": "تصميم وتوليد صور",
+      "hide_classes": []
+    },
+    {
+      "id": 226,
+      "name": "Genmo AI",
+      "description": "منصة تحويل الصور والنصوص إلى مقاطع فيديو أنيميشن ثلاثية الأبعاد متحركة.",
+      "url": "https://www.genmo.ai/",
+      "icon": "https://www.genmo.ai/favicon.ico",
+      "category": "فيديو وشاشات",
+      "hide_classes": []
+    },
+    {
+      "id": 227,
+      "name": "PixVerse AI",
+      "description": "أداة متقدمة لتوليد مقاطع فيديو سينمائية بجودة عالية انطلاقاً من الصور والنصوص.",
+      "url": "https://app.pixverse.ai/",
+      "icon": "https://app.pixverse.ai/favicon.ico",
+      "category": "فيديو وشاشات",
+      "hide_classes": []
+    },
+    {
+      "url": "https://free.ai",
+      "name": "Free AI",
+      "category": "أدوات ذكاء اصطناعي",
+      "description": "منصة توفر الوصول المباشر والمجاني لمجموعة واسعة من نماذج وأدوات الذكاء الاصطناعي لتوليد النصوص، التصميم، وأتمتة المهام اليومية بدون قيود أو رسوم.",
+      "hide_classes": [],
+      "badges": [
+        "مجاني",
+        "يدعم الواجهة العربية"
+      ],
+      "id": 228
+    },
+    {
+      "id": 229,
+      "name": "MiniMax Audio",
+      "description": "منصة متقدمة لتوليد الصوت وتحويل النصوص إلى كلام واستنسخ الأصوات بجودة عالية.",
+      "url": "https://www.minimax.io/audio",
+      "icon": "https://www.minimax.io/favicon.ico",
+      "category": "صوتيات",
+      "hide_classes": []
+    },
+    {
+      "id": 230,
+      "name": "Lucy Decart AI",
+      "description": "محاكي وتجربة ذكاء اصطناعي تفاعلية لتوليد الرسوم والوسائط الفورية.",
+      "url": "https://lucy.decart.ai/",
+      "icon": "https://lucy.decart.ai/favicon.ico",
+      "category": "مساعدين",
+      "hide_classes": []
+    },
+    {
+      "id": 231,
+      "name": "EZRemove Watermark",
+      "description": "أداة ذكية لإزالة العلامات المائية والملاحظات غير المرغوب فيها من مقاطع الفيديو.",
+      "url": "https://ezremove.ai/video-watermark-remover/",
+      "icon": "https://ezremove.ai/favicon.ico",
+      "category": "فيديو وشاشات",
+      "hide_classes": []
+    },
+    {
+      "id": 232,
+      "name": "Virton Tech",
+      "description": "منصة حلول ذكاء اصطناعي وتكنولوجيا أتمتة متطورة للشركات والأفراد.",
+      "url": "https://virton.tech/en/",
+      "icon": "https://virton.tech/favicon.ico",
+      "category": "مساعدين",
+      "hide_classes": []
+    },
+    {
+      "id": 233,
+      "name": "Google AI Studio Speech",
+      "description": "أداة جوجل الرسمية المتقدمة لتوليد الأصوات ومعالجة الكلام عبر نماذج Gemini.",
+      "url": "https://aistudio.google.com/generate-speech",
+      "icon": "https://www.gstatic.com/lamda/images/favicon_v1_1567c8b0fe03866e138a3.png",
+      "category": "صوتيات",
+      "hide_classes": []
+    },
+    {
+      "id": 234,
+      "name": "Lumo by Proton",
+      "description": "مساعد ذكاء اصطناعي يركز على الخصوصية وحماية البيانات من آمن التشفير Proton.",
+      "url": "https://lumo.proton.me/",
+      "icon": "https://lumo.proton.me/favicon.ico",
+      "category": "مساعدين",
+      "hide_classes": []
+    },
+    {
+      "id": 235,
+      "name": "Fal AI Seedream V5",
+      "description": "نموذج تحرير وتوليد الصور عالي السرعة والدقة من Bytedance عبر منصة Fal.",
+      "url": "https://fal.ai/models/fal-ai/bytedance/seedream/v5/lite/edit",
+      "icon": "https://fal.ai/favicon.ico",
+      "category": "تصميم وتوليد صور",
+      "hide_classes": []
+    },
+    {
+      "id": 236,
+      "name": "Z.ai Chat",
+      "description": "واجهة محادثة ذكية وتفاعلية للوصول لنماذج معالجة اللغة وإجابة الأسئلة.",
+      "url": "https://chat.z.ai/",
+      "icon": "https://chat.z.ai/favicon.ico",
+      "category": "مساعدين",
+      "hide_classes": []
+    },
+    {
+      "id": 237,
+      "name": "Quiki AI",
+      "description": "منصة لتوليد المحتوى السريع وإنشاء الملخصات والدراسات التفاعلية.",
+      "url": "https://quiki.io/",
+      "icon": "https://quiki.io/favicon.ico",
+      "category": "كتابة نصوص",
+      "hide_classes": []
+    },
+    {
+      "id": 238,
+      "name": "PDF Guru Summarizer",
+      "description": "أداة قراءة وتلخيص ملفات PDF واستخراج المعلومات الهامة منها بالذكاء الاصطناعي.",
+      "url": "https://pdfguru.com/pdf-summarizer",
+      "icon": "https://pdfguru.com/favicon.ico",
+      "category": "إنتاجية وأدوات",
+      "hide_classes": []
+    },
+    {
+      "id": 239,
+      "name": "MinutesLink",
+      "description": "مساعد الاجتماعات الذكي لتسجيل، تلخيص، وتدوين نقاط العمل تلقائياً.",
+      "url": "https://minuteslink.com/",
+      "icon": "https://minuteslink.com/favicon.ico",
+      "category": "إنتاجية وأدوات",
+      "hide_classes": []
+    },
+    {
+      "id": 240,
+      "name": "Rocket.new",
+      "description": "منصة بناء وتصميم مواقع وتطبيقات ويب فائقة السرعة بالذكاء الاصطناعي.",
+      "url": "https://www.rocket.new/",
+      "icon": "https://www.rocket.new/favicon.ico",
+      "category": "برمجة وبناء تطبيقات",
+      "hide_classes": []
+    },
+    {
+      "id": 241,
+      "name": "Bravo Studio",
+      "description": "تحويل تصاميم Figma وAdobe XD إلى تطبيقات جوال حقيقية بدون كود.",
+      "url": "https://www.bravostudio.app/",
+      "icon": "https://www.bravostudio.app/favicon.ico",
+      "category": "برمجة وبناء تطبيقات",
+      "hide_classes": []
+    },
+    {
+      "id": 242,
+      "name": "Modulify AI",
+      "description": "أداة إنشاء قوالب وتصاميم واجهات المستخدم وتوليد المكونات البرمجية.",
+      "url": "https://www.modulify.ai/",
+      "icon": "https://www.modulify.ai/favicon.ico",
+      "category": "برمجة وبناء تطبيقات",
+      "hide_classes": []
+    },
+    {
+      "id": 243,
+      "name": "Appaca AI",
+      "description": "تطوير وبناء التطبيقات والأفكار الذكية بضغطة زر وبدون خبرة برمجية.",
+      "url": "https://www.appaca.ai/",
+      "icon": "https://www.appaca.ai/favicon.ico",
+      "category": "برمجة وبناء تطبيقات",
+      "hide_classes": []
+    },
+    {
+      "id": 244,
+      "name": "AutoReel",
+      "description": "توليد مقاطع Reels وفيديوهات قصيرة لمنصات التواصل الاجتماعي تلقائياً.",
+      "url": "https://www.autoreelapp.com/",
+      "icon": "https://www.autoreelapp.com/favicon.ico",
+      "category": "فيديو وشاشات",
+      "hide_classes": []
+    },
+    {
+      "id": 245,
+      "name": "Lazybird",
+      "description": "أداة إنتاجية ذكية لإنجاز المهام وأتمتة العمليات الشخصية بسهولة.",
+      "url": "https://www.lazybird.app/",
+      "icon": "https://www.lazybird.app/favicon.ico",
+      "category": "إنتاجية وأدوات",
+      "hide_classes": []
+    },
+    {
+      "name": "Grammarly",
+      "category": "كتابة وتحرير",
+      "description": "مساعد ذكي للتدقيق اللغوي وتحسين الكتابة وتحليل الأسلوب.",
+      "url": "https://www.grammarly.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 246
+    },
+    {
+      "name": "LanguageTool",
+      "category": "كتابة وتحرير",
+      "description": "مدقق لغوي ذكي للكشف عن الأخطاء الإملائية والنحوية وتحسين النصوص.",
+      "url": "https://languagetool.org",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 247
+    },
+    {
+      "name": "Hemingway Editor",
+      "category": "كتابة وتحرير",
+      "description": "أداة لتحسين وضوح النصوص واكتشاف الجمل المعقدة والمبنية للمجهول.",
+      "url": "https://hemingwayapp.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 248
+    },
+    {
+      "name": "Scribens",
+      "category": "كتابة وتحرير",
+      "description": "مدقق لغوي يساعد على اكتشاف الأخطاء وتحسين صياغة النصوص.",
+      "url": "https://www.scribens.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 249
+    },
+    {
+      "name": "Smodin",
+      "category": "كتابة بالذكاء الاصطناعي",
+      "description": "منصة للكتابة وإعادة الصياغة والتلخيص والبحث باستخدام الذكاء الاصطناعي.",
+      "url": "https://smodin.io",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 250
+    },
+    {
+      "name": "Elicit",
+      "category": "البحث العلمي",
+      "description": "مساعد بحث علمي يستخدم الذكاء الاصطناعي للعثور على الأوراق وتحليلها.",
+      "url": "https://elicit.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 251
+    },
+    {
+      "name": "ResearchRabbit",
+      "category": "البحث العلمي",
+      "description": "أداة ذكية لاكتشاف الأوراق العلمية والمراجع والروابط بين الأبحاث.",
+      "url": "https://www.researchrabbit.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 252
+    },
+    {
+      "name": "Connected Papers",
+      "category": "البحث العلمي",
+      "description": "أداة مرئية لاكتشاف الأبحاث المرتبطة بموضوع أو ورقة علمية.",
+      "url": "https://www.connectedpapers.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 253
+    },
+    {
+      "name": "Semantic Scholar",
+      "category": "البحث العلمي",
+      "description": "محرك بحث علمي مدعوم بالذكاء الاصطناعي لاكتشاف وتحليل الأبحاث.",
+      "url": "https://www.semanticscholar.org",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 254
+    },
+    {
+      "name": "SciSpace",
+      "category": "البحث العلمي",
+      "description": "منصة تساعد على قراءة وفهم وتلخيص الأوراق العلمية والمستندات البحثية.",
+      "url": "https://scispace.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 255
+    },
+    {
+      "name": "Explainpaper",
+      "category": "البحث العلمي",
+      "description": "أداة تشرح الأوراق العلمية والمصطلحات المعقدة باستخدام الذكاء الاصطناعي.",
+      "url": "https://www.explainpaper.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 256
+    },
+    {
+      "name": "Paperpal",
+      "category": "البحث العلمي",
+      "description": "مساعد ذكي لتحسين الكتابة الأكاديمية وتدقيق الأوراق العلمية.",
+      "url": "https://paperpal.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 257
+    },
+    {
+      "name": "AskYourPDF",
+      "category": "تحليل الملفات",
+      "description": "أداة للمحادثة مع ملفات PDF واستخراج المعلومات منها.",
+      "url": "https://askyourpdf.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 258
+    },
+    {
+      "name": "PDF.ai",
+      "category": "تحليل الملفات",
+      "description": "منصة تتيح طرح الأسئلة على ملفات PDF والحصول على إجابات ذكية.",
+      "url": "https://pdf.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 259
+    },
+    {
+      "name": "Humata",
+      "category": "تحليل الملفات",
+      "description": "مساعد ذكي لقراءة وتحليل المستندات الطويلة والإجابة عن محتواها.",
+      "url": "https://www.humata.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 260
+    },
+    {
+      "name": "AskCodi",
+      "category": "برمجة",
+      "description": "مساعد برمجي لإنشاء وشرح وتحسين الأكواد باستخدام الذكاء الاصطناعي.",
+      "url": "https://www.askcodi.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 261
+    },
+    {
+      "name": "Blackbox AI",
+      "category": "برمجة",
+      "description": "مساعد برمجي لتوليد الأكواد وشرحها وتحويل الأفكار إلى تطبيقات.",
+      "url": "https://www.blackbox.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 262
+    },
+    {
+      "name": "Tabnine",
+      "category": "برمجة",
+      "description": "مساعد برمجي يوفر إكمال الأكواد واقتراحات ذكية داخل بيئة التطوير.",
+      "url": "https://www.tabnine.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 263
+    },
+    {
+      "name": "CodeRabbit",
+      "category": "برمجة",
+      "description": "مراجع أكواد بالذكاء الاصطناعي لتحليل Pull Requests واكتشاف المشاكل.",
+      "url": "https://coderabbit.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 264
+    },
+    {
+      "name": "Continue",
+      "category": "برمجة",
+      "description": "مساعد برمجي مفتوح المصدر يمكن دمجه مع محررات الأكواد والنماذج المختلفة.",
+      "url": "https://www.continue.dev",
+      "hide_classes": [],
+      "badges": [
+        "مجاني",
+        "مفتوح المصدر"
+      ],
+      "id": 265
+    },
+    {
+      "name": "Aider",
+      "category": "برمجة",
+      "description": "أداة برمجة تعمل مع نماذج الذكاء الاصطناعي لتعديل المشاريع من الطرفية.",
+      "url": "https://aider.chat",
+      "hide_classes": [],
+      "badges": [
+        "مجاني",
+        "مفتوح المصدر"
+      ],
+      "id": 266
+    },
+    {
+      "name": "Cline",
+      "category": "برمجة",
+      "description": "وكيل برمجي مفتوح المصدر يساعد على إنشاء وتعديل المشاريع البرمجية.",
+      "url": "https://cline.bot",
+      "hide_classes": [],
+      "badges": [
+        "مجاني",
+        "مفتوح المصدر"
+      ],
+      "id": 267
+    },
+    {
+      "name": "OpenCode",
+      "category": "برمجة",
+      "description": "وكيل برمجي مفتوح المصدر للعمل على الأكواد والمشاريع من خلال الطرفية.",
+      "url": "https://opencode.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني",
+        "مفتوح المصدر"
+      ],
+      "id": 268
+    },
+    {
+      "name": "Windsurf",
+      "category": "برمجة",
+      "description": "بيئة تطوير ذكية تجمع بين محرر الأكواد ووكلاء الذكاء الاصطناعي.",
+      "url": "https://windsurf.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 269
+    },
+    {
+      "name": "Zed",
+      "category": "برمجة",
+      "description": "محرر أكواد حديث يوفر إمكانيات ذكاء اصطناعي للتطوير البرمجي.",
+      "url": "https://zed.dev",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 270
+    },
+    {
+      "name": "Bolt.new",
+      "category": "بناء التطبيقات",
+      "description": "منصة لبناء تطبيقات ومواقع ويب كاملة باستخدام أوامر باللغة الطبيعية.",
+      "url": "https://bolt.new",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 271
+    },
+    {
+      "name": "Base44",
+      "category": "بناء التطبيقات",
+      "description": "منصة لبناء تطبيقات ويب بالذكاء الاصطناعي من خلال وصف الفكرة.",
+      "url": "https://base44.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 272
+    },
+    {
+      "name": "Softr AI",
+      "category": "بناء التطبيقات",
+      "description": "منصة لإنشاء تطبيقات ومواقع أعمال باستخدام الذكاء الاصطناعي وبدون برمجة.",
+      "url": "https://www.softr.io",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 273
+    },
+    {
+      "name": "Glide AI",
+      "category": "بناء التطبيقات",
+      "description": "منصة لإنشاء تطبيقات أعمال وقواعد بيانات باستخدام أدوات ذكية بدون كود.",
+      "url": "https://www.glideapps.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 274
+    },
+    {
+      "name": "FlutterFlow",
+      "category": "بناء التطبيقات",
+      "description": "منصة مرئية لبناء تطبيقات الهاتف والويب مع أدوات ذكاء اصطناعي.",
+      "url": "https://flutterflow.io",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 275
+    },
+    {
+      "name": "Uplimit",
+      "category": "تعليم",
+      "description": "منصة تعليمية تستخدم الذكاء الاصطناعي للتعلم والتدريب وبناء المحتوى.",
+      "url": "https://uplimit.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 276
+    },
+    {
+      "name": "Napkin AI",
+      "category": "تصميم وعروض",
+      "description": "تحويل الأفكار والنصوص إلى مخططات ورسومات بصرية وعروض توضيحية.",
+      "url": "https://www.napkin.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 277
+    },
+    {
+      "name": "SlidesAI",
+      "category": "عروض تقديمية",
+      "description": "إنشاء عروض تقديمية من النصوص باستخدام الذكاء الاصطناعي.",
+      "url": "https://www.slidesai.io",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 278
+    },
+    {
+      "name": "Plus AI",
+      "category": "عروض تقديمية",
+      "description": "مساعد لإنشاء وتحرير عروض Google Slides وPowerPoint بالذكاء الاصطناعي.",
+      "url": "https://www.plusdocs.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 279
+    },
+    {
+      "name": "Slidesgo AI",
+      "category": "عروض تقديمية",
+      "description": "مولد عروض تقديمية يعتمد على الذكاء الاصطناعي لإنشاء الشرائح بسرعة.",
+      "url": "https://slidesgo.com/ai-presentation-maker",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 280
+    },
+    {
+      "name": "Miro AI",
+      "category": "إنتاجية",
+      "description": "أدوات ذكاء اصطناعي داخل لوحات Miro لتنظيم الأفكار وتحليلها.",
+      "url": "https://miro.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 281
+    },
+    {
+      "name": "Mem",
+      "category": "إنتاجية",
+      "description": "مساحة عمل ذكية لتنظيم الملاحظات والمعلومات واسترجاعها بالذكاء الاصطناعي.",
+      "url": "https://mem.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 282
+    },
+    {
+      "name": "Reclaim AI",
+      "category": "إنتاجية",
+      "description": "مساعد ذكي لتنظيم الوقت والمهام والاجتماعات تلقائياً.",
+      "url": "https://reclaim.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 283
+    },
+    {
+      "name": "Motion",
+      "category": "إنتاجية",
+      "description": "مساعد ذكي لتنظيم المهام والمواعيد وإنشاء جداول عمل تلقائية.",
+      "url": "https://www.usemotion.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 284
+    },
+    {
+      "name": "Taskade AI",
+      "category": "إنتاجية",
+      "description": "منصة لإدارة المشاريع والمهام وإنشاء وكلاء وسير عمل بالذكاء الاصطناعي.",
+      "url": "https://www.taskade.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 285
+    },
+    {
+      "name": "Gamma Brain",
+      "category": "إنتاجية",
+      "description": "أدوات ذكية لتنظيم وتحويل الأفكار والمعلومات إلى محتوى قابل للاستخدام.",
+      "url": "https://gamma.app",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 286
+    },
+    {
+      "name": "Glean",
+      "category": "إنتاجية",
+      "description": "محرك معرفة ذكي للبحث داخل المعلومات والمستندات الخاصة بالعمل.",
+      "url": "https://www.glean.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 287
+    },
+    {
+      "name": "Consensus",
+      "category": "البحث العلمي",
+      "description": "محرك بحث علمي يستخدم الأبحاث المنشورة للإجابة عن الأسئلة.",
+      "url": "https://consensus.app",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 288
+    },
+    {
+      "name": "Scholarcy",
+      "category": "البحث العلمي",
+      "description": "أداة لتلخيص الأبحاث والمقالات العلمية واستخراج أهم المعلومات.",
+      "url": "https://www.scholarcy.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 289
+    },
+    {
+      "name": "Perplexity Labs",
+      "category": "البحث والإنتاجية",
+      "description": "بيئة لإنشاء تقارير ومشاريع ومحتوى اعتماداً على البحث والذكاء الاصطناعي.",
+      "url": "https://www.perplexity.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 290
+    },
+    {
+      "name": "Mage.space",
+      "category": "توليد الصور",
+      "description": "منصة لتوليد الصور باستخدام نماذج ذكاء اصطناعي متعددة.",
+      "url": "https://www.mage.space",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 291
+    },
+    {
+      "name": "Playground AI",
+      "category": "توليد الصور",
+      "description": "منصة لإنشاء وتعديل الصور باستخدام نماذج الذكاء الاصطناعي.",
+      "url": "https://playground.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 292
+    },
+    {
+      "name": "Tensor.Art",
+      "category": "توليد الصور",
+      "description": "منصة لاستكشاف وتشغيل نماذج توليد الصور وإنشاء أعمال فنية بالذكاء الاصطناعي.",
+      "url": "https://tensor.art",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 293
+    },
+    {
+      "name": "SeaArt AI",
+      "category": "توليد الصور",
+      "description": "منصة لإنشاء الصور والشخصيات والأعمال الفنية باستخدام نماذج متعددة.",
+      "url": "https://www.seaart.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 294
+    },
+    {
+      "name": "Dezgo",
+      "category": "توليد الصور",
+      "description": "مولد صور يعتمد على نماذج الذكاء الاصطناعي مع أدوات تحرير وتخصيص.",
+      "url": "https://dezgo.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 295
+    },
+    {
+      "name": "ArtGuru",
+      "category": "توليد الصور",
+      "description": "مجموعة أدوات لإنشاء الصور وتحسينها باستخدام الذكاء الاصطناعي.",
+      "url": "https://www.artguru.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 296
+    },
+    {
+      "name": "ImgCreator",
+      "category": "توليد الصور",
+      "description": "أداة لإنشاء الصور والتصاميم من النصوص باستخدام الذكاء الاصطناعي.",
+      "url": "https://imgcreator.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 297
+    },
+    {
+      "name": "PicWish",
+      "category": "تعديل الصور",
+      "description": "أدوات ذكية لإزالة الخلفيات وتحسين الصور وتعديلها تلقائياً.",
+      "url": "https://picwish.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 298
+    },
+    {
+      "name": "insMind",
+      "category": "تعديل الصور",
+      "description": "محرر صور بالذكاء الاصطناعي متخصص في صور المنتجات والتجارة الإلكترونية.",
+      "url": "https://www.insmind.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 299
+    },
+    {
+      "name": "Fotor AI",
+      "category": "تعديل الصور",
+      "description": "منصة لتوليد وتحرير وتحسين الصور باستخدام الذكاء الاصطناعي.",
+      "url": "https://www.fotor.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 300
+    },
+    {
+      "name": "Pixlr AI",
+      "category": "تعديل الصور",
+      "description": "محرر صور عبر الإنترنت يحتوي على أدوات توليد وتعديل مدعومة بالذكاء الاصطناعي.",
+      "url": "https://pixlr.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 301
+    },
+    {
+      "name": "Picsart AI",
+      "category": "تعديل الصور",
+      "description": "منصة تصميم وتحرير صور تحتوي على مجموعة كبيرة من أدوات الذكاء الاصطناعي.",
+      "url": "https://picsart.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 302
+    },
+    {
+      "name": "Cutout.Pro",
+      "category": "تعديل الصور",
+      "description": "أدوات ذكية لإزالة الخلفيات وتحسين الصور وإنشاء المحتوى المرئي.",
+      "url": "https://www.cutout.pro",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 303
+    },
+    {
+      "name": "PhotoRoom Studio",
+      "category": "تعديل الصور",
+      "description": "أدوات ذكية لإنشاء صور المنتجات وإزالة الخلفيات وتحسين التصاميم.",
+      "url": "https://www.photoroom.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 304
+    },
+    {
+      "name": "Hailuo AI",
+      "category": "توليد الفيديو",
+      "description": "منصة لإنشاء مقاطع فيديو من النصوص والصور باستخدام الذكاء الاصطناعي.",
+      "url": "https://hailuoai.video",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 305
+    },
+    {
+      "name": "Haiper",
+      "category": "توليد الفيديو",
+      "description": "مولد فيديو بالذكاء الاصطناعي لإنشاء وتحريك المشاهد من النصوص والصور.",
+      "url": "https://haiper.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 306
+    },
+    {
+      "name": "Vidu AI",
+      "category": "توليد الفيديو",
+      "description": "منصة لتوليد فيديوهات قصيرة من النصوص والصور بجودة عالية.",
+      "url": "https://www.vidu.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 307
+    },
+    {
+      "name": "Pollo AI",
+      "category": "توليد الفيديو",
+      "description": "منصة تجمع عدة نماذج لإنشاء الفيديو من النصوص والصور.",
+      "url": "https://pollo.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 308
+    },
+    {
+      "name": "Hedra",
+      "category": "توليد الفيديو",
+      "description": "منصة لإنشاء شخصيات وفيديوهات متحركة بالذكاء الاصطناعي.",
+      "url": "https://www.hedra.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 309
+    },
+    {
+      "name": "Klap",
+      "category": "تحرير الفيديو",
+      "description": "أداة تحول الفيديوهات الطويلة إلى مقاطع قصيرة مناسبة لـ Shorts وReels.",
+      "url": "https://klap.app",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 310
+    },
+    {
+      "name": "Vizard AI",
+      "category": "تحرير الفيديو",
+      "description": "أداة ذكية لاستخراج المقاطع القصيرة والترجمة والتحرير التلقائي للفيديو.",
+      "url": "https://vizard.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 311
+    },
+    {
+      "name": "Captions AI",
+      "category": "تحرير الفيديو",
+      "description": "أدوات ذكية لإنشاء وتحرير فيديوهات التواصل الاجتماعي وإضافة الترجمة.",
+      "url": "https://www.captions.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 312
+    },
+    {
+      "name": "Wisecut",
+      "category": "تحرير الفيديو",
+      "description": "محرر فيديو ذكي يقوم بالقص التلقائي وإضافة الترجمة وتحسين الصوت.",
+      "url": "https://www.wisecut.video",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 313
+    },
+    {
+      "name": "VEED AI",
+      "category": "تحرير الفيديو",
+      "description": "محرر فيديو عبر الإنترنت مع أدوات ذكاء اصطناعي للترجمة وإنشاء المحتوى.",
+      "url": "https://www.veed.io",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 314
+    },
+    {
+      "name": "Murf AI",
+      "category": "الصوت وتحويل النص",
+      "description": "منصة لتحويل النصوص إلى أصوات واقعية وإنشاء التعليق الصوتي.",
+      "url": "https://murf.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 315
+    },
+    {
+      "name": "Speechify",
+      "category": "الصوت وتحويل النص",
+      "description": "أداة لتحويل النصوص والكتب والمستندات إلى صوت طبيعي.",
+      "url": "https://speechify.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 316
+    },
+    {
+      "name": "Fish Audio",
+      "category": "الصوت",
+      "description": "منصة لتوليد الأصوات واستنساخها وتحويل النص إلى كلام.",
+      "url": "https://fish.audio",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 317
+    },
+    {
+      "name": "Resemble AI",
+      "category": "الصوت",
+      "description": "منصة لإنشاء واستنساخ الأصوات وتوليد الكلام بالذكاء الاصطناعي.",
+      "url": "https://www.resemble.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 318
+    },
+    {
+      "name": "Podcastle",
+      "category": "الصوت والبودكاست",
+      "description": "استوديو صوتي ذكي لتسجيل وتحرير وتحسين البودكاست.",
+      "url": "https://podcastle.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 319
+    },
+    {
+      "name": "Cleanvoice",
+      "category": "تحرير الصوت",
+      "description": "أداة لتنظيف التسجيلات الصوتية وإزالة التوقفات والأصوات غير المرغوبة.",
+      "url": "https://cleanvoice.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 320
+    },
+    {
+      "name": "Auphonic",
+      "category": "تحرير الصوت",
+      "description": "أداة لتحسين مستوى الصوت وتقليل الضوضاء ومعالجة التسجيلات تلقائياً.",
+      "url": "https://auphonic.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 321
+    },
+    {
+      "name": "Beatoven AI",
+      "category": "توليد الموسيقى",
+      "description": "أداة لإنشاء موسيقى أصلية مناسبة للفيديوهات والبودكاست والمحتوى.",
+      "url": "https://www.beatoven.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 322
+    },
+    {
+      "name": "Soundful",
+      "category": "توليد الموسيقى",
+      "description": "مولد موسيقى بالذكاء الاصطناعي لإنشاء مقاطع موسيقية أصلية.",
+      "url": "https://soundful.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 323
+    },
+    {
+      "name": "Loudly AI Music",
+      "category": "توليد الموسيقى",
+      "description": "منصة لإنشاء موسيقى بالذكاء الاصطناعي وتخصيصها حسب نوع المحتوى.",
+      "url": "https://www.loudly.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 324
+    },
+    {
+      "name": "Boomy",
+      "category": "توليد الموسيقى",
+      "description": "أداة سهلة لإنشاء الأغاني والموسيقى باستخدام الذكاء الاصطناعي.",
+      "url": "https://boomy.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 325
+    },
+    {
+      "name": "Moises AI",
+      "category": "الموسيقى",
+      "description": "أداة ذكية لفصل الآلات والأصوات من الأغاني ومعالجة المسارات الموسيقية.",
+      "url": "https://moises.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 326
+    },
+    {
+      "name": "AIVA",
+      "category": "توليد الموسيقى",
+      "description": "منصة لتأليف موسيقى أصلية باستخدام الذكاء الاصطناعي.",
+      "url": "https://www.aiva.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 327
+    },
+    {
+      "name": "Diagram",
+      "category": "تصميم",
+      "description": "أدوات ذكية تساعد المصممين على إنشاء واجهات وتجارب مستخدم.",
+      "url": "https://diagram.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 328
+    },
+    {
+      "name": "Visily",
+      "category": "تصميم واجهات",
+      "description": "منصة لإنشاء Wireframes وواجهات التطبيقات والمواقع بالذكاء الاصطناعي.",
+      "url": "https://www.visily.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 329
+    },
+    {
+      "name": "Uizard",
+      "category": "تصميم واجهات",
+      "description": "تحويل الأفكار والرسومات إلى واجهات تطبيقات ومواقع باستخدام الذكاء الاصطناعي.",
+      "url": "https://uizard.io",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 330
+    },
+    {
+      "name": "Relume AI",
+      "category": "تصميم مواقع",
+      "description": "أداة لإنشاء خرائط المواقع وWireframes لمشاريع الويب باستخدام الذكاء الاصطناعي.",
+      "url": "https://www.relume.io",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 331
+    },
+    {
+      "name": "Webflow AI",
+      "category": "تطوير مواقع",
+      "description": "أدوات ذكاء اصطناعي تساعد على تصميم وبناء مواقع الويب.",
+      "url": "https://webflow.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 332
+    },
+    {
+      "name": "Hostinger AI Website Builder",
+      "category": "بناء المواقع",
+      "description": "أداة لإنشاء مواقع ويب باستخدام الذكاء الاصطناعي والقوالب الجاهزة.",
+      "url": "https://www.hostinger.com/website-builder",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 333
+    },
+    {
+      "name": "Durable AI Website Builder",
+      "category": "بناء المواقع",
+      "description": "منصة لإنشاء مواقع للشركات والمشاريع باستخدام الذكاء الاصطناعي.",
+      "url": "https://durable.co",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 334
+    },
+    {
+      "name": "Appy Pie AI",
+      "category": "بناء التطبيقات",
+      "description": "منصة لإنشاء تطبيقات ومواقع وأدوات رقمية باستخدام الذكاء الاصطناعي.",
+      "url": "https://www.appypie.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 335
+    },
+    {
+      "name": "Sider AI",
+      "category": "مساعد ذكي",
+      "description": "مساعد ذكاء اصطناعي يعمل داخل المتصفح للتلخيص والكتابة والترجمة والبحث.",
+      "url": "https://sider.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 336
+    },
+    {
+      "name": "Monica AI",
+      "category": "مساعد ذكي",
+      "description": "مساعد شامل للكتابة والترجمة والتلخيص وتحليل المحتوى.",
+      "url": "https://monica.im",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 337
+    },
+    {
+      "name": "Merlin AI",
+      "category": "مساعد ذكي",
+      "description": "مساعد ذكاء اصطناعي للبحث والكتابة والتلخيص يعمل عبر المتصفح.",
+      "url": "https://www.getmerlin.in",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 338
+    },
+    {
+      "name": "YouTube Summary with ChatGPT",
+      "category": "تلخيص الفيديو",
+      "description": "أدوات لتلخيص محتوى فيديوهات YouTube واستخراج أهم الأفكار.",
+      "url": "https://youtubesummary.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 339
+    },
+    {
+      "name": "Eightify",
+      "category": "تلخيص الفيديو",
+      "description": "أداة لتلخيص فيديوهات YouTube واستخراج النقاط الرئيسية بسرعة.",
+      "url": "https://eightify.app",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 340
+    },
+    {
+      "name": "Tactiq",
+      "category": "الاجتماعات",
+      "description": "مساعد اجتماعات يقوم بتحويل الكلام إلى نص وإنشاء ملخصات ونقاط عمل.",
+      "url": "https://tactiq.io",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 341
+    },
+    {
+      "name": "Fireflies.ai",
+      "category": "الاجتماعات",
+      "description": "مساعد اجتماعات ذكي يقوم بالتسجيل والتفريغ والتلخيص.",
+      "url": "https://fireflies.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 342
+    },
+    {
+      "name": "Fathom",
+      "category": "الاجتماعات",
+      "description": "مساعد اجتماعات لتسجيل المكالمات وإنشاء الملخصات ونقاط العمل.",
+      "url": "https://fathom.video",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 343
+    },
+    {
+      "name": "Krisp AI",
+      "category": "الصوت والاجتماعات",
+      "description": "أداة لإزالة الضوضاء من المكالمات وتحسين جودة الصوت باستخدام الذكاء الاصطناعي.",
+      "url": "https://krisp.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 344
+    },
+    {
+      "name": "Zapier AI",
+      "category": "الأتمتة",
+      "description": "أدوات ذكاء اصطناعي وأتمتة لربط التطبيقات وتنفيذ المهام المتكررة.",
+      "url": "https://zapier.com/ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 345
+    },
+    {
+      "name": "Make AI",
+      "category": "الأتمتة",
+      "description": "منصة أتمتة مرئية توفر إمكانيات ذكاء اصطناعي لبناء سير عمل آلي.",
+      "url": "https://www.make.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 346
+    },
+    {
+      "name": "n8n",
+      "category": "الأتمتة",
+      "description": "منصة أتمتة مفتوحة المصدر لبناء سير عمل وربط خدمات الذكاء الاصطناعي.",
+      "url": "https://n8n.io",
+      "hide_classes": [],
+      "badges": [
+        "مجاني",
+        "مفتوح المصدر"
+      ],
+      "id": 347
+    },
+    {
+      "name": "HuggingChat",
+      "category": "نماذج الذكاء الاصطناعي",
+      "description": "واجهة محادثة للوصول إلى نماذج ذكاء اصطناعي مفتوحة المصدر.",
+      "url": "https://huggingface.co/chat",
+      "hide_classes": [],
+      "badges": [
+        "مجاني",
+        "مفتوح المصدر"
+      ],
+      "id": 348
+    },
+    {
+      "name": "OpenRouter",
+      "category": "نماذج وواجهات API",
+      "description": "منصة توفر واجهة موحدة للوصول إلى مجموعة كبيرة من نماذج الذكاء الاصطناعي.",
+      "url": "https://openrouter.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 349
+    },
+    {
+      "name": "Together AI",
+      "category": "نماذج وواجهات API",
+      "description": "منصة للمطورين لتجربة وتشغيل نماذج الذكاء الاصطناعي التوليدي.",
+      "url": "https://www.together.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 350
+    },
+    {
+      "name": "Groq",
+      "category": "نماذج وواجهات API",
+      "description": "منصة توفر وصولاً سريعاً إلى نماذج الذكاء الاصطناعي للمطورين والمستخدمين.",
+      "url": "https://groq.com",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 351
+    },
+    {
+      "name": "Mistral AI Le Chat",
+      "category": "مساعد ذكي",
+      "description": "مساعد محادثة من Mistral يدعم الكتابة والتحليل والبحث والبرمجة.",
+      "url": "https://chat.mistral.ai",
+      "hide_classes": [],
+      "badges": [
+        "مجاني"
+      ],
+      "id": 352
+    },
+    {
+      "name": "Zed AI",
+      "category": "برمجة",
+      "description": "محرر أكواد سريع ومفتوح المصدر مع إمكانيات ذكاء اصطناعي.",
+      "url": "https://zed.dev",
+      "hide_classes": [],
+      "badges": [
+        "مجاني",
+        "مفتوح المصدر"
+      ],
+      "id": 353
+    }
   ]
 }
