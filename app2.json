@@ -1,4 +1,4 @@
-{
+Kim{
   "admob_config": {
     "ad_status": "off",
     "ad_network": "unity",
@@ -3473,17 +3473,6 @@
     "hide_classes": [],
     "badges": [
       "مجاني محدود"
-    ]
-  },
-  {
-    "id": 409,
-    "name": "There’s An AI For That — Free",
-    "category": "البحث واكتشاف الأدوات",
-    "description": "دليل لاكتشاف أدوات الذكاء الاصطناعي بحسب المهمة أو الاستخدام المطلوب.",
-    "url": "https://free.theresanaiforthat.com/",
-    "hide_classes": [],
-    "badges": [
-      "مجاني"
     ]
   },
   {
