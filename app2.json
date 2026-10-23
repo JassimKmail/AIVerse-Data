@@ -3421,6 +3421,413 @@
     "badges": [
       "مجاني محدود"
     ]
+  },
+{
+    "id": 404,
+    "name": "Luma AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة لإنشاء وتحرير الفيديوهات والمشاهد المرئية باستخدام نماذج الذكاء الاصطناعي.",
+    "url": "https://luma.ai/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 405,
+    "name": "Muse.ai",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة لاستضافة الفيديو والبحث داخله باستخدام أدوات ذكية للتفريغ النصي واكتشاف المحتوى.",
+    "url": "https://muse.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "Renderforest",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة لإنشاء الفيديوهات والشعارات والتصاميم والمواقع باستخدام القوالب وأدوات الذكاء الاصطناعي.",
+    "url": "https://www.renderforest.com/ar/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "HIX AI",
+    "category": "الكتابة والترجمة والتسويق",
+    "description": "مجموعة أدوات للكتابة وإعادة الصياغة والتلخيص والمحادثة وإنشاء المحتوى بالذكاء الاصطناعي.",
+    "url": "https://hix.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Forefront AI",
+    "category": "البرمجة والتطوير",
+    "description": "منصة للمطورين لتشغيل النماذج مفتوحة المصدر وتخصيصها وتقييمها وربطها عبر API.",
+    "url": "https://forefront.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "There’s An AI For That — Free",
+    "category": "البحث واكتشاف الأدوات",
+    "description": "دليل لاكتشاف أدوات الذكاء الاصطناعي بحسب المهمة أو الاستخدام المطلوب.",
+    "url": "https://free.theresanaiforthat.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "Wron",
+    "category": "البرمجة والتطوير",
+    "description": "منصة تساعد على اكتشاف أفكار التطبيقات وبنائها بالذكاء الاصطناعي دون الحاجة إلى كتابة الكود يدويًا.",
+    "url": "https://www.wron.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "إطلاق Etlaq",
+    "category": "البرمجة والتطوير",
+    "description": "منصة عربية لبناء التطبيقات والمنتجات الرقمية بالذكاء الاصطناعي مع خيارات للمعاينة والنشر.",
+    "url": "https://www.etlaq.sa/",
+    "hide_classes": [],
+    "badges": [
+      "تجربة مجانية"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Banana Prompts Gallery",
+    "category": "الصور والتصميم",
+    "description": "معرض برومبتات وأمثلة تساعد على إنشاء صور باستخدام نماذج Nano Banana.",
+    "url": "https://bananaprompts.org/prompts-gallery",
+    "hide_classes": [],
+    "badges": [
+      "مجاني"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "NanoBananaPro Prompts",
+    "category": "الصور والتصميم",
+    "description": "مكتبة برومبتات وأفكار جاهزة لتجربة توليد الصور وتعديلها باستخدام Nano Banana.",
+    "url": "https://www.nanobananapro.org/prompts",
+    "hide_classes": [],
+    "badges": [
+      "مجاني"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "BananaPrompts Explore",
+    "category": "الصور والتصميم",
+    "description": "صفحة لاستكشاف برومبتات مرئية وأفكار جاهزة لتوليد الصور بالذكاء الاصطناعي.",
+    "url": "https://www.bananaprompts.xyz/explore",
+    "hide_classes": [],
+    "badges": [
+      "مجاني"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "NanoBanana.im Prompts",
+    "category": "الصور والتصميم",
+    "description": "مكتبة عربية لبرومبتات توليد الصور وتعديلها مع أمثلة يمكن الاستفادة منها.",
+    "url": "https://nanobanana.im/ar/prompts",
+    "hide_classes": [],
+    "badges": [
+      "مجاني"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Nano Banana 2 Prompts",
+    "category": "الصور والتصميم",
+    "description": "مجموعة برومبتات عربية تساعد على تجربة أساليب وأفكار مختلفة لتوليد الصور.",
+    "url": "https://nano-banana2.org/ar/banana-prompts",
+    "hide_classes": [],
+    "badges": [
+      "مجاني"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Blink.new",
+    "category": "البرمجة والتطوير",
+    "description": "منصة لبناء تطبيقات ومواقع ويب من خلال وصف الفكرة بلغة طبيعية والاستعانة بالذكاء الاصطناعي.",
+    "url": "https://blink.new/ar",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "MovieFlow AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أداة موجهة لصناعة الفيديو والمحتوى المرئي بمساعدة الذكاء الاصطناعي.",
+    "url": "https://movieflow.ai/mobile/home",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 419,
+    "name": "21st.dev",
+    "category": "البرمجة والتطوير",
+    "description": "مجتمع ومكتبة لمكونات واجهات المستخدم تساعد المطورين على اكتشاف وبناء واجهات ويب حديثة.",
+    "url": "https://21st.dev/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "VoiceStudio (GitHub)",
+    "category": "الصوت والموسيقى",
+    "description": "مشروع مفتوح المصدر على GitHub لأدوات التعامل مع الصوت؛ راجع مستودع المشروع لمعرفة المتطلبات وطريقة التشغيل.",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "hide_classes": [],
+    "badges": [
+      "مجاني",
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Cartesia",
+    "category": "الصوت والموسيقى",
+    "description": "منصة صوتية توفر نماذج لتحويل النص إلى كلام والتعرف على الكلام وبناء وكلاء صوتيين.",
+    "url": "https://www.cartesia.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 422,
+    "name": "Godmod3",
+    "category": "الصور والتصميم",
+    "description": "أداة إبداعية تعتمد على الذكاء الاصطناعي لإنشاء محتوى بصري من الأوامر النصية.",
+    "url": "https://godmod3.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 423,
+    "name": "LongCat AI",
+    "category": "المحادثة والنماذج الذكية",
+    "description": "واجهة للمحادثة مع الذكاء الاصطناعي والمساعدة في الإجابة عن الأسئلة وإنشاء النصوص.",
+    "url": "https://longcatai.net/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 424,
+    "name": "Emergent",
+    "category": "البرمجة والتطوير",
+    "description": "منصة لبناء تطبيقات ومواقع ويب من وصف نصي، مع توليد الواجهات والمنطق البرمجي بالذكاء الاصطناعي.",
+    "url": "https://app.emergent.sh/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Skywork AI",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساعد إنتاجية لإنجاز الأبحاث وإنشاء المستندات والعروض ومخرجات العمل بالذكاء الاصطناعي.",
+    "url": "https://skywork.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Free LLM API Resources (GitHub)",
+    "category": "البرمجة والتطوير",
+    "description": "قائمة مجتمعية على GitHub لمصادر وواجهات API تتيح تجربة نماذج لغوية، مع ضرورة مراجعة شروط كل مزود.",
+    "url": "https://github.com/raullenchai/free-llm-api-resources",
+    "hide_classes": [],
+    "badges": [
+      "مجاني",
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Bytez",
+    "category": "البرمجة والتطوير",
+    "description": "منصة لاكتشاف وتجربة نماذج الذكاء الاصطناعي والوصول إليها برمجيًا عبر واجهات API.",
+    "url": "https://bytez.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 428,
+    "name": "PIAX",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساحة عمل تجمع أدوات ونماذج للذكاء الاصطناعي في المحادثة والصور والفيديو والصوت.",
+    "url": "https://www.piax.org/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 429,
+    "name": "Promoat AI",
+    "category": "الكتابة والترجمة والتسويق",
+    "description": "أداة تساعد على إنشاء مواد ترويجية ومحتوى تسويقي بالاستعانة بالذكاء الاصطناعي.",
+    "url": "https://www.promoat.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Dreamina Trends Studio",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أداة من Dreamina لاستكشاف الاتجاهات والأفكار الإبداعية وصناعة محتوى بصري ملائم لها.",
+    "url": "https://dreamina.capcut.com/tools/trends-studio",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Upsampler",
+    "category": "الصور والتصميم",
+    "description": "أداة لتحسين دقة الصور وتكبيرها باستخدام تقنيات الذكاء الاصطناعي.",
+    "url": "https://upsampler.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Notion",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساحة عمل لتنظيم الملاحظات والمشاريع وقواعد البيانات والتعاون، مع ميزات ذكاء اصطناعي ضمن الخطط المدعومة.",
+    "url": "https://www.notion.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "OpenAlternative",
+    "category": "البحث واكتشاف الأدوات",
+    "description": "دليل لاكتشاف بدائل مفتوحة المصدر للخدمات والمنتجات البرمجية الشائعة.",
+    "url": "https://openalternative.co/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "IsVisible AI",
+    "category": "البحث واكتشاف الأدوات",
+    "description": "أداة تفحص مدى إمكانية وصول محركات وإجابات الذكاء الاصطناعي إلى موقعك وتعرض تقريرًا عن ظهوره.",
+    "url": "https://isvisible.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني",
+      "بدون تسجيل"
+    ]
+  },
+  {
+    "id": 435,
+    "name": "Vaivox",
+    "category": "الصوت والموسيقى",
+    "description": "أداة لتحويل محتوى الفيديو إلى تجربة مدبلجة صوتيًا، مع تفريغ وترجمة المحتوى إلى لغات أخرى.",
+    "url": "https://vaivox.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 436,
+    "name": "myStylus AI",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساعد للدراسة والبحث والكتابة وإنشاء محتوى بصري ومرئي ضمن مساحة عمل واحدة.",
+    "url": "https://mystylus.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 437,
+    "name": "SaveSora Watermark Remover",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أداة عبر الويب لإزالة العلامة المائية من فيديوهات Sora وفق إمكانات الموقع وشروط استخدامه.",
+    "url": "https://savesora.com/ar/sora2-watermark-remover",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Moda",
+    "category": "العروض والوثائق",
+    "description": "منصة لتصميم مواد تسويقية وعروض ومستندات ورسومات قابلة للتحرير بمساعدة الذكاء الاصطناعي.",
+    "url": "https://moda.app/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 439,
+    "name": "PhoText",
+    "category": "الصور والتصميم",
+    "description": "أداة لتعديل النصوص داخل الصور بالذكاء الاصطناعي مع مطابقة الخط وإصلاح الخلفية المحيطة بالنص.",
+    "url": "https://photext.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود",
+      "بدون تسجيل"
+    ]
+  },
+  {
+    "id": 440,
+    "name": "Google Antigravity",
+    "category": "البرمجة والتطوير",
+    "description": "بيئة تطوير مدعومة بالذكاء الاصطناعي تساعد على تخطيط مهام البرمجة وتنفيذها ومراجعة نتائجها.",
+    "url": "https://antigravity.google/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
   }
   ]
 }
