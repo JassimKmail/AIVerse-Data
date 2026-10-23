@@ -2865,6 +2865,562 @@
       "badges": [
         "تجربة مجانية"
       ]
-    }
+    },
+      {
+    "id": 354,
+    "name": "Qodo",
+    "category": "البرمجة والتطوير",
+    "description": "مساعد برمجي يستخدم الذكاء الاصطناعي لمراجعة الشيفرة واختبارها وتحسين جودتها.",
+    "url": "https://www.qodo.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Sourcegraph Cody",
+    "category": "البرمجة والتطوير",
+    "description": "مساعد برمجي يفهم سياق المستودعات ويساعد على البحث في الشيفرة وكتابتها وتعديلها.",
+    "url": "https://sourcegraph.com/cody",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "TabbyML",
+    "category": "البرمجة والتطوير",
+    "description": "مساعد إكمال شيفرة مفتوح المصدر يمكن تشغيله ذاتياً لدعم سير عمل المطورين.",
+    "url": "https://www.tabbyml.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني",
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "PearAI",
+    "category": "البرمجة والتطوير",
+    "description": "محرر شيفرات مدعوم بالذكاء الاصطناعي يساعد على كتابة الكود وفهمه وتعديله.",
+    "url": "https://trypear.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Zencoder",
+    "category": "البرمجة والتطوير",
+    "description": "وكيل برمجي يساعد المطورين على إنشاء الشيفرة وفهم المشاريع وأتمتة مهام التطوير.",
+    "url": "https://zencoder.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "OpenArt",
+    "category": "الصور والتصميم",
+    "description": "منصة لإنشاء الصور وتحريرها واستكشاف النماذج والأساليب الفنية بالذكاء الاصطناعي.",
+    "url": "https://openart.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Civitai",
+    "category": "الصور والتصميم",
+    "description": "مجتمع لاكتشاف نماذج وأدوات توليد الصور ومشاركة الأعمال الفنية المولدة بالذكاء الاصطناعي.",
+    "url": "https://civitai.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Getimg.ai",
+    "category": "الصور والتصميم",
+    "description": "مجموعة أدوات لتوليد الصور وتعديلها وتوسيعها باستخدام نماذج الذكاء الاصطناعي.",
+    "url": "https://getimg.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "NightCafe",
+    "category": "الصور والتصميم",
+    "description": "منصة فنية لإنشاء الصور بالذكاء الاصطناعي وتجربة أنماط ونماذج متعددة.",
+    "url": "https://nightcafe.studio",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Reve AI",
+    "category": "الصور والتصميم",
+    "description": "أداة لتوليد الصور من الأوصاف النصية مع إمكانات للتحكم بالمظهر والتفاصيل.",
+    "url": "https://reve.art",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "PixVerse",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أداة لإنشاء مقاطع فيديو من النصوص أو الصور مع تأثيرات وحركة مولدة بالذكاء الاصطناعي.",
+    "url": "https://pixverse.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "LTX Studio",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة لتخطيط القصص والمشاهد وتحويل الأفكار والنصوص إلى مشاريع فيديو مرئية.",
+    "url": "https://ltx.studio",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Steve AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أداة لتحويل النصوص والسيناريوهات إلى فيديوهات ورسوم متحركة ومحتوى توضيحي.",
+    "url": "https://www.steve.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Animaker AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة لإنشاء فيديوهات ورسوم متحركة وشخصيات ومشاهد باستخدام أدوات ذكية.",
+    "url": "https://www.animaker.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "TurboScribe",
+    "category": "الصوت والموسيقى",
+    "description": "خدمة لتحويل التسجيلات الصوتية والفيديو إلى نص مع دعم لغات متعددة.",
+    "url": "https://turboscribe.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Riffusion",
+    "category": "الصوت والموسيقى",
+    "description": "أداة لتوليد الموسيقى والأفكار الصوتية اعتماداً على أوصاف المستخدم.",
+    "url": "https://www.riffusion.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "MusicGen",
+    "category": "الصوت والموسيقى",
+    "description": "نموذج تجريبي لتوليد مقاطع موسيقية من أوصاف نصية عبر واجهة ويب.",
+    "url": "https://audiocraft.metademolab.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "LALAL.AI",
+    "category": "الصوت والموسيقى",
+    "description": "أداة لفصل الغناء والآلات الموسيقية والمسارات الصوتية من الملفات الصوتية.",
+    "url": "https://www.lalal.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "VocalRemover.org",
+    "category": "الصوت والموسيقى",
+    "description": "أداة ويب لفصل الصوت البشري عن الموسيقى وإنشاء مسارات صوتية منفصلة.",
+    "url": "https://vocalremover.org",
+    "hide_classes": [],
+    "badges": [
+      "مجاني"
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Audo Studio",
+    "category": "الصوت والموسيقى",
+    "description": "أداة لتحسين التسجيلات الصوتية وتقليل الضوضاء وتحسين وضوح الكلام.",
+    "url": "https://audo.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Granola",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساعد اجتماعات يلخص المحادثات وينظم الملاحظات إلى ملخصات قابلة للرجوع إليها.",
+    "url": "https://granola.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Read AI",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساعد اجتماعات يحلل المحادثات وينشئ ملخصات ومهام متابعة ومؤشرات للاجتماعات.",
+    "url": "https://www.read.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "tl;dv",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "أداة لتسجيل الاجتماعات وتفريغها وتلخيصها ومشاركة أبرز اللحظات مع الفريق.",
+    "url": "https://tldv.io",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Supernormal",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساعد لتدوين ملاحظات الاجتماعات وإنشاء ملخصات ومهام متابعة تلقائياً.",
+    "url": "https://supernormal.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Tana",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساحة عمل لتنظيم الملاحظات والمعرفة والمهام مع ميزات ذكية لهيكلة المعلومات.",
+    "url": "https://tana.inc",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Capacities",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "تطبيق لإدارة المعرفة والملاحظات يربط الأشخاص والأفكار والمشاريع ضمن مساحة منظمة.",
+    "url": "https://capacities.io",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Whimsical AI",
+    "category": "العروض والوثائق",
+    "description": "أداة لتوليد المخططات والخرائط الذهنية والرسوم التخطيطية انطلاقاً من وصف نصي.",
+    "url": "https://whimsical.com/ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Eraser AI",
+    "category": "العروض والوثائق",
+    "description": "أداة لإنشاء المخططات التقنية ورسوم البنية البرمجية من وصف نصي أو تعليمات.",
+    "url": "https://www.eraser.io",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Excalidraw",
+    "category": "العروض والوثائق",
+    "description": "لوحة رسم تعاونية لإنشاء مخططات ورسوم توضيحية بأسلوب مرسوم يدوياً، مع ميزات ذكية متاحة عبر إضافات وسير العمل.",
+    "url": "https://excalidraw.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني",
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Pitch",
+    "category": "العروض والوثائق",
+    "description": "منصة لإنشاء عروض تقديمية تعاونية باستخدام قوالب وأدوات مساعدة في إعداد المحتوى.",
+    "url": "https://pitch.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "SlidesGPT",
+    "category": "العروض والوثائق",
+    "description": "أداة تحول الموضوعات أو النصوص إلى عروض تقديمية منظمة قابلة للتصدير.",
+    "url": "https://slidesgpt.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "Deck AI",
+    "category": "العروض والوثائق",
+    "description": "أداة تساعد على إنشاء عروض تقديمية من وصف مختصر وتنظيم الشرائح ومحتواها.",
+    "url": "https://deckai.app",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Lara Translate",
+    "category": "الكتابة والترجمة والتسويق",
+    "description": "خدمة ترجمة بالذكاء الاصطناعي تهدف إلى الحفاظ على المعنى والسياق والأسلوب.",
+    "url": "https://laratranslate.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Reverso",
+    "category": "الكتابة والترجمة والتسويق",
+    "description": "منصة للترجمة والسياق اللغوي والتصريف والتدقيق تساعد على فهم الاستخدام الصحيح للكلمات.",
+    "url": "https://www.reverso.net",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 388,
+    "name": "Anyword",
+    "category": "الكتابة والترجمة والتسويق",
+    "description": "منصة لصياغة النصوص التسويقية والإعلانية وتحسين الرسائل بحسب الجمهور المستهدف.",
+    "url": "https://www.anyword.com",
+    "hide_classes": [],
+    "badges": [
+      "تجربة مجانية"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "NeuronWriter",
+    "category": "الكتابة والترجمة والتسويق",
+    "description": "أداة لتحسين المحتوى لمحركات البحث واقتراح موضوعات وكلمات ومصطلحات مرتبطة بالمحتوى.",
+    "url": "https://neuronwriter.com",
+    "hide_classes": [],
+    "badges": [
+      "تجربة مجانية"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Flowise",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "منصة مرئية لبناء تدفقات عمل وتطبيقات تعتمد على نماذج اللغة والذكاء الاصطناعي.",
+    "url": "https://flowiseai.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني",
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Dify",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "منصة لبناء تطبيقات الذكاء الاصطناعي وسير العمل والوكلاء وربط النماذج ومصادر البيانات.",
+    "url": "https://dify.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود",
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Langflow",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "واجهة مرئية لبناء واختبار تطبيقات الذكاء الاصطناعي وتدفقات النماذج بطريقة مرنة.",
+    "url": "https://www.langflow.org",
+    "hide_classes": [],
+    "badges": [
+      "مجاني",
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Activepieces",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "منصة أتمتة تربط التطبيقات والخدمات وتتيح بناء تدفقات عمل، مع دعم خطوات الذكاء الاصطناعي.",
+    "url": "https://www.activepieces.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود",
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Bardeen",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "أداة لأتمتة المهام المتكررة في المتصفح والتطبيقات باستخدام إجراءات وسير عمل ذكي.",
+    "url": "https://www.bardeen.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Julius AI",
+    "category": "البحث واكتشاف الأدوات",
+    "description": "مساعد لتحليل البيانات والجداول وإنشاء الرسوم البيانية والإجابة عن الأسئلة باستخدام اللغة الطبيعية.",
+    "url": "https://julius.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "Rows AI",
+    "category": "البحث واكتشاف الأدوات",
+    "description": "جداول بيانات مزودة بميزات ذكية لتحليل البيانات وتنظيفها واستخراج الرؤى منها.",
+    "url": "https://rows.com/ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Litmaps",
+    "category": "البحث واكتشاف الأدوات",
+    "description": "أداة لرسم خرائط الأبحاث العلمية وتتبع الأوراق ذات الصلة واكتشاف المراجع الجديدة.",
+    "url": "https://www.litmaps.com",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 398,
+    "name": "Inciteful",
+    "category": "البحث واكتشاف الأدوات",
+    "description": "أداة بحث علمي تساعد على اكتشاف الأوراق المرتبطة وبناء شبكة من المراجع البحثية.",
+    "url": "https://inciteful.xyz",
+    "hide_classes": [],
+    "badges": [
+      "مجاني"
+    ]
+  },
+  {
+    "id": 399,
+    "name": "Paper Digest",
+    "category": "البحث واكتشاف الأدوات",
+    "description": "خدمة تلخص الأبحاث العلمية وتساعد على استكشاف المنشورات والمعلومات البحثية بسرعة.",
+    "url": "https://www.paperdigest.org",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Mixo",
+    "category": "البرمجة والتطوير",
+    "description": "أداة لإنشاء صفحة هبوط وموقع أولي انطلاقاً من وصف الفكرة أو المشروع.",
+    "url": "https://mixo.io",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Readdy AI",
+    "category": "البرمجة والتطوير",
+    "description": "منصة لبناء واجهات ومواقع ويب انطلاقاً من تعليمات مكتوبة باللغة الطبيعية.",
+    "url": "https://readdy.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Dorik AI",
+    "category": "البرمجة والتطوير",
+    "description": "منشئ مواقع يساعد على توليد صفحات وتصاميم أولية من وصف نصي دون الحاجة إلى كتابة الكود يدوياً.",
+    "url": "https://dorik.com/ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "TeleportHQ",
+    "category": "البرمجة والتطوير",
+    "description": "منصة لتصميم واجهات الويب وتحويل التصاميم إلى كود قابل للتطوير والتصدير.",
+    "url": "https://teleporthq.io",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  }
   ]
 }
