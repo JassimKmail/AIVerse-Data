@@ -3817,6 +3817,548 @@
     "badges": [
       "مجاني محدود"
     ]
+  },
+     {
+    "id": 441,
+    "name": "Katalist AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "يحوّل النصوص والسيناريوهات إلى لوحات قصصية ومشاهد مرئية قبل إنتاج الفيديو.",
+    "url": "https://katalist.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Kaedim",
+    "category": "الصور والتصميم",
+    "description": "ينشئ نماذج ثلاثية الأبعاد انطلاقًا من الصور أو الأوصاف لتسريع تصميم الألعاب.",
+    "url": "https://www.kaedim3d.com/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 443,
+    "name": "Tripo AI",
+    "category": "الصور والتصميم",
+    "description": "يحوّل النصوص والصور إلى نماذج ثلاثية الأبعاد قابلة للاستخدام في التصميم والألعاب.",
+    "url": "https://www.tripo3d.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 444,
+    "name": "Sloyd",
+    "category": "الصور والتصميم",
+    "description": "منصة لإنشاء وتخصيص نماذج ثلاثية الأبعاد بسرعة باستخدام أدوات توليد ذكية.",
+    "url": "https://sloyd.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 445,
+    "name": "Scenario",
+    "category": "الصور والتصميم",
+    "description": "ينشئ أصولًا بصرية متناسقة مع أسلوب محدد لتطوير الألعاب والمشاريع الإبداعية.",
+    "url": "https://www.scenario.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 446,
+    "name": "Spline AI",
+    "category": "الصور والتصميم",
+    "description": "أداة تصميم ثلاثي الأبعاد على الويب تتضمن إمكانات لإنشاء المشاهد بمساعدة الذكاء الاصطناعي.",
+    "url": "https://spline.design/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 447,
+    "name": "Kittl",
+    "category": "الصور والتصميم",
+    "description": "منصة تصميم جرافيكي لإنشاء الشعارات والملصقات والرسومات باستخدام أدوات ذكية.",
+    "url": "https://www.kittl.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 448,
+    "name": "Pebblely",
+    "category": "الصور والتصميم",
+    "description": "ينشئ صور منتجات بخلفيات ومشاهد تسويقية احترافية من صورة المنتج الأصلية.",
+    "url": "https://pebblely.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Claid AI",
+    "category": "الصور والتصميم",
+    "description": "يحسّن صور المنتجات ويولّد صورًا تجارية مناسبة للمتاجر الإلكترونية.",
+    "url": "https://claid.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 450,
+    "name": "Flair AI",
+    "category": "الصور والتصميم",
+    "description": "يصمم صورًا إعلانية للمنتجات عبر ترتيب العناصر والمشاهد بالذكاء الاصطناعي.",
+    "url": "https://flair.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 451,
+    "name": "Booth AI",
+    "category": "الصور والتصميم",
+    "description": "ينشئ صورًا تسويقية للمنتجات من صور مرجعية بسيطة دون جلسة تصوير كاملة.",
+    "url": "https://booth.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 452,
+    "name": "Vmake AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أدوات لتحسين الفيديو والصور التجارية وإنشاء محتوى مرئي للمنتجات.",
+    "url": "https://vmake.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Akool",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة لإنشاء فيديوهات بأفاتارات رقمية وتحرير الوجوه والصور لأغراض المحتوى.",
+    "url": "https://akool.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 454,
+    "name": "D-ID",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "ينشئ فيديوهات لشخصيات رقمية تتحدث انطلاقًا من النصوص والصور.",
+    "url": "https://www.d-id.com/",
+    "hide_classes": [],
+    "badges": [
+      "تجربة مجانية"
+    ]
+  },
+  {
+    "id": 455,
+    "name": "Elai.io",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "ينشئ فيديوهات تدريبية وتعليمية بمقدّمين افتراضيين انطلاقًا من النصوص.",
+    "url": "https://elai.io/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 456,
+    "name": "Colossyan",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة لإنشاء فيديوهات تدريب وشرح باستخدام مقدّمين افتراضيين ودعم لغات متعددة.",
+    "url": "https://www.colossyan.com/",
+    "hide_classes": [],
+    "badges": [
+      "تجربة مجانية"
+    ]
+  },
+  {
+    "id": 457,
+    "name": "Hour One",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "ينشئ فيديوهات أعمال وتدريب بمقدّمين افتراضيين من النصوص والمواد المكتوبة.",
+    "url": "https://hourone.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 458,
+    "name": "Vidnoz AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "مجموعة أدوات لإنشاء فيديوهات بأفاتارات وأصوات اصطناعية وقوالب جاهزة.",
+    "url": "https://www.vidnoz.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Immersity AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "يحوّل الصور ثنائية الأبعاد إلى تجارب مرئية ثلاثية الأبعاد وتأثيرات عمق وحركة.",
+    "url": "https://immersity.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 460,
+    "name": "Neural Frames",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة لإنشاء فيديوهات موسيقية متحركة ومشاهد بصرية مولّدة بالذكاء الاصطناعي.",
+    "url": "https://www.neuralframes.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 461,
+    "name": "SongR",
+    "category": "الصوت والموسيقى",
+    "description": "ينشئ أغانٍ قصيرة من فكرة أو كلمات يقدّمها المستخدم باستخدام الذكاء الاصطناعي.",
+    "url": "https://songr.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 462,
+    "name": "WellSaid Labs",
+    "category": "الصوت والموسيقى",
+    "description": "ينشئ تعليقًا صوتيًا اصطناعيًا بجودة مناسبة للتدريب والتسويق ومقاطع الفيديو.",
+    "url": "https://wellsaidlabs.com/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 463,
+    "name": "Respeecher",
+    "category": "الصوت والموسيقى",
+    "description": "تقنية لتوليد وتحويل الأصوات للاستخدامات الإعلامية والإبداعية بموافقات مناسبة.",
+    "url": "https://www.respeecher.com/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 464,
+    "name": "Typecast",
+    "category": "الصوت والموسيقى",
+    "description": "ينشئ أصواتًا وشخصيات افتراضية للتعليق الصوتي والفيديو والمحتوى الرقمي.",
+    "url": "https://typecast.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 465,
+    "name": "SpeechGen",
+    "category": "الصوت والموسيقى",
+    "description": "يحوّل النصوص إلى كلام بأصوات ولغات متعددة مع خيارات للتحكم في النطق.",
+    "url": "https://speechgen.io/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 466,
+    "name": "Undermind",
+    "category": "البحث واكتشاف الأدوات",
+    "description": "مساعد بحث علمي يبحث في الأدبيات الأكاديمية لتحديد الدراسات ذات الصلة بسؤال بحثي.",
+    "url": "https://www.undermind.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 467,
+    "name": "SciSummary",
+    "category": "البحث واكتشاف الأدوات",
+    "description": "يلخّص الأوراق العلمية والنصوص البحثية لتسهيل فهم النتائج والأفكار الأساسية.",
+    "url": "https://scisummary.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 468,
+    "name": "Documind",
+    "category": "العروض والوثائق",
+    "description": "يتيح طرح الأسئلة على مستندات PDF واستخراج المعلومات المهمة منها.",
+    "url": "https://documind.chat/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 469,
+    "name": "Spellbook",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساعد قانوني يستخدم الذكاء الاصطناعي لمراجعة العقود وصياغة البنود القانونية.",
+    "url": "https://www.spellbook.legal/",
+    "hide_classes": [],
+    "badges": [
+      "تجربة مجانية"
+    ]
+  },
+  {
+    "id": 470,
+    "name": "Paxton AI",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساعد بحث وصياغة قانونية يساعد المختصين على تحليل المستندات وتسريع العمل القانوني.",
+    "url": "https://www.paxton.ai/",
+    "hide_classes": [],
+    "badges": [
+      "تجربة مجانية"
+    ]
+  },
+  {
+    "id": 471,
+    "name": "AdCreative.ai",
+    "category": "الكتابة والترجمة والتسويق",
+    "description": "ينشئ تصاميم إعلانية ونصوصًا تسويقية ويقيّم المواد الإبداعية للحملات.",
+    "url": "https://www.adcreative.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 472,
+    "name": "Creatify AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "ينشئ إعلانات فيديو للمنتجات باستخدام الأفاتارات الرقمية والنصوص التسويقية.",
+    "url": "https://creatify.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 473,
+    "name": "Arcads",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "ينشئ فيديوهات إعلانية بأسلوب المحتوى الذي يصنعه المستخدمون مع ممثلين افتراضيين.",
+    "url": "https://arcads.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 474,
+    "name": "Pippit",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أدوات لإنشاء فيديوهات تسويقية وصور منتجات ومحتوى اجتماعي بمساعدة الذكاء الاصطناعي.",
+    "url": "https://www.pippit.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 475,
+    "name": "Lindy",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "منصة لبناء مساعدين ذكيين لأتمتة البريد الإلكتروني والاجتماعات والمهام المتكررة.",
+    "url": "https://www.lindy.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 476,
+    "name": "Relay.app",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "ينشئ تدفقات عمل تربط التطبيقات وتضيف خطوات ذكية مع إمكانية الموافقة البشرية.",
+    "url": "https://www.relay.app/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 477,
+    "name": "Relevance AI",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "منصة لبناء وكلاء ذكاء اصطناعي ينفذون مهام فرق العمل والمبيعات والعمليات.",
+    "url": "https://relevanceai.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "Gumloop",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "يبني عمليات أتمتة مرئية مدعومة بالذكاء الاصطناعي دون الحاجة إلى كتابة الكثير من الشيفرات.",
+    "url": "https://www.gumloop.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "Browser Use",
+    "category": "البرمجة والتطوير",
+    "description": "أدوات ووكلاء يساعدون على أتمتة تفاعلات المتصفح وتنفيذ مهام الويب.",
+    "url": "https://browser-use.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 480,
+    "name": "AgentQL",
+    "category": "البرمجة والتطوير",
+    "description": "يساعد المطورين على استخراج البيانات والتحكم بواجهات الويب باستخدام أوصاف طبيعية.",
+    "url": "https://agentql.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "CrewAI",
+    "category": "البرمجة والتطوير",
+    "description": "إطار عمل لبناء أنظمة متعددة الوكلاء تتعاون لإنجاز المهام وسير العمل.",
+    "url": "https://www.crewai.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني بالكامل"
+    ]
+  },
+  {
+    "id": 482,
+    "name": "Hume AI",
+    "category": "الصوت والموسيقى",
+    "description": "يوفر نماذج صوتية تفاعلية قادرة على فهم التعبير الصوتي وتوليد كلام طبيعي.",
+    "url": "https://www.hume.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "Fellow",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "يساعد الفرق على تسجيل الاجتماعات وتلخيصها وإدارة جداول الأعمال والمهام اللاحقة.",
+    "url": "https://fellow.app/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Jamie",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساعد اجتماعات ينشئ ملاحظات وملخصات وعناصر عمل من الاجتماعات عبر الإنترنت.",
+    "url": "https://www.meetjamie.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 485,
+    "name": "StudyFetch",
+    "category": "التعليم والتعلّم",
+    "description": "يحوّل مواد الدراسة إلى بطاقات تعليمية واختبارات وملخصات بمساعدة الذكاء الاصطناعي.",
+    "url": "https://www.studyfetch.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "QuestionWell",
+    "category": "التعليم والتعلّم",
+    "description": "ينشئ أسئلة واختبارات تعليمية من النصوص والمواد الدراسية لمساعدة المعلمين.",
+    "url": "https://questionwell.org/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Diffit",
+    "category": "التعليم والتعلّم",
+    "description": "يكيّف النصوص والمواد التعليمية لمستويات مختلفة وينشئ أنشطة وأسئلة للطلاب.",
+    "url": "https://diffit.me/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 488,
+    "name": "MagicSchool AI",
+    "category": "التعليم والتعلّم",
+    "description": "مجموعة أدوات ذكاء اصطناعي للمعلمين لتخطيط الدروس وإنشاء الأنشطة والتقييمات.",
+    "url": "https://www.magicschool.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 489,
+    "name": "Gizmo",
+    "category": "التعليم والتعلّم",
+    "description": "يحوّل مواد التعلّم إلى اختبارات وبطاقات تفاعلية للمراجعة والحفظ.",
+    "url": "https://gizmo.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Topaz Labs",
+    "category": "الصور والتصميم",
+    "description": "أدوات لتحسين جودة الصور والفيديو وزيادة الدقة وتقليل التشويش باستخدام نماذج ذكية.",
+    "url": "https://www.topazlabs.com/",
+    "hide_classes": [],
+    "badges": []
   }
   ]
 }
