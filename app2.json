@@ -48,7 +48,7 @@
     {
       "id": 3,
       "name": "Google Gemini",
-      "category": ["المحادثة والنماذج الذكية","ادوات جوجل"],
+      "category": "ادوات جوجل", 
       "description": "مساعد جوجل الذكي المتكامل مع خدمات البحث ويتميز بدعم قوي جداً للغة العربية.",
       "url": "https://gemini.google.com",
       "hide_classes": [
