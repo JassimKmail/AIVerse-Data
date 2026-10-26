@@ -4737,7 +4737,7 @@
   },
   {
     "name": "Remaker AI",
-    "category": "تعديل الصور",
+    "category": "الصور والتصميم",
     "description": "منصة تضم أدوات ذكاء اصطناعي لتبديل الوجوه وتحسين الصور وإعادة تصميمها وإنشاء محتوى بصري وتحريره.",
     "url": "https://remaker.ai",
     "hide_classes": [],
@@ -4766,7 +4766,7 @@
   },
   {
     "name": "Passport Maker",
-    "category": "تعديل الصور",
+    "category": "الصور والتصميم",
     "description": "أداة لإنشاء صور جوازات السفر والوثائق الرسمية وتجهيز الصور الشخصية وفق متطلبات المقاسات والخلفيات.",
     "url": "https://passportmaker.com",
     "hide_classes": [],
@@ -4784,7 +4784,7 @@
   },
   {
     "name": "Decohere AI",
-    "category": "توليد صور",
+    "category": "الصور والتصميم",
     "description": "منصة إبداعية تستخدم الذكاء الاصطناعي لإنشاء صور وفنون بصرية انطلاقاً من الأوصاف النصية، مع أدوات لتطوير الأفكار وتغيير الأنماط الفنية.",
     "url": "https://decohere.co",
     "hide_classes": [],
@@ -4802,7 +4802,7 @@
   },
   {
     "name": "Stable Diffusion Web",
-    "category": "توليد صور",
+    "category": "الصور والتصميم",
     "description": "منصة لإنشاء الصور باستخدام نماذج Stable Diffusion انطلاقاً من الأوصاف النصية، مع أدوات لتجربة أنماط فنية مختلفة.",
     "url": "https://stablediffusionweb.com",
     "hide_classes": [],
@@ -4829,7 +4829,7 @@
   },
   {
     "name": "DeWatermark AI",
-    "category": "تعديل الصور",
+    "category": "الصور والتصميم",
     "description": "أداة تستخدم الذكاء الاصطناعي لإزالة العلامات المائية من الصور والفيديوهات، مع أدوات إضافية لإزالة النصوص وتحسين الصور.",
     "url": "https://dewatermark.ai",
     "hide_classes": [],
@@ -4867,7 +4867,7 @@
   },
   {
     "name": "Co.dev",
-    "category": "بناء التطبيقات",
+    "category":"البرمجة والتطوير",
     "description": "منصة لتسهيل إنشاء منتجات وتطبيقات رقمية بالاعتماد على الذكاء الاصطناعي والأوامر النصية.",
     "url": "https://co.dev",
     "hide_classes": [],
