@@ -4356,6 +4356,117 @@
     "url": "https://www.topazlabs.com/",
     "hide_classes": [],
     "badges": []
+  },
+    {
+    "id": 491,
+    "name": "Strix",
+    "category": "مستودعات GitHub",
+    "description": "مستودع مفتوح المصدر لأداة اختبار أمان التطبيقات باستخدام وكلاء الذكاء الاصطناعي واكتشاف الثغرات الأمنية.",
+    "url": "https://github.com/usestrix/strix",
+    "hide_classes": [],
+    "badges": [
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "WebWave",
+    "category": "البرمجة والتطوير",
+    "description": "منصة لتصميم وإنشاء المواقع باستخدام محرر مرئي وأدوات تساعد على بناء صفحات الويب دون الحاجة إلى كتابة كل الشيفرات يدويًا.",
+    "url": "https://webwave.me/",
+    "hide_classes": [],
+    "badges": [
+      "تجربة مجانية"
+    ]
+  },
+  {
+    "id": 493,
+    "name": "Startup.ai",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "منصة مرتبطة بريادة الأعمال تساعد المستخدمين على استكشاف أفكار المشاريع وتطويرها.",
+    "url": "https://www.startup.ai/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 494,
+    "name": "Screenshot to Code",
+    "category": "مستودعات GitHub",
+    "description": "مشروع مفتوح المصدر يحوّل لقطات الشاشة والتصاميم المرئية إلى شيفرات واجهات مواقع باستخدام تقنيات الذكاء الاصطناعي.",
+    "url": "https://github.com/abi/screenshot-to-code",
+    "hide_classes": [],
+    "badges": [
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 495,
+    "name": "eroq AI Character Swap",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أداة ذكاء اصطناعي لاستبدال الشخصيات في مقاطع الفيديو.",
+    "url": "https://eroq.ai/tools/ai-character-swap",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 496,
+    "name": "Zero Kit Character Swap",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أداة لاستبدال الشخصيات في مقاطع الفيديو باستخدام الذكاء الاصطناعي.",
+    "url": "https://zerokit.ai/ar/tools/character-swap",
+    "hide_classes": [],
+    "badges": [
+      "واجهة عربية",
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Zero Kit AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة تضم أدوات ذكاء اصطناعي لإنشاء المحتوى المرئي وتعديله.",
+    "url": "https://zerokit.ai/ar",
+    "hide_classes": [],
+    "badges": [
+      "واجهة عربية",
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "CogVideo",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة لتجربة تقنيات توليد الفيديو بالذكاء الاصطناعي انطلاقًا من النصوص أو الصور.",
+    "url": "https://cogvideo.net/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "Fish Audio",
+    "category": "الصوت والموسيقى",
+    "description": "منصة صوتية تستخدم الذكاء الاصطناعي لتوليد الكلام والأصوات، مع أدوات لتحويل النص إلى كلام واستنساخ الأصوات.",
+    "url": "https://fish.audio/ar/?aff=J3AP34ZNJPG7A",
+    "hide_classes": [],
+    "badges": [
+      "واجهة عربية",
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 500,
+    "name": "RTranslator",
+    "category": "مستودعات GitHub",
+    "description": "مشروع مفتوح المصدر لتطبيق أندرويد للترجمة الفورية، مع إمكانات للترجمة دون اتصال بالإنترنت.",
+    "url": "https://github.com/niedev/RTranslator",
+    "hide_classes": [],
+    "badges": [
+      "مفتوح المصدر"
+    ]
   }
   ]
 }
