@@ -4607,17 +4607,18 @@
     "hide_classes": [],
     "badges": []
   },
-  {
-    "id": 516,
-    "name": "Voice",
-    "category": "الصوت والموسيقى",
-    "description": "منصة صوتية بواجهة عربية لتجربة خدمات الصوت الرقمي.",
-    "url": "https://voice.com/ar",
-    "hide_classes": [],
-    "badges": [
-      "واجهة عربية"
-    ]
-  },
+{
+  "id": 516,
+  "name": "Voicv",
+  "category": "الصوتيات",
+  "description": "منصة ذكاء اصطناعي لاستنساخ الأصوات وتحويل النص إلى كلام وتحويل الكلام إلى نص وإنشاء فيديوهات بشخصيات ناطقة.",
+  "url": "https://voicv.com/ar",
+  "hide_classes": [],
+  "badges": [
+    "واجهة عربية"
+  ]
+},
+    
   {
     "id": 517,
     "name": "Uniscribe",
