@@ -4689,6 +4689,217 @@
     "url": "https://geospy.ai",
     "hide_classes": [],
     "badges": []
+  },
+  {
+    "name": "ParakeetAI",
+    "category": "مساعدين",
+    "description": "مساعد ذكاء اصطناعي للمقابلات الوظيفية يقدم إجابات واقتراحات فورية أثناء المقابلات، ويساعد على الاستعداد للأسئلة وتحسين الأداء.",
+    "url": "https://www.parakeet-ai.com/",
+    "hide_classes": [],
+    "badges": [],
+    "id": 526
+  },
+  {
+    "name": "Bezi",
+    "category": "برمجة",
+    "description": "مساعد ذكاء اصطناعي لتطوير الألعاب باستخدام Unity وUnreal Engine، يساعد على فهم المشاريع وكتابة الأكواد وتصحيح الأخطاء وأتمتة مهام التطوير.",
+    "url": "https://bezi.com",
+    "hide_classes": [],
+    "badges": [],
+    "id": 527
+  },
+  {
+    "name": "Atlas",
+    "category": "تعليم",
+    "description": "منصة تعليمية مدعومة بالذكاء الاصطناعي تساعد الطلاب على فهم المواد الدراسية وتلخيص ملفات PDF وإنشاء البطاقات التعليمية.",
+    "url": "https://atlas.org",
+    "hide_classes": [],
+    "badges": [],
+    "id": 528
+  },
+  {
+    "name": "Asseter",
+    "category": "تصميم",
+    "description": "منصة متخصصة في الأصول الرقمية والتصميم، تساعد على اكتشاف الموارد البصرية والاستفادة منها في المشاريع الإبداعية.",
+    "url": "https://asseter.ai",
+    "hide_classes": [],
+    "badges": [],
+    "id": 529
+  },
+  {
+    "name": "STORM",
+    "category": "البحث العلمي",
+    "description": "مشروع بحثي من جامعة ستانفورد يستخدم الذكاء الاصطناعي للبحث في المصادر وتجميع المعلومات وتنظيمها لإنتاج مقالات وتقارير معرفية.",
+    "url": "https://storm.genie.stanford.edu/discover",
+    "hide_classes": [],
+    "badges": [],
+    "id": 530
+  },
+  {
+    "name": "Remaker AI",
+    "category": "تعديل الصور",
+    "description": "منصة تضم أدوات ذكاء اصطناعي لتبديل الوجوه وتحسين الصور وإعادة تصميمها وإنشاء محتوى بصري وتحريره.",
+    "url": "https://remaker.ai",
+    "hide_classes": [],
+    "badges": [],
+    "id": 531
+  },
+  {
+    "name": "Free AI Not a Therapist",
+    "category": "مساعد ذكي",
+    "description": "أداة محادثة بالذكاء الاصطناعي توفر مساحة للتعبير عن المشاعر والحصول على دعم عام وأفكار للتعامل مع الضغوط النفسية، ولا تُعد بديلاً عن المعالج النفسي المختص.",
+    "url": "https://freeainotatherapist.com",
+    "hide_classes": [],
+    "badges": [],
+    "id": 532
+  },
+  {
+    "name": "MyEdit AI Sound Effect Generator",
+    "category": "تحرير الصوت",
+    "description": "أداة لإنشاء مؤثرات صوتية باستخدام الذكاء الاصطناعي انطلاقاً من وصف نصي، مع إمكانية معاينة النتائج وتنزيل الملفات الصوتية.",
+    "url": "https://myedit.online/en/audio-editor/ai-sound-effect-generator",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ],
+    "id": 533
+  },
+  {
+    "name": "Passport Maker",
+    "category": "تعديل الصور",
+    "description": "أداة لإنشاء صور جوازات السفر والوثائق الرسمية وتجهيز الصور الشخصية وفق متطلبات المقاسات والخلفيات.",
+    "url": "https://passportmaker.com",
+    "hide_classes": [],
+    "badges": [],
+    "id": 534
+  },
+  {
+    "name": "Misgif",
+    "category": "صناعة وتعديل فيديو",
+    "description": "منصة لإنشاء محتوى ترفيهي متحرك وصور GIF باستخدام الذكاء الاصطناعي، مع أدوات لإضفاء طابع شخصي على المحتوى.",
+    "url": "https://misgif.app",
+    "hide_classes": [],
+    "badges": [],
+    "id": 535
+  },
+  {
+    "name": "Decohere AI",
+    "category": "توليد صور",
+    "description": "منصة إبداعية تستخدم الذكاء الاصطناعي لإنشاء صور وفنون بصرية انطلاقاً من الأوصاف النصية، مع أدوات لتطوير الأفكار وتغيير الأنماط الفنية.",
+    "url": "https://decohere.co",
+    "hide_classes": [],
+    "badges": [],
+    "id": 536
+  },
+  {
+    "name": "Stable Audio",
+    "category": "توليد الموسيقى",
+    "description": "منصة لتوليد الموسيقى والمؤثرات الصوتية باستخدام الذكاء الاصطناعي انطلاقاً من الأوصاف النصية، مع خيارات لإنشاء مقاطع صوتية متنوعة.",
+    "url": "https://stableaudio.com",
+    "hide_classes": [],
+    "badges": [],
+    "id": 537
+  },
+  {
+    "name": "Stable Diffusion Web",
+    "category": "توليد صور",
+    "description": "منصة لإنشاء الصور باستخدام نماذج Stable Diffusion انطلاقاً من الأوصاف النصية، مع أدوات لتجربة أنماط فنية مختلفة.",
+    "url": "https://stablediffusionweb.com",
+    "hide_classes": [],
+    "badges": [],
+    "id": 538
+  },
+  {
+    "name": "Genie AI",
+    "category": "أدوات كتابة وتحرير",
+    "description": "مساعد ذكي يركز على إنشاء المستندات القانونية ومراجعة العقود وتبسيط صياغة الوثائق باستخدام الذكاء الاصطناعي.",
+    "url": "https://genieai.co",
+    "hide_classes": [],
+    "badges": [],
+    "id": 539
+  },
+  {
+    "name": "Clipwing",
+    "category": "صناعة وتعديل فيديو",
+    "description": "أداة لتحرير الفيديو وتحويل التسجيلات الطويلة إلى مقاطع أقصر مناسبة للنشر على منصات التواصل الاجتماعي.",
+    "url": "https://clipwing.pro",
+    "hide_classes": [],
+    "badges": [],
+    "id": 540
+  },
+  {
+    "name": "DeWatermark AI",
+    "category": "تعديل الصور",
+    "description": "أداة تستخدم الذكاء الاصطناعي لإزالة العلامات المائية من الصور والفيديوهات، مع أدوات إضافية لإزالة النصوص وتحسين الصور.",
+    "url": "https://dewatermark.ai",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ],
+    "id": 541
+  },
+  {
+    "name": "Votars AI",
+    "category": "الاجتماعات",
+    "description": "مساعد اجتماعات بالذكاء الاصطناعي يحول المحادثات الصوتية إلى نصوص مكتوبة، ويلخص الاجتماعات ويستخرج النقاط الرئيسية والمهام المطلوبة.",
+    "url": "https://votars.ai",
+    "hide_classes": [],
+    "badges": [],
+    "id": 542
+  },
+  {
+    "name": "Google Labs",
+    "category": "أدوات جوجل",
+    "description": "منصة تجارب من Google تتيح استكشاف نماذج وأدوات وتقنيات الذكاء الاصطناعي الجديدة وتجربة تطبيقاتها الإبداعية.",
+    "url": "https://labs.google",
+    "hide_classes": [],
+    "badges": [],
+    "id": 543
+  },
+  {
+    "name": "Xavier AI",
+    "category": "مساعد ذكي",
+    "description": "منصة ذكاء اصطناعي تقدم أدوات ومساعدات ذكية لدعم المهام الرقمية وتحسين سير العمل.",
+    "url": "https://xavier.ai",
+    "hide_classes": [],
+    "badges": [],
+    "id": 544
+  },
+  {
+    "name": "Co.dev",
+    "category": "بناء التطبيقات",
+    "description": "منصة لتسهيل إنشاء منتجات وتطبيقات رقمية بالاعتماد على الذكاء الاصطناعي والأوامر النصية.",
+    "url": "https://co.dev",
+    "hide_classes": [],
+    "badges": [],
+    "id": 545
+  },
+  {
+    "name": "Skyvern",
+    "category": "الأتمتة",
+    "description": "منصة لأتمتة مهام المتصفح باستخدام الذكاء الاصطناعي، مثل تعبئة النماذج والتنقل بين صفحات الويب وتنفيذ إجراءات متكررة.",
+    "url": "https://skyvern.com",
+    "hide_classes": [],
+    "badges": [],
+    "id": 546
+  },
+  {
+    "name": "Venice AI",
+    "category": "شات بوت ومحادثة",
+    "description": "منصة ذكاء اصطناعي تتيح المحادثة مع نماذج لغوية وإنشاء الصور والمحتوى، مع التركيز على خصوصية المستخدم.",
+    "url": "https://venice.ai",
+    "hide_classes": [],
+    "badges": [],
+    "id": 547
+  },
+  {
+    "name": "Reap Video",
+    "category": "صناعة وتعديل فيديو",
+    "description": "منصة لتحويل الفيديوهات الطويلة إلى مقاطع قصيرة مناسبة لمنصات التواصل الاجتماعي، مع أدوات ذكية لإعادة تنسيق المحتوى وإعداده للنشر.",
+    "url": "https://reap.video",
+    "hide_classes": [],
+    "badges": [],
+    "id": 548
   }
   ]
 }
