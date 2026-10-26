@@ -4467,6 +4467,228 @@
     "badges": [
       "مفتوح المصدر"
     ]
+  },
+    {
+    "id": 501,
+    "name": "Tencent HunyuanVideo",
+    "category": "مستودعات GitHub",
+    "description": "مستودع مفتوح المصدر لنموذج HunyuanVideo لتوليد الفيديو بالذكاء الاصطناعي من النصوص والصور.",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo",
+    "hide_classes": [],
+    "badges": [
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Postproxy",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "واجهة موحدة لربط التطبيقات بمنصات التواصل الاجتماعي ونشر المنشورات وجدولتها وإدارة التفاعل والتحليلات عبر API.",
+    "url": "https://postproxy.dev",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 503,
+    "name": "ScreenTell",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أداة لإنشاء شروحات وتسجيلات شاشة بمساعدة أدوات ذكية.",
+    "url": "https://screentell.com",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 504,
+    "name": "OpenClaw",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساعد ذكاء اصطناعي مفتوح المصدر يعمل على جهازك ويمكن ربطه بتطبيقات المراسلة والأدوات لتنفيذ المهام وأتمتتها.",
+    "url": "https://openclaw.ai",
+    "hide_classes": [],
+    "badges": [
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 505,
+    "name": "Renamer AI",
+    "category": "الصور والتصميم",
+    "description": "أداة لإعادة تسمية الملفات والصور بمساعدة الذكاء الاصطناعي.",
+    "url": "https://renamer.ai",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 506,
+    "name": "EditGhost",
+    "category": "الكتابة والترجمة والتسويق",
+    "description": "أداة لتحرير النصوص وصياغتها بمساعدة الذكاء الاصطناعي.",
+    "url": "https://editghost.xyz",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 507,
+    "name": "VidAU AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة لإنشاء فيديوهات تسويقية وإعلانات باستخدام الذكاء الاصطناعي.",
+    "url": "https://vidau.ai",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 508,
+    "name": "Spawn",
+    "category": "الصور والتصميم",
+    "description": "منصة إبداعية لإنشاء محتوى مرئي وأفكار باستخدام أدوات الذكاء الاصطناعي.",
+    "url": "https://spawn.co",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 509,
+    "name": "Kortex",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساحة عمل لتنظيم المعرفة والملاحظات والأفكار وإدارتها.",
+    "url": "https://kortex.co",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 510,
+    "name": "Chatwize AI",
+    "category": "المحادثة والنماذج الذكية",
+    "description": "منصة محادثة تعتمد على الذكاء الاصطناعي للمساعدة في الإجابة عن الأسئلة وإنجاز المهام.",
+    "url": "https://chatwize.ai",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 511,
+    "name": "Vectr",
+    "category": "الصور والتصميم",
+    "description": "محرر رسومات متجهية لتصميم الشعارات والرسوم والأعمال البصرية.",
+    "url": "https://vectr.com",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 512,
+    "name": "Flora AI",
+    "category": "الصور والتصميم",
+    "description": "مساحة عمل إبداعية تجمع أدوات لتصميم الصور والمحتوى المرئي باستخدام الذكاء الاصطناعي.",
+    "url": "https://flora.ai",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 513,
+    "name": "QuickMagic AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أداة لتحويل حركات الجسم في الفيديو إلى بيانات حركة ثلاثية الأبعاد.",
+    "url": "https://quickmagic.ai",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 514,
+    "name": "Moi by OodiCraft",
+    "category": "الصور والتصميم",
+    "description": "أداة إبداعية لإنشاء المحتوى المرئي وتعديله.",
+    "url": "https://moi.oodicraft.com",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 515,
+    "name": "Sign AI",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "أداة مرتبطة بالتوقيع الإلكتروني ومعالجة المستندات.",
+    "url": "https://sign-ai.com",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 516,
+    "name": "Voice",
+    "category": "الصوت والموسيقى",
+    "description": "منصة صوتية بواجهة عربية لتجربة خدمات الصوت الرقمي.",
+    "url": "https://voice.com/ar",
+    "hide_classes": [],
+    "badges": [
+      "واجهة عربية"
+    ]
+  },
+  {
+    "id": 517,
+    "name": "Uniscribe",
+    "category": "العروض والوثائق",
+    "description": "أداة لتفريغ التسجيلات الصوتية وتحويل الكلام إلى نص مكتوب.",
+    "url": "https://uniscribe.co",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 518,
+    "name": "Ask The Post AI",
+    "category": "اخبار ai",
+    "description": "خدمة من صحيفة واشنطن بوست تتيح طرح أسئلة عن الأخبار والحصول على إجابات مولّدة بالذكاء الاصطناعي استنادًا إلى تقارير الصحيفة.",
+    "url": "https://www.washingtonpost.com/ask-the-post-ai",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 519,
+    "name": "Vidu AI",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة لتوليد مقاطع فيديو من النصوص والصور باستخدام الذكاء الاصطناعي.",
+    "url": "https://vidu.com",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 520,
+    "name": "Minvo",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أداة لتحويل الفيديوهات الطويلة إلى مقاطع قصيرة مناسبة لمنصات التواصل الاجتماعي.",
+    "url": "https://minvo.pro",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 521,
+    "name": "PaperGuide AI",
+    "category": "البحث واكتشاف الأدوات",
+    "description": "مساعد بحث أكاديمي يساعد على اكتشاف الأوراق العلمية وقراءتها وتنظيم المراجع.",
+    "url": "https://paperguide.ai",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 522,
+    "name": "Meshy AI",
+    "category": "الصور والتصميم",
+    "description": "منصة لإنشاء نماذج وأصول ثلاثية الأبعاد من النصوص والصور باستخدام الذكاء الاصطناعي.",
+    "url": "https://meshy.ai",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 523,
+    "name": "Foundor AI",
+    "category": "الإنتاجية وإدارة العمل",
+    "description": "مساعد لتطوير أفكار المشاريع وتحليلها وتحويلها إلى خطط عملية.",
+    "url": "https://app.foundor.ai",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 524,
+    "name": "GeoSpy AI",
+    "category": "الصور والتصميم",
+    "description": "منصة لتحليل الصور وتقدير الموقع الجغرافي الذي التُقطت فيه الصورة اعتمادًا على محتواها المرئي.",
+    "url": "https://geospy.ai",
+    "hide_classes": [],
+    "badges": []
   }
   ]
 }
