@@ -163,7 +163,7 @@
     {
       "id": 13,
       "name": "Google Flow",
-      "category": "الإنتاجية وإدارة العمل",
+      "category": "أدوات جوجل",
       "description": "أداة تجريبية وبيئة عمل متطورة من جوجل لإدارة وتنفيذ مسارات العمل الذكية (Workflows).",
       "url": "https://flow.google.com",
       "hide_classes": [],
@@ -174,7 +174,7 @@
     {
       "id": 14,
       "name": "Opal",
-      "category": "البرمجة والتطوير",
+      "category": "أدوات جوجل",
       "description": "منصة ثورية تجريبية من Google Labs لبناء وتصميم تطبيقات مصغرة عبر توجيهات نصية بسيطة.",
       "url": "https://opal.google",
       "hide_classes": [],
