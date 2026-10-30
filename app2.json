@@ -1,4 +1,4 @@
-{
+my c v b {
   "admob_config": {
     "ad_status": "off",
     "ad_network": "unity",
@@ -218,7 +218,7 @@
     },
     {
       "id": 18,
-      "name": "DuckDuckGo AI Chat",
+      "name": "Duck AI Chat",
       "category": "المحادثة والنماذج الذكية",
       "description": "خدمة محادثة ذكية مجانية وآمنة تحافظ على الخصوصية التامة دون تتبع للنماذج الشهيرة.",
       "url": "https://duck.ai",
