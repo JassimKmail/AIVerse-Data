@@ -4609,7 +4609,7 @@
 {
   "id": 516,
   "name": "Voicv",
-  "category": "الصوتيات",
+  "category": "الصوت والموسيقى",
   "description": "منصة ذكاء اصطناعي لاستنساخ الأصوات وتحويل النص إلى كلام وتحويل الكلام إلى نص وإنشاء فيديوهات بشخصيات ناطقة.",
   "url": "https://voicv.com/ar",
   "hide_classes": [],
@@ -4755,7 +4755,7 @@
   },
   {
     "name": "MyEdit AI Sound Effect Generator",
-    "category": "تحرير الصوت",
+    "category": "الصوت والموسيقى",
     "description": "أداة لإنشاء مؤثرات صوتية باستخدام الذكاء الاصطناعي انطلاقاً من وصف نصي، مع إمكانية معاينة النتائج وتنزيل الملفات الصوتية.",
     "url": "https://myedit.online/en/audio-editor/ai-sound-effect-generator",
     "hide_classes": [],
@@ -4775,7 +4775,7 @@
   },
   {
     "name": "Misgif",
-    "category": "صناعة وتعديل فيديو",
+    "category": "الفيديو والرسوم المتحركة",
     "description": "منصة لإنشاء محتوى ترفيهي متحرك وصور GIF باستخدام الذكاء الاصطناعي، مع أدوات لإضفاء طابع شخصي على المحتوى.",
     "url": "https://misgif.app",
     "hide_classes": [],
@@ -4793,7 +4793,7 @@
   },
   {
     "name": "Stable Audio",
-    "category": "توليد الموسيقى",
+    "category": "الصوت والموسيقى",
     "description": "منصة لتوليد الموسيقى والمؤثرات الصوتية باستخدام الذكاء الاصطناعي انطلاقاً من الأوصاف النصية، مع خيارات لإنشاء مقاطع صوتية متنوعة.",
     "url": "https://stableaudio.com",
     "hide_classes": [],
