@@ -2272,14 +2272,14 @@
     },
     {
       "id": 233,
-      "name": "Google AI Studio Speech",
+      "name": "Google AI Studio",
       "category": "الصوت والموسيقى",
       "description": "أداة جوجل الرسمية المتقدمة لتوليد الأصوات ومعالجة الكلام عبر نماذج Gemini.",
       "url": "https://aistudio.google.com/generate-speech",
       "icon": "https://www.gstatic.com/lamda/images/favicon_v1_1567c8b0fe03866e138a3.png",
       "hide_classes": [],
       "badges": [
-        "مجاني"
+        "مجاني محدود"
       ]
     },
     {
