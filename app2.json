@@ -5030,7 +5030,7 @@
     "url": "https://freebuff.com/app",
     "hide_classes": [],
     "badges": [
-      "مجاني"
+      "بلا رسوم"
     ]
   },
   {
@@ -5041,7 +5041,7 @@
     "url": "https://play.google.com/store/apps/details?id=com.freebuff.app",
     "hide_classes": [],
     "badges": [
-      "مجاني"
+      "بلا رسوم"
     ]
   },
   {
@@ -5122,7 +5122,7 @@
     "description": "أداة لتحويل الصور إلى رسومات تحاكي الرسم بالقلم الرصاص باستخدام تقنيات الذكاء الاصطناعي.",
     "url": "https://pencilsketchgenerator.com",
     "hide_classes": [],
-    "badges": []
+    "badges": ["بلا رسوم"]
   },
   {
     "id": 571,
@@ -5131,7 +5131,7 @@
     "description": "أداة ذكاء اصطناعي لمعالجة الصور وتحسينها وإنشاء محتوى بصري بمساعدة الأدوات الذكية.",
     "url": "https://photes.io",
     "hide_classes": [],
-    "badges": []
+    "badges": ["مجاني محدود"]
   },
   {
     "id": 572,
