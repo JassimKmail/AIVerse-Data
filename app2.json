@@ -5502,7 +5502,7 @@
   {
     "id": 592,
     "name": "Google Veo",
-    "category": "أدوت جوجل",
+    "category": "أدوات جوجل",
     "description": "نموذج من Google DeepMind لتوليد الفيديو بالذكاء الاصطناعي من الأوصاف النصية والصور، مع إمكانات متقدمة في الحركة والصوت وجودة المشاهد.",
     "url": "https://deepmind.google/models/veo/",
     "hide_classes": [],
