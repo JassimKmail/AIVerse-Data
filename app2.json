@@ -5412,6 +5412,270 @@
     "url": "https://saima.ai",
     "hide_classes": [],
     "badges": []
+  },
+   {
+    "id": 584,
+    "name": "Editonny",
+    "category": "مستودعات GitHub",
+    "description": "أداة مفتوحة المصدر لتحرير الفيديو عبر أوامر باللغة الطبيعية باستخدام Claude Code أو Codex، مع قص التوقفات وإضافة الترجمة وتحسين الصوت محليًا.",
+    "url": "https://github.com/soumatheusgomes/editonny",
+    "hide_classes": [],
+    "badges": [
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 585,
+    "name": "FFmpegGUI",
+    "category": "مستودعات GitHub",
+    "description": "واجهة رسومية للتعامل مع FFmpeg وتنفيذ عمليات تحويل ومعالجة ملفات الوسائط دون كتابة الأوامر يدويًا.",
+    "url": "https://github.com/marcomorosi06/FFmpegGUI",
+    "hide_classes": [],
+    "badges": [
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 586,
+    "name": "OpenScreen",
+    "category": "مستودعات GitHub",
+    "description": "تطبيق مفتوح المصدر لتسجيل الشاشة وإنشاء عروض توضيحية، يدعم Windows وmacOS وLinux دون علامات مائية أو اشتراك.",
+    "url": "https://github.com/getopenscreen/openscreen",
+    "hide_classes": [],
+    "badges": [
+      "مفتوح المصدر",
+      "مجاني بالكامل"
+    ]
+  },
+  {
+    "id": 587,
+    "name": "AI Website Cloner Template",
+    "category": "مستودعات GitHub",
+    "description": "قالب مفتوح المصدر يستخدم وكلاء البرمجة بالذكاء الاصطناعي لإعادة بناء المواقع من روابطها ضمن مشروع Next.js قابل للتعديل.",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "hide_classes": [],
+    "badges": [
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 588,
+    "name": "Postiz",
+    "category": "مستودعات GitHub",
+    "description": "منصة مفتوحة المصدر لإدارة حسابات التواصل الاجتماعي وإنشاء المنشورات وجدولتها وتحليل الأداء والتعاون بين أعضاء الفريق، مع إمكانات الاستضافة الذاتية.",
+    "url": "https://github.com/gitroomhq/postiz-app",
+    "hide_classes": [],
+    "badges": [
+      "مفتوح المصدر"
+    ]
+  },
+  {
+    "id": 589,
+    "name": "Concat",
+    "category": "مستودعات GitHub",
+    "description": "محرر فيديو مفتوح المصدر ومتعدد المنصات، يتضمن الترجمة التلقائية وتحويل النص إلى كلام وإزالة الخلفية والمؤثرات وتحرير المسارات المتعددة.",
+    "url": "https://github.com/jub0t/concat",
+    "hide_classes": [],
+    "badges": [
+      "مفتوح المصدر",
+      "مجاني بالكامل"
+    ]
+  },
+  {
+    "id": 590,
+    "name": "Adobe Firefly Remove Background",
+    "category": "الصور والتصميم",
+    "description": "أداة من Adobe Firefly لعزل العنصر الرئيسي وإزالة خلفية الصورة، مع إمكانية تنزيل النتيجة بخلفية شفافة أو إضافة خلفية جديدة.",
+    "url": "https://www.adobe.com/products/firefly/features/remove-background.html",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 591,
+    "name": "Namecheap Logo Maker",
+    "category": "الصور والتصميم",
+    "description": "أداة لإنشاء الشعارات بمساعدة الذكاء الاصطناعي عبر اختيار الأنماط والخطوط والألوان المناسبة للعلامة التجارية.",
+    "url": "https://www.namecheap.com/logo-maker/app/new/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 592,
+    "name": "Google Veo",
+    "category": "أدوت جوجل",
+    "description": "نموذج من Google DeepMind لتوليد الفيديو بالذكاء الاصطناعي من الأوصاف النصية والصور، مع إمكانات متقدمة في الحركة والصوت وجودة المشاهد.",
+    "url": "https://deepmind.google/models/veo/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 593,
+    "name": "ScripAI",
+    "category": "الكتابة والترجمة والتسويق",
+    "description": "أداة ذكاء اصطناعي للمساعدة في إعداد النصوص والمحتوى الإبداعي للاستخدامات الرقمية والتسويقية.",
+    "url": "https://scripai.com/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 594,
+    "name": "Tensor.Art",
+    "category": "الصور والتصميم",
+    "description": "منصة لإنشاء الصور وتعديلها بالذكاء الاصطناعي واستكشاف النماذج والأنماط الفنية وإنشاء تصاميم وصور واقعية ورسوم توضيحية.",
+    "url": "https://tensor.art/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 595,
+    "name": "Playground AI",
+    "category": "الصور والتصميم",
+    "description": "منصة لتوليد الصور والتصاميم وتحريرها بالذكاء الاصطناعي، مناسبة لإنشاء الصور الإبداعية والمواد البصرية.",
+    "url": "https://playgroundai.com/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 596,
+    "name": "Itx Studio",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "منصة إبداعية تعتمد على الذكاء الاصطناعي للمساعدة في إنتاج المحتوى المرئي وتطوير الأفكار إلى مخرجات بصرية.",
+    "url": "https://Itx.studio",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 597,
+    "name": "Kokoro TTS AI",
+    "category": "الصوت والموسيقى",
+    "description": "أداة لتحويل النص إلى كلام باستخدام نموذج Kokoro لتحويل النصوص المكتوبة إلى صوت مولّد بالذكاء الاصطناعي.",
+    "url": "https://kokorottsai.com/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 598,
+    "name": "Palette.fm",
+    "category": "الصور والتصميم",
+    "description": "أداة لتلوين الصور القديمة والأبيض والأسود تلقائيًا باستخدام الذكاء الاصطناعي.",
+    "url": "https://palette.fm/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 599,
+    "name": "Namelix",
+    "category": "الكتابة والترجمة والتسويق",
+    "description": "مولّد أسماء للمشاريع والعلامات التجارية يستخدم الذكاء الاصطناعي لاقتراح أسماء قصيرة مع أفكار للهوية البصرية والشعار.",
+    "url": "https://namelix.com/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 600,
+    "name": "Subtitles",
+    "category": "الفيديو والرسوم المتحركة",
+    "description": "أداة لإنشاء مقاطع فيديو وترجمات تلقائية بالذكاء الاصطناعي، مع أدوات لتحرير النص والصوت وتحسين مظهر الفيديو.",
+    "url": "https://subtitles.app/",
+    "hide_classes": [],
+    "badges": ["واجهة عربية"]
+  },
+  {
+    "id": 601,
+    "name": "Magic Studio",
+    "category": "الصور والتصميم",
+    "description": "مجموعة أدوات لتوليد الصور وتحريرها بالذكاء الاصطناعي، مثل إزالة العناصر والخلفيات وتحسين الصور وإنشاء صور للمنتجات.",
+    "url": "https://magicstudio.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 602,
+    "name": "Erase.bg",
+    "category": "الصور والتصميم",
+    "description": "أداة لإزالة خلفيات الصور تلقائيًا بالذكاء الاصطناعي وإنتاج صور بخلفية شفافة لاستخدامها في المتاجر والتصاميم.",
+    "url": "https://erase.bg/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 603,
+    "name": "Soundful",
+    "category": "الصوت والموسيقى",
+    "description": "منصة لتوليد موسيقى أصلية بالذكاء الاصطناعي وفق الأنماط والمزاج والإعدادات التي يختارها المستخدم، للاستخدام في المحتوى والمشاريع.",
+    "url": "https://soundful.com/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 604,
+    "name": "StudyScrum",
+    "category": "التعليم والتعلّم",
+    "description": "أداة تعليمية للمساعدة في تنظيم الدراسة والمهام والمراجعة باستخدام أدوات رقمية.",
+    "url": "https://studyscrumb.com/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 605,
+    "name": "Browse AI",
+    "category": "الأتمتة",
+    "description": "منصة لاستخراج البيانات من المواقع ومراقبة تغيّر صفحات الويب وأتمتة جمع المعلومات دون الحاجة إلى برمجة متقدمة.",
+    "url": "https://browse.ai/",
+    "hide_classes": [],
+    "badges": [
+      "تجربة مجانية"
+    ]
+  },
+  {
+    "id": 606,
+    "name": "Dream Interpreter AI",
+    "category": "المحادثة والنماذج الذكية",
+    "description": "أداة تستخدم الذكاء الاصطناعي لتقديم تفسيرات محتملة للأحلام استنادًا إلى وصف الحلم الذي يكتبه المستخدم.",
+    "url": "https://dreaminterpreter.ai/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 607,
+    "name": "Lucidpic",
+    "category": "الصور والتصميم",
+    "description": "منصة لإنشاء صور شخصية وصور واقعية مولّدة بالذكاء الاصطناعي، مع خيارات لتخصيص المظهر والأسلوب.",
+    "url": "https://lucidpic.com/",
+    "hide_classes": [],
+    "badges": []
+  },
+  {
+    "id": 608,
+    "name": "MusicGen",
+    "category": "الصوت والموسيقى",
+    "description": "نموذج من Meta لتوليد مقاطع موسيقية من وصف نصي، مع خيار الاسترشاد بمقطع لحني صوتي عبر مساحة تجريبية على Hugging Face.",
+    "url": "https://huggingface.co/spaces/facebook/MusicGen",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
+  },
+  {
+    "id": 609,
+    "name": "SeaArt AI",
+    "category": "الصور والتصميم",
+    "description": "منصة لتوليد الصور والفنون بالذكاء الاصطناعي، مع أدوات لتعديل الصور واستكشاف النماذج والأنماط الفنية.",
+    "url": "https://seaart.ai/",
+    "hide_classes": [],
+    "badges": [
+      "مجاني محدود"
+    ]
   }
   ]
 }
