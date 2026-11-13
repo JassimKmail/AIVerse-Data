@@ -102,6 +102,8 @@
       "category": "البحث واكتشاف الأدوات",
       "description": "Arena AI منصة تتيح تجربة نماذج الذكاء الاصطناعي ومقارنة إجاباتها جنبًا إلى جنب، والتصويت للأفضل، مع توفير تصنيفات تساعد على معرفة أداء النماذج المختلفة.",
       "url": "https://arena.ai",
+     "isFeatured": true,
+     "discoveryDate": "2026-11-13",
       "hide_classes": [],
       "badges": ["بلا رسوم"]
     },
@@ -223,7 +225,7 @@
       "description": "خدمة محادثة ذكية مجانية وآمنة تحافظ على الخصوصية التامة دون تتبع للنماذج الشهيرة.",
       "url": "https://duck.ai",
       "hide_classes": [],
-     "isFeatured": true,
+     "isFeatured": false,
      "discoveryDate": "2026-11-13",
       "badges": ["بدون تسجيل","بلا رسوم"]
     },
