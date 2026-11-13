@@ -49,7 +49,7 @@
       "id": 3,
       "name": "Google Gemini",
       "category": "أدوات جوجل", 
-     "isFeatured": true,
+     "isFeatured": false,
      "discoveryDate": "2026-11-13",
       "description": "مساعد جوجل الذكي المتكامل مع خدمات البحث ويتميز بدعم قوي جداً للغة العربية.",
       "url": "https://gemini.google.com",
@@ -225,6 +225,8 @@
       "description": "خدمة محادثة ذكية مجانية وآمنة تحافظ على الخصوصية التامة دون تتبع للنماذج الشهيرة.",
       "url": "https://duck.ai",
       "hide_classes": [],
+     "isFeatured": true,
+     "discoveryDate": "2026-11-13",
       "badges": ["بدون تسجيل","بلا رسوم"]
     },
     {
