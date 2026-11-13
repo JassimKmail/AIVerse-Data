@@ -49,6 +49,8 @@
       "id": 3,
       "name": "Google Gemini",
       "category": "أدوات جوجل", 
+     "isFeatured": true,
+     "discoveryDate": "",
       "description": "مساعد جوجل الذكي المتكامل مع خدمات البحث ويتميز بدعم قوي جداً للغة العربية.",
       "url": "https://gemini.google.com",
       "hide_classes": [
