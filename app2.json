@@ -644,6 +644,8 @@
       "description": "نموذج ذكاء اصطناعي متطور ومفتوح المصدر يتميز بقدرات استثنائية في البرمجة والحلول المنطقية والرياضية.",
       "url": "https://www.deepseek.com",
       "hide_classes": [],
+      "isFeatured": "true",
+      "discoveryDate":"13-11-2026",
       "badges": [
         "مفتوح المصدر",
         "بلا رسوم"
