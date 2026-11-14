@@ -4914,6 +4914,8 @@
     "category": "البحث واكتشاف الأدوات",
     "description": "منصة مجانية تضم أدوات محادثة وكتابة وتوليد صور وتحويل النص إلى كلام وتفريغ الصوت، وتتيح استخدام أدواتها دون إنشاء حساب.",
     "url": "https://aifreeforever.com/ar",
+ "isFeatured": true,
+ "discoveryDate": "2026-11-15",
     "hide_classes": [],
     "badges": [
       "بدون تسجيل",
