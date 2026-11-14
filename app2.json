@@ -226,8 +226,8 @@
       "description": "خدمة محادثة ذكية مجانية وآمنة تحافظ على الخصوصية التامة دون تتبع للنماذج الشهيرة.",
       "url": "https://duck.ai",
       "hide_classes": [],
-     "isFeatured": false,
-     "discoveryDate": "2026-11-13",
+     "isFeatured": true,
+     "discoveryDate": "2026-11-14",
       "badges": ["بدون تسجيل","بلا رسوم"]
     },
     {
