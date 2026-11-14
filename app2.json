@@ -268,7 +268,7 @@
     {
       "id": 22,
       "name": "GitHub Copilot",
-      "category": "مستودعات Github",
+      "category": "مستودعات GitHub",
       "description": "المساعد البرمجي الأشهر للمطورين لإكمال الأكواد واقتراح الدوال البرمجية الذكية.",
       "url": "https://github.com/features/copilot",
       "hide_classes": [],
